@@ -1,0 +1,121 @@
+{
+  "final_choice": "original_weights_no_edits",
+  "active_edits": [],
+  "J_validation": {
+    "overall": {
+      "n": 640,
+      "original_successes": 379,
+      "edited_successes": 369,
+      "gain_pp": -1.5625,
+      "paired_se_pp": 1.1259206587554056,
+      "wrong_to_right": 21,
+      "right_to_wrong": 31
+    },
+    "by_ptype": {
+      "environment": {
+        "n": 128,
+        "original_successes": 75,
+        "edited_successes": 69,
+        "gain_pp": -4.6875,
+        "paired_se_pp": 3.3014877864881926,
+        "wrong_to_right": 6,
+        "right_to_wrong": 12
+      },
+      "object": {
+        "n": 128,
+        "original_successes": 109,
+        "edited_successes": 110,
+        "gain_pp": 0.78125,
+        "paired_se_pp": 2.8270552393399617,
+        "wrong_to_right": 7,
+        "right_to_wrong": 6
+      },
+      "position": {
+        "n": 128,
+        "original_successes": 34,
+        "edited_successes": 32,
+        "gain_pp": -1.5625,
+        "paired_se_pp": 3.134213779208356,
+        "wrong_to_right": 7,
+        "right_to_wrong": 9
+      },
+      "semantic": {
+        "n": 128,
+        "original_successes": 128,
+        "edited_successes": 126,
+        "gain_pp": -1.5625,
+        "paired_se_pp": 1.1004959288293976,
+        "wrong_to_right": 0,
+        "right_to_wrong": 2
+      },
+      "task": {
+        "n": 128,
+        "original_successes": 33,
+        "edited_successes": 32,
+        "gain_pp": -0.78125,
+        "paired_se_pp": 1.356711658065162,
+        "wrong_to_right": 1,
+        "right_to_wrong": 2
+      }
+    }
+  },
+  "D_validation": {
+    "overall": {
+      "n": 640,
+      "original_successes": 379,
+      "edited_successes": 382,
+      "gain_pp": 0.46875,
+      "paired_se_pp": 0.9509942687925163,
+      "wrong_to_right": 20,
+      "right_to_wrong": 17
+    },
+    "by_ptype": {
+      "environment": {
+        "n": 128,
+        "original_successes": 80,
+        "edited_successes": 81,
+        "gain_pp": 0.78125,
+        "paired_se_pp": 2.8270552393399617,
+        "wrong_to_right": 7,
+        "right_to_wrong": 6
+      },
+      "object": {
+        "n": 128,
+        "original_successes": 109,
+        "edited_successes": 111,
+        "gain_pp": 1.5625,
+        "paired_se_pp": 2.476358441722394,
+        "wrong_to_right": 6,
+        "right_to_wrong": 4
+      },
+      "position": {
+        "n": 128,
+        "original_successes": 35,
+        "edited_successes": 33,
+        "gain_pp": -1.5625,
+        "paired_se_pp": 1.5625,
+        "wrong_to_right": 1,
+        "right_to_wrong": 3
+      },
+      "semantic": {
+        "n": 128,
+        "original_successes": 122,
+        "edited_successes": 124,
+        "gain_pp": 1.5625,
+        "paired_se_pp": 1.5625,
+        "wrong_to_right": 3,
+        "right_to_wrong": 1
+      },
+      "task": {
+        "n": 128,
+        "original_successes": 33,
+        "edited_successes": 33,
+        "gain_pp": 0.0,
+        "paired_se_pp": 1.9211831984195997,
+        "wrong_to_right": 3,
+        "right_to_wrong": 3
+      }
+    }
+  },
+  "conclusion": "No tested edit demonstrated a reliable independent robustness gain. All edits removed."
+}

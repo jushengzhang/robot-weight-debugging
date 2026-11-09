@@ -1,0 +1,13 @@
+{
+  "kind": "hybrid_oblique_suffix_gate",
+  "basis_file": "masked_prefix_projection.pt",
+  "rank": 192,
+  "dose": 1.0,
+  "threshold": 0.5,
+  "gain": 128.0,
+  "strength": 6.0,
+  "experts": [
+    "action",
+    "video"
+  ]
+}

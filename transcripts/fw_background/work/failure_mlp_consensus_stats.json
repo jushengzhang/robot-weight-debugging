@@ -1,0 +1,542 @@
+[
+  {
+    "layer": 0,
+    "direction": 0,
+    "overlap": 0.9302481412887573,
+    "failure_control_ratio": 3.8516985779173742,
+    "failure_fraction": 0.0526246577501297,
+    "failure_rms": 1.5962059694817825,
+    "control_rms": 0.8133224945896529
+  },
+  {
+    "layer": 0,
+    "direction": 1,
+    "overlap": 0.8431861400604248,
+    "failure_control_ratio": 2.237488722496394,
+    "failure_fraction": 0.03029344603419304,
+    "failure_rms": 1.2110682263106802,
+    "control_rms": 0.8096329649827478
+  },
+  {
+    "layer": 1,
+    "direction": 0,
+    "overlap": 0.9323652982711792,
+    "failure_control_ratio": 11.555694535369746,
+    "failure_fraction": 0.10274570435285568,
+    "failure_rms": 0.5060197141599023,
+    "control_rms": 0.14885705081057835
+  },
+  {
+    "layer": 1,
+    "direction": 1,
+    "overlap": 0.6585431098937988,
+    "failure_control_ratio": 3.673617021174265,
+    "failure_fraction": 0.02283540554344654,
+    "failure_rms": 0.23855579693906215,
+    "control_rms": 0.12446379393724558
+  },
+  {
+    "layer": 2,
+    "direction": 0,
+    "overlap": 0.8433560132980347,
+    "failure_control_ratio": 14.430859342498435,
+    "failure_fraction": 0.0574025958776474,
+    "failure_rms": 0.2319242455455717,
+    "control_rms": 0.06105202251092415
+  },
+  {
+    "layer": 2,
+    "direction": 1,
+    "overlap": 0.7376259565353394,
+    "failure_control_ratio": 6.657493979834718,
+    "failure_fraction": 0.04278977960348129,
+    "failure_rms": 0.20023980925497856,
+    "control_rms": 0.07760595215859854
+  },
+  {
+    "layer": 3,
+    "direction": 0,
+    "overlap": 0.783456563949585,
+    "failure_control_ratio": 48.51568185776067,
+    "failure_fraction": 0.05306001007556915,
+    "failure_rms": 0.19936314193296473,
+    "control_rms": 0.028622251909227785
+  },
+  {
+    "layer": 3,
+    "direction": 1,
+    "overlap": 0.6623539328575134,
+    "failure_control_ratio": 4.311542426139425,
+    "failure_fraction": 0.014090510085225105,
+    "failure_rms": 0.10273645112438283,
+    "control_rms": 0.04947755470076107
+  },
+  {
+    "layer": 4,
+    "direction": 0,
+    "overlap": 0.7640509605407715,
+    "failure_control_ratio": 58.197864564977614,
+    "failure_fraction": 0.06734795868396759,
+    "failure_rms": 0.1886873598240385,
+    "control_rms": 0.024733711056042672
+  },
+  {
+    "layer": 4,
+    "direction": 1,
+    "overlap": 0.5298299789428711,
+    "failure_control_ratio": 10.152798214835231,
+    "failure_fraction": 0.020234396681189537,
+    "failure_rms": 0.10342504478936106,
+    "control_rms": 0.03245882842549042
+  },
+  {
+    "layer": 5,
+    "direction": 0,
+    "overlap": 0.7351324558258057,
+    "failure_control_ratio": 69.12803788359521,
+    "failure_fraction": 0.06027274578809738,
+    "failure_rms": 0.2492185837795935,
+    "control_rms": 0.029974593952217493
+  },
+  {
+    "layer": 5,
+    "direction": 1,
+    "overlap": 0.4474122226238251,
+    "failure_control_ratio": 6.153885657165682,
+    "failure_fraction": 0.011685685254633427,
+    "failure_rms": 0.10973546964671639,
+    "control_rms": 0.044235640040660704
+  },
+  {
+    "layer": 6,
+    "direction": 0,
+    "overlap": 0.7674126625061035,
+    "failure_control_ratio": 81.91774066173332,
+    "failure_fraction": 0.052657075226306915,
+    "failure_rms": 0.2773919802355253,
+    "control_rms": 0.03064819611856165
+  },
+  {
+    "layer": 6,
+    "direction": 1,
+    "overlap": 0.4832095503807068,
+    "failure_control_ratio": 9.188738123913884,
+    "failure_fraction": 0.013844775035977364,
+    "failure_rms": 0.14223565161374221,
+    "control_rms": 0.046922433715330475
+  },
+  {
+    "layer": 7,
+    "direction": 0,
+    "overlap": 0.6958209276199341,
+    "failure_control_ratio": 174.98150694060521,
+    "failure_fraction": 0.055956706404685974,
+    "failure_rms": 0.2458589432733489,
+    "control_rms": 0.018586171255068833
+  },
+  {
+    "layer": 7,
+    "direction": 1,
+    "overlap": 0.2329489141702652,
+    "failure_control_ratio": 13.405653617697812,
+    "failure_fraction": 0.009360508061945438,
+    "failure_rms": 0.10055638314279276,
+    "control_rms": 0.0274641174212362
+  },
+  {
+    "layer": 8,
+    "direction": 0,
+    "overlap": 0.6752277612686157,
+    "failure_control_ratio": 196.98408751414445,
+    "failure_fraction": 0.0458344891667366,
+    "failure_rms": 0.24394826558924024,
+    "control_rms": 0.01738129626583528
+  },
+  {
+    "layer": 8,
+    "direction": 1,
+    "overlap": 0.2772581875324249,
+    "failure_control_ratio": 27.200906411698053,
+    "failure_fraction": 0.006501802708953619,
+    "failure_rms": 0.09187945750023989,
+    "control_rms": 0.017616788246119938
+  },
+  {
+    "layer": 9,
+    "direction": 0,
+    "overlap": 0.6929304599761963,
+    "failure_control_ratio": 153.72416229965023,
+    "failure_fraction": 0.04524144157767296,
+    "failure_rms": 0.3854186620746543,
+    "control_rms": 0.03108577304563142
+  },
+  {
+    "layer": 9,
+    "direction": 1,
+    "overlap": 0.39956653118133545,
+    "failure_control_ratio": 20.05556482403119,
+    "failure_fraction": 0.009351296350359917,
+    "failure_rms": 0.1752267569026747,
+    "control_rms": 0.03912757876443488
+  },
+  {
+    "layer": 10,
+    "direction": 0,
+    "overlap": 0.6596028804779053,
+    "failure_control_ratio": 208.1123793363883,
+    "failure_fraction": 0.04477022960782051,
+    "failure_rms": 0.5605701614487496,
+    "control_rms": 0.038858051520243714
+  },
+  {
+    "layer": 10,
+    "direction": 1,
+    "overlap": 0.32264864444732666,
+    "failure_control_ratio": 19.009322789235263,
+    "failure_fraction": 0.007548798806965351,
+    "failure_rms": 0.230183521864046,
+    "control_rms": 0.052794770694454256
+  },
+  {
+    "layer": 11,
+    "direction": 0,
+    "overlap": 0.7306632399559021,
+    "failure_control_ratio": 258.8856777127781,
+    "failure_fraction": 0.04432925954461098,
+    "failure_rms": 0.8723840095895445,
+    "control_rms": 0.05421927227158985
+  },
+  {
+    "layer": 11,
+    "direction": 1,
+    "overlap": 0.2840332090854645,
+    "failure_control_ratio": 29.238344615515047,
+    "failure_fraction": 0.006566605065017939,
+    "failure_rms": 0.3357630542885893,
+    "control_rms": 0.06209498357183446
+  },
+  {
+    "layer": 12,
+    "direction": 0,
+    "overlap": 0.6795511245727539,
+    "failure_control_ratio": 386.56374144724464,
+    "failure_fraction": 0.035436540842056274,
+    "failure_rms": 1.0353632881840495,
+    "control_rms": 0.05266016356628947
+  },
+  {
+    "layer": 12,
+    "direction": 1,
+    "overlap": 0.2806156873703003,
+    "failure_control_ratio": 34.32578226823492,
+    "failure_fraction": 0.007510693743824959,
+    "failure_rms": 0.47665827992481646,
+    "control_rms": 0.08135737353076078
+  },
+  {
+    "layer": 13,
+    "direction": 0,
+    "overlap": 0.6886848211288452,
+    "failure_control_ratio": 235.3408457004635,
+    "failure_fraction": 0.02996019460260868,
+    "failure_rms": 1.2063223723210224,
+    "control_rms": 0.07863478929088141
+  },
+  {
+    "layer": 13,
+    "direction": 1,
+    "overlap": 0.19682563841342926,
+    "failure_control_ratio": 24.245335371990386,
+    "failure_fraction": 0.005307444836944342,
+    "failure_rms": 0.5077311524011416,
+    "control_rms": 0.1031144935139818
+  },
+  {
+    "layer": 14,
+    "direction": 0,
+    "overlap": 0.6180629134178162,
+    "failure_control_ratio": 304.6713949293615,
+    "failure_fraction": 0.025009823963046074,
+    "failure_rms": 1.2591776103905963,
+    "control_rms": 0.07213917184803371
+  },
+  {
+    "layer": 14,
+    "direction": 1,
+    "overlap": 0.299566388130188,
+    "failure_control_ratio": 24.04843344792961,
+    "failure_fraction": 0.007014111150056124,
+    "failure_rms": 0.6668343978720154,
+    "control_rms": 0.13597986284703809
+  },
+  {
+    "layer": 15,
+    "direction": 0,
+    "overlap": 0.6266863942146301,
+    "failure_control_ratio": 235.97115509067177,
+    "failure_fraction": 0.02471856400370598,
+    "failure_rms": 1.4469176580678376,
+    "control_rms": 0.0941920735423317
+  },
+  {
+    "layer": 15,
+    "direction": 1,
+    "overlap": 0.3460632860660553,
+    "failure_control_ratio": 39.75608257650919,
+    "failure_fraction": 0.007331958971917629,
+    "failure_rms": 0.7880290222414825,
+    "control_rms": 0.12497997123474971
+  },
+  {
+    "layer": 16,
+    "direction": 0,
+    "overlap": 0.6764925122261047,
+    "failure_control_ratio": 209.1995011670698,
+    "failure_fraction": 0.042958538979291916,
+    "failure_rms": 1.673402035405966,
+    "control_rms": 0.11569643327112322
+  },
+  {
+    "layer": 16,
+    "direction": 1,
+    "overlap": 0.24378806352615356,
+    "failure_control_ratio": 34.466034857217096,
+    "failure_fraction": 0.008687380701303482,
+    "failure_rms": 0.7525233497038599,
+    "control_rms": 0.1281811957285403
+  },
+  {
+    "layer": 17,
+    "direction": 0,
+    "overlap": 0.6579082012176514,
+    "failure_control_ratio": 318.2473479122498,
+    "failure_fraction": 0.042225319892168045,
+    "failure_rms": 1.7367606037431744,
+    "control_rms": 0.09735484340151428
+  },
+  {
+    "layer": 17,
+    "direction": 1,
+    "overlap": 0.3360268771648407,
+    "failure_control_ratio": 22.679809975008837,
+    "failure_fraction": 0.008395044133067131,
+    "failure_rms": 0.7743993231006887,
+    "control_rms": 0.1626092545780232
+  },
+  {
+    "layer": 18,
+    "direction": 0,
+    "overlap": 0.6904348731040955,
+    "failure_control_ratio": 350.2196724130264,
+    "failure_fraction": 0.06745168566703796,
+    "failure_rms": 1.8167651406409604,
+    "control_rms": 0.09707972099101132
+  },
+  {
+    "layer": 18,
+    "direction": 1,
+    "overlap": 0.26873651146888733,
+    "failure_control_ratio": 39.165800269526606,
+    "failure_fraction": 0.013826150447130203,
+    "failure_rms": 0.8225323749536138,
+    "control_rms": 0.13143151028000694
+  },
+  {
+    "layer": 19,
+    "direction": 0,
+    "overlap": 0.7382367849349976,
+    "failure_control_ratio": 234.20608588272054,
+    "failure_fraction": 0.09097448736429214,
+    "failure_rms": 1.900853507428087,
+    "control_rms": 0.12420799760646209
+  },
+  {
+    "layer": 19,
+    "direction": 1,
+    "overlap": 0.4036526381969452,
+    "failure_control_ratio": 35.68170427366942,
+    "failure_fraction": 0.019330324605107307,
+    "failure_rms": 0.876210397323327,
+    "control_rms": 0.14668496702727293
+  },
+  {
+    "layer": 20,
+    "direction": 0,
+    "overlap": 0.6843170523643494,
+    "failure_control_ratio": 247.3555089590163,
+    "failure_fraction": 0.06745702773332596,
+    "failure_rms": 1.7300998819877575,
+    "control_rms": 0.11000448265885081
+  },
+  {
+    "layer": 20,
+    "direction": 1,
+    "overlap": 0.32659098505973816,
+    "failure_control_ratio": 43.608917821292906,
+    "failure_fraction": 0.016443751752376556,
+    "failure_rms": 0.8541969704873701,
+    "control_rms": 0.1293511731901702
+  },
+  {
+    "layer": 21,
+    "direction": 0,
+    "overlap": 0.645605206489563,
+    "failure_control_ratio": 288.62304509201823,
+    "failure_fraction": 0.06421900540590286,
+    "failure_rms": 1.606508758126875,
+    "control_rms": 0.09456220604692646
+  },
+  {
+    "layer": 21,
+    "direction": 1,
+    "overlap": 0.39600083231925964,
+    "failure_control_ratio": 47.71568353074404,
+    "failure_fraction": 0.01806415617465973,
+    "failure_rms": 0.8520403230129121,
+    "control_rms": 0.12334727901419539
+  },
+  {
+    "layer": 22,
+    "direction": 0,
+    "overlap": 0.6532309651374817,
+    "failure_control_ratio": 227.60034253879144,
+    "failure_fraction": 0.07142258435487747,
+    "failure_rms": 1.6906940467259,
+    "control_rms": 0.11206721200839144
+  },
+  {
+    "layer": 22,
+    "direction": 1,
+    "overlap": 0.3130854666233063,
+    "failure_control_ratio": 31.222846104870154,
+    "failure_fraction": 0.0216115340590477,
+    "failure_rms": 0.9300151856525966,
+    "control_rms": 0.1664385009908138
+  },
+  {
+    "layer": 23,
+    "direction": 0,
+    "overlap": 0.6214677095413208,
+    "failure_control_ratio": 244.8221937279687,
+    "failure_fraction": 0.09529684484004974,
+    "failure_rms": 2.03443928278605,
+    "control_rms": 0.13002274797932106
+  },
+  {
+    "layer": 23,
+    "direction": 1,
+    "overlap": 0.2244296669960022,
+    "failure_control_ratio": 42.287332416152786,
+    "failure_fraction": 0.019721683114767075,
+    "failure_rms": 0.9255022360858665,
+    "control_rms": 0.14232209484766092
+  },
+  {
+    "layer": 24,
+    "direction": 0,
+    "overlap": 0.5952629446983337,
+    "failure_control_ratio": 249.23613519716173,
+    "failure_fraction": 0.08124661445617676,
+    "failure_rms": 1.8521699190729377,
+    "control_rms": 0.11732088286507665
+  },
+  {
+    "layer": 24,
+    "direction": 1,
+    "overlap": 0.3243907392024994,
+    "failure_control_ratio": 37.1436877833931,
+    "failure_fraction": 0.025169633328914642,
+    "failure_rms": 1.0309002022935723,
+    "control_rms": 0.16915082284081392
+  },
+  {
+    "layer": 25,
+    "direction": 0,
+    "overlap": 0.7245746850967407,
+    "failure_control_ratio": 168.33260838796198,
+    "failure_fraction": 0.06975440680980682,
+    "failure_rms": 1.9314545482962833,
+    "control_rms": 0.14886766143859517
+  },
+  {
+    "layer": 25,
+    "direction": 1,
+    "overlap": 0.2738666236400604,
+    "failure_control_ratio": 24.937945243755582,
+    "failure_fraction": 0.014096777886152267,
+    "failure_rms": 0.8682776120466431,
+    "control_rms": 0.17387144749020023
+  },
+  {
+    "layer": 26,
+    "direction": 0,
+    "overlap": 0.6279938220977783,
+    "failure_control_ratio": 200.7148144854301,
+    "failure_fraction": 0.0670814961194992,
+    "failure_rms": 2.12877891229695,
+    "control_rms": 0.15025912146007325
+  },
+  {
+    "layer": 26,
+    "direction": 1,
+    "overlap": 0.3124168813228607,
+    "failure_control_ratio": 30.607046311827585,
+    "failure_fraction": 0.014326526783406734,
+    "failure_rms": 0.9837837562925351,
+    "control_rms": 0.17782341120785236
+  },
+  {
+    "layer": 27,
+    "direction": 0,
+    "overlap": 0.6541725993156433,
+    "failure_control_ratio": 124.04821195196448,
+    "failure_fraction": 0.05007429048418999,
+    "failure_rms": 1.8762754552691379,
+    "control_rms": 0.16846176361955617
+  },
+  {
+    "layer": 27,
+    "direction": 1,
+    "overlap": 0.24858519434928894,
+    "failure_control_ratio": 19.174352724848678,
+    "failure_fraction": 0.007781554479151964,
+    "failure_rms": 0.7396433944671251,
+    "control_rms": 0.1689125922385953
+  },
+  {
+    "layer": 28,
+    "direction": 0,
+    "overlap": 0.5589444637298584,
+    "failure_control_ratio": 59.46062875372155,
+    "failure_fraction": 0.03208025172352791,
+    "failure_rms": 1.2077957744353287,
+    "control_rms": 0.15663137384812162
+  },
+  {
+    "layer": 28,
+    "direction": 1,
+    "overlap": 0.31509289145469666,
+    "failure_control_ratio": 16.893502103675196,
+    "failure_fraction": 0.0073994300328195095,
+    "failure_rms": 0.5800610934753102,
+    "control_rms": 0.14112822905572298
+  },
+  {
+    "layer": 29,
+    "direction": 0,
+    "overlap": 0.7198331356048584,
+    "failure_control_ratio": 14.975842019905297,
+    "failure_fraction": 0.04745294153690338,
+    "failure_rms": 1.4516623734689171,
+    "control_rms": 0.37511980606622214
+  },
+  {
+    "layer": 29,
+    "direction": 1,
+    "overlap": 0.5017855167388916,
+    "failure_control_ratio": 3.4318181241134633,
+    "failure_fraction": 0.021769754588603973,
+    "failure_rms": 0.9832428673709306,
+    "control_rms": 0.5307605957468571
+  }
+]

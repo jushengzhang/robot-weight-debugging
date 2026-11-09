@@ -1,0 +1,62 @@
+{
+  "Background Textures": {
+    "n": 128,
+    "original": 122,
+    "edited": 121,
+    "gain_pp": -0.781,
+    "se_pp": 0.781,
+    "rescues": 0,
+    "regressions": 1,
+    "unpaired": 0
+  },
+  "Camera Viewpoints": {
+    "n": 128,
+    "original": 101,
+    "edited": 101,
+    "gain_pp": 0.0,
+    "se_pp": 0.0,
+    "rescues": 0,
+    "regressions": 0,
+    "unpaired": 0
+  },
+  "Light Conditions": {
+    "n": 256,
+    "original": 242,
+    "edited": 242,
+    "gain_pp": 0.0,
+    "se_pp": 0.959,
+    "rescues": 3,
+    "regressions": 3,
+    "unpaired": 0
+  },
+  "Objects Layout": {
+    "n": 128,
+    "original": 102,
+    "edited": 102,
+    "gain_pp": 0.0,
+    "se_pp": 0.0,
+    "rescues": 0,
+    "regressions": 0,
+    "unpaired": 0
+  },
+  "Robot Initial States": {
+    "n": 128,
+    "original": 100,
+    "edited": 100,
+    "gain_pp": 0.0,
+    "se_pp": 0.0,
+    "rescues": 0,
+    "regressions": 0,
+    "unpaired": 0
+  },
+  "Sensor Noise": {
+    "n": 128,
+    "original": 109,
+    "edited": 108,
+    "gain_pp": -0.781,
+    "se_pp": 0.781,
+    "rescues": 0,
+    "regressions": 1,
+    "unpaired": 0
+  }
+}

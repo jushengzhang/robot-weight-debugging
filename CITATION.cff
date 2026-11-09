@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or these artifacts, please cite the paper."
+title: "Can LLMs Debug Robots by Editing Their Weights?"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Jusheng
+    affiliation: Stanford University
+    website: "https://jushengzhang.github.io/"
+  - family-names: Wang
+    given-names: Keze
+    affiliation: X-Era AI
+  - family-names: Lin
+    given-names: Liang
+    affiliation: X-Era AI
+repository-code: "https://github.com/jushengzhang/robot-weight-debugging"
+url: "https://arxiv.org/abs/2611.09376"
+date-released: 2026-11-09
+preferred-citation:
+  type: article
+  title: "Can LLMs Debug Robots by Editing Their Weights?"
+  authors:
+    - family-names: Zhang
+      given-names: Jusheng
+    - family-names: Wang
+      given-names: Keze
+    - family-names: Lin
+      given-names: Liang
+  year: 2026
+  journal: arXiv preprint arXiv:2611.09376
+  doi: "10.48550/arXiv.2611.09376"
+  url: "https://arxiv.org/abs/2611.09376"

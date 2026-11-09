@@ -1,0 +1,871 @@
+{
+  "tensor": "paligemma_with_expert.paligemma.model.language_model.embed_tokens.weight",
+  "shape": [
+    257152,
+    2048
+  ],
+  "source_dtype": "BF16",
+  "rows": [
+    {
+      "row": 1201,
+      "piece": "round",
+      "destinations": [
+        77093
+      ],
+      "destination_pieces": [
+        "bowl"
+      ],
+      "alpha": 0.5,
+      "cosine_original_to_target": 0.9455216526985168,
+      "cosine_edited_to_target": 0.9894424080848694
+    },
+    {
+      "row": 2851,
+      "piece": "position",
+      "destinations": [
+        1065
+      ],
+      "destination_pieces": [
+        "put"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8369635343551636,
+      "cosine_edited_to_target": 0.989945650100708
+    },
+    {
+      "row": 3425,
+      "piece": "\u2581cook",
+      "destinations": [
+        37932
+      ],
+      "destination_pieces": [
+        "\u2581stove"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9000842571258545,
+      "cosine_edited_to_target": 0.994057297706604
+    },
+    {
+      "row": 3668,
+      "piece": "\u2581position",
+      "destinations": [
+        2507
+      ],
+      "destination_pieces": [
+        "\u2581put"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.877511739730835,
+      "cosine_edited_to_target": 0.9920879602432251
+    },
+    {
+      "row": 4871,
+      "piece": "\u2581higher",
+      "destinations": [
+        2267
+      ],
+      "destination_pieces": [
+        "\u2581top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8746378421783447,
+      "cosine_edited_to_target": 0.9914357662200928
+    },
+    {
+      "row": 5094,
+      "piece": "\u2581round",
+      "destinations": [
+        14581
+      ],
+      "destination_pieces": [
+        "\u2581bowl"
+      ],
+      "alpha": 0.5,
+      "cosine_original_to_target": 0.9091549515724182,
+      "cosine_edited_to_target": 0.9782766103744507
+    },
+    {
+      "row": 5880,
+      "piece": "framework",
+      "destinations": [
+        44577
+      ],
+      "destination_pieces": [
+        "rack"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9147897362709045,
+      "cosine_edited_to_target": 0.995191216468811
+    },
+    {
+      "row": 6985,
+      "piece": "\u2581flat",
+      "destinations": [
+        8811
+      ],
+      "destination_pieces": [
+        "\u2581plate"
+      ],
+      "alpha": 0.5,
+      "cosine_original_to_target": 0.8761683106422424,
+      "cosine_edited_to_target": 0.9674319624900818
+    },
+    {
+      "row": 7233,
+      "piece": "\u2581central",
+      "destinations": [
+        7185
+      ],
+      "destination_pieces": [
+        "\u2581middle"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9114996790885925,
+      "cosine_edited_to_target": 0.9944659471511841
+    },
+    {
+      "row": 7825,
+      "piece": "\u2581pull",
+      "destinations": [
+        2174
+      ],
+      "destination_pieces": [
+        "\u2581open"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8595342636108398,
+      "cosine_edited_to_target": 0.9904429316520691
+    },
+    {
+      "row": 8151,
+      "piece": "\u2581spread",
+      "destinations": [
+        9450,
+        13624,
+        10605
+      ],
+      "destination_pieces": [
+        "\u2581cream",
+        "\u2581cheese",
+        "\u2581butter"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9085907936096191,
+      "cosine_edited_to_target": 0.9939119815826416
+    },
+    {
+      "row": 8776,
+      "piece": "\u2581upper",
+      "destinations": [
+        2267
+      ],
+      "destination_pieces": [
+        "\u2581top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8860315680503845,
+      "cosine_edited_to_target": 0.9913238883018494
+    },
+    {
+      "row": 8831,
+      "piece": "insert",
+      "destinations": [
+        1065
+      ],
+      "destination_pieces": [
+        "put"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8485067486763,
+      "cosine_edited_to_target": 0.9902340173721313
+    },
+    {
+      "row": 9393,
+      "piece": "\u2581highest",
+      "destinations": [
+        2267
+      ],
+      "destination_pieces": [
+        "\u2581top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9009590148925781,
+      "cosine_edited_to_target": 0.9922791719436646
+    },
+    {
+      "row": 9499,
+      "piece": "\u2581slide",
+      "destinations": [
+        8607
+      ],
+      "destination_pieces": [
+        "\u2581push"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8977541327476501,
+      "cosine_edited_to_target": 0.9924423694610596
+    },
+    {
+      "row": 10548,
+      "piece": "\u2581secure",
+      "destinations": [
+        3387
+      ],
+      "destination_pieces": [
+        "\u2581close"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8854315280914307,
+      "cosine_edited_to_target": 0.9916666746139526
+    },
+    {
+      "row": 14455,
+      "piece": "\u2581insert",
+      "destinations": [
+        2507
+      ],
+      "destination_pieces": [
+        "\u2581put"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8688598871231079,
+      "cosine_edited_to_target": 0.9893088936805725
+    },
+    {
+      "row": 15087,
+      "piece": "\u2581framework",
+      "destinations": [
+        23409
+      ],
+      "destination_pieces": [
+        "\u2581rack"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9394107460975647,
+      "cosine_edited_to_target": 0.9965007901191711
+    },
+    {
+      "row": 15476,
+      "piece": "\u2581grab",
+      "destinations": [
+        4788
+      ],
+      "destination_pieces": [
+        "\u2581pick"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8878921866416931,
+      "cosine_edited_to_target": 0.9918909668922424
+    },
+    {
+      "row": 15694,
+      "piece": "\u2581deposit",
+      "destinations": [
+        2507
+      ],
+      "destination_pieces": [
+        "\u2581put"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8717873096466064,
+      "cosine_edited_to_target": 0.9892579913139343
+    },
+    {
+      "row": 15983,
+      "piece": "\u2581cooking",
+      "destinations": [
+        37932
+      ],
+      "destination_pieces": [
+        "\u2581stove"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9328036308288574,
+      "cosine_edited_to_target": 0.9960008859634399
+    },
+    {
+      "row": 16036,
+      "piece": "\u2581drinking",
+      "destinations": [
+        24464
+      ],
+      "destination_pieces": [
+        "\u2581mug"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9446242451667786,
+      "cosine_edited_to_target": 0.9973822236061096
+    },
+    {
+      "row": 19098,
+      "piece": "flat",
+      "destinations": [
+        3714
+      ],
+      "destination_pieces": [
+        "plate"
+      ],
+      "alpha": 0.5,
+      "cosine_original_to_target": 0.9262534379959106,
+      "cosine_edited_to_target": 0.9803275465965271
+    },
+    {
+      "row": 23801,
+      "piece": "pull",
+      "destinations": [
+        4141
+      ],
+      "destination_pieces": [
+        "open"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8969289064407349,
+      "cosine_edited_to_target": 0.9926042556762695
+    },
+    {
+      "row": 23832,
+      "piece": "upper",
+      "destinations": [
+        2234
+      ],
+      "destination_pieces": [
+        "top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8930739164352417,
+      "cosine_edited_to_target": 0.990779459476471
+    },
+    {
+      "row": 23865,
+      "piece": "slide",
+      "destinations": [
+        4258
+      ],
+      "destination_pieces": [
+        "push"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8554767370223999,
+      "cosine_edited_to_target": 0.9879727363586426
+    },
+    {
+      "row": 25373,
+      "piece": "\u2581mixing",
+      "destinations": [
+        14581
+      ],
+      "destination_pieces": [
+        "\u2581bowl"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9234752058982849,
+      "cosine_edited_to_target": 0.9937264919281006
+    },
+    {
+      "row": 26836,
+      "piece": "\u2581rounded",
+      "destinations": [
+        14581
+      ],
+      "destination_pieces": [
+        "\u2581bowl"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9294452667236328,
+      "cosine_edited_to_target": 0.9945282340049744
+    },
+    {
+      "row": 30506,
+      "piece": "\u2581grasp",
+      "destinations": [
+        4788
+      ],
+      "destination_pieces": [
+        "\u2581pick"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8884789347648621,
+      "cosine_edited_to_target": 0.9897749423980713
+    },
+    {
+      "row": 31062,
+      "piece": "\u2581dairy",
+      "destinations": [
+        13624,
+        9512,
+        10605
+      ],
+      "destination_pieces": [
+        "\u2581cheese",
+        "\u2581milk",
+        "\u2581butter"
+      ],
+      "alpha": 0.5,
+      "cosine_original_to_target": 0.9603610038757324,
+      "cosine_edited_to_target": 0.9889756441116333
+    },
+    {
+      "row": 31725,
+      "piece": "\u2581basin",
+      "destinations": [
+        14581
+      ],
+      "destination_pieces": [
+        "\u2581bowl"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9287225008010864,
+      "cosine_edited_to_target": 0.9999999403953552
+    },
+    {
+      "row": 32006,
+      "piece": "central",
+      "destinations": [
+        19161
+      ],
+      "destination_pieces": [
+        "middle"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9460112452507019,
+      "cosine_edited_to_target": 0.996214747428894
+    },
+    {
+      "row": 32518,
+      "piece": "\u2581elevated",
+      "destinations": [
+        2267
+      ],
+      "destination_pieces": [
+        "\u2581top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9029685854911804,
+      "cosine_edited_to_target": 0.9905657172203064
+    },
+    {
+      "row": 33182,
+      "piece": "secure",
+      "destinations": [
+        3446
+      ],
+      "destination_pieces": [
+        "close"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8616197109222412,
+      "cosine_edited_to_target": 0.9882976412773132
+    },
+    {
+      "row": 33773,
+      "piece": "\u2581activate",
+      "destinations": [
+        2894
+      ],
+      "destination_pieces": [
+        "\u2581turn"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9085309505462646,
+      "cosine_edited_to_target": 0.9918308258056641
+    },
+    {
+      "row": 37806,
+      "piece": "activate",
+      "destinations": [
+        15508
+      ],
+      "destination_pieces": [
+        "turn"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9353930354118347,
+      "cosine_edited_to_target": 0.994181215763092
+    },
+    {
+      "row": 42226,
+      "piece": "\u2581grape",
+      "destinations": [
+        10058
+      ],
+      "destination_pieces": [
+        "\u2581wine"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9459170699119568,
+      "cosine_edited_to_target": 0.9999999403953552
+    },
+    {
+      "row": 46405,
+      "piece": "spread",
+      "destinations": [
+        35081,
+        74450,
+        54541
+      ],
+      "destination_pieces": [
+        "cream",
+        "cheese",
+        "butter"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9681525826454163,
+      "cosine_edited_to_target": 0.9981984496116638
+    },
+    {
+      "row": 48841,
+      "piece": "rounded",
+      "destinations": [
+        77093
+      ],
+      "destination_pieces": [
+        "bowl"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9437753558158875,
+      "cosine_edited_to_target": 0.9972633123397827
+    },
+    {
+      "row": 50161,
+      "piece": "\u2581grapes",
+      "destinations": [
+        10058
+      ],
+      "destination_pieces": [
+        "\u2581wine"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9306897521018982,
+      "cosine_edited_to_target": 0.9999999403953552
+    },
+    {
+      "row": 57321,
+      "piece": "\u2581citrus",
+      "destinations": [
+        10436
+      ],
+      "destination_pieces": [
+        "\u2581orange"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9430454969406128,
+      "cosine_edited_to_target": 0.9953786134719849
+    },
+    {
+      "row": 57655,
+      "piece": "\u2581broth",
+      "destinations": [
+        21078
+      ],
+      "destination_pieces": [
+        "\u2581soup"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.94673091173172,
+      "cosine_edited_to_target": 0.995746910572052
+    },
+    {
+      "row": 58983,
+      "piece": "deposit",
+      "destinations": [
+        1065
+      ],
+      "destination_pieces": [
+        "put"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8577138185501099,
+      "cosine_edited_to_target": 0.9865239262580872
+    },
+    {
+      "row": 59031,
+      "piece": "grab",
+      "destinations": [
+        18075
+      ],
+      "destination_pieces": [
+        "pick"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8843443393707275,
+      "cosine_edited_to_target": 0.9908519983291626
+    },
+    {
+      "row": 65931,
+      "piece": "\u2581cooker",
+      "destinations": [
+        37932
+      ],
+      "destination_pieces": [
+        "\u2581stove"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9273515343666077,
+      "cosine_edited_to_target": 1.0
+    },
+    {
+      "row": 69707,
+      "piece": "highest",
+      "destinations": [
+        2234
+      ],
+      "destination_pieces": [
+        "top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9078137874603271,
+      "cosine_edited_to_target": 0.9913862347602844
+    },
+    {
+      "row": 70624,
+      "piece": "\u2581cultured",
+      "destinations": [
+        13624
+      ],
+      "destination_pieces": [
+        "\u2581cheese"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9389230608940125,
+      "cosine_edited_to_target": 0.9936624765396118
+    },
+    {
+      "row": 73111,
+      "piece": "higher",
+      "destinations": [
+        2234
+      ],
+      "destination_pieces": [
+        "top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9102441668510437,
+      "cosine_edited_to_target": 0.9904369115829468
+    },
+    {
+      "row": 80792,
+      "piece": "\u2581forefront",
+      "destinations": [
+        4059
+      ],
+      "destination_pieces": [
+        "\u2581front"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9063571095466614,
+      "cosine_edited_to_target": 0.9916468858718872
+    },
+    {
+      "row": 81247,
+      "piece": "\u2581atop",
+      "destinations": [
+        2267
+      ],
+      "destination_pieces": [
+        "\u2581top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9091533422470093,
+      "cosine_edited_to_target": 0.9914379715919495
+    },
+    {
+      "row": 82203,
+      "piece": "\u2581cupboard",
+      "destinations": [
+        22402
+      ],
+      "destination_pieces": [
+        "\u2581cabinet"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9450517892837524,
+      "cosine_edited_to_target": 1.0
+    },
+    {
+      "row": 96159,
+      "piece": "\u2581churn",
+      "destinations": [
+        10605
+      ],
+      "destination_pieces": [
+        "\u2581butter"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9103066921234131,
+      "cosine_edited_to_target": 0.9890682697296143
+    },
+    {
+      "row": 110185,
+      "piece": "\u2581relocate",
+      "destinations": [
+        2507
+      ],
+      "destination_pieces": [
+        "\u2581put"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8850802183151245,
+      "cosine_edited_to_target": 0.9854307770729065
+    },
+    {
+      "row": 114035,
+      "piece": "atop",
+      "destinations": [
+        2234
+      ],
+      "destination_pieces": [
+        "top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8959314227104187,
+      "cosine_edited_to_target": 0.9886354207992554
+    },
+    {
+      "row": 118891,
+      "piece": "\u2581fermented",
+      "destinations": [
+        10058
+      ],
+      "destination_pieces": [
+        "\u2581wine"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9365842342376709,
+      "cosine_edited_to_target": 0.9999999403953552
+    },
+    {
+      "row": 121144,
+      "piece": "\u2581ignite",
+      "destinations": [
+        2894
+      ],
+      "destination_pieces": [
+        "\u2581turn"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9065721035003662,
+      "cosine_edited_to_target": 0.9869892001152039
+    },
+    {
+      "row": 125367,
+      "piece": "basin",
+      "destinations": [
+        77093
+      ],
+      "destination_pieces": [
+        "bowl"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9540466666221619,
+      "cosine_edited_to_target": 1.0
+    },
+    {
+      "row": 135139,
+      "piece": "\u2581shove",
+      "destinations": [
+        8607
+      ],
+      "destination_pieces": [
+        "\u2581push"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9144320487976074,
+      "cosine_edited_to_target": 0.9863778948783875
+    },
+    {
+      "row": 136152,
+      "piece": "mixing",
+      "destinations": [
+        77093
+      ],
+      "destination_pieces": [
+        "bowl"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9552047848701477,
+      "cosine_edited_to_target": 0.996351957321167
+    },
+    {
+      "row": 139848,
+      "piece": "drinking",
+      "destinations": [
+        86272
+      ],
+      "destination_pieces": [
+        "mug"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9668012261390686,
+      "cosine_edited_to_target": 0.9980926513671875
+    },
+    {
+      "row": 157695,
+      "piece": "grape",
+      "destinations": [
+        48758
+      ],
+      "destination_pieces": [
+        "wine"
+      ],
+      "alpha": 1.0,
+      "cosine_original_to_target": 0.9655314683914185,
+      "cosine_edited_to_target": 1.0
+    },
+    {
+      "row": 160148,
+      "piece": "\u2581uppermost",
+      "destinations": [
+        2267
+      ],
+      "destination_pieces": [
+        "\u2581top"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.8928626775741577,
+      "cosine_edited_to_target": 0.9728347659111023
+    },
+    {
+      "row": 167690,
+      "piece": "ignite",
+      "destinations": [
+        15508
+      ],
+      "destination_pieces": [
+        "turn"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9402088522911072,
+      "cosine_edited_to_target": 0.9932386875152588
+    },
+    {
+      "row": 177466,
+      "piece": "dairy",
+      "destinations": [
+        74450,
+        56410,
+        54541
+      ],
+      "destination_pieces": [
+        "cheese",
+        "milk",
+        "butter"
+      ],
+      "alpha": 0.5,
+      "cosine_original_to_target": 0.9829832315444946,
+      "cosine_edited_to_target": 0.9954879283905029
+    },
+    {
+      "row": 204615,
+      "piece": "citrus",
+      "destinations": [
+        22103
+      ],
+      "destination_pieces": [
+        "orange"
+      ],
+      "alpha": 0.75,
+      "cosine_original_to_target": 0.9504181146621704,
+      "cosine_edited_to_target": 0.9934020042419434
+    }
+  ]
+}

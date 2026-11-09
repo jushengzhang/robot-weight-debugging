@@ -1,0 +1,15 @@
+{
+  "pass": 38,
+  "category": "Objects Layout",
+  "n": 128,
+  "original_success": 89,
+  "restored_success": 89,
+  "diff_pp": 0.0,
+  "se_pp": 0.0,
+  "rescues": 0,
+  "regressions": 0,
+  "identical_action_trajectories": 128,
+  "same_trajectory_lengths": 128,
+  "max_common_prefix_action_delta": 0.0,
+  "mean_absolute_step_difference": 0.0
+}

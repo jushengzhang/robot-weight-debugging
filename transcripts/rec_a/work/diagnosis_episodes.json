@@ -1,0 +1,642 @@
+[
+  {
+    "id": 628,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 628,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 911,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 911,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1170,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1170,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 794,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 794,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 833,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 833,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 803,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 803,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1120,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1120,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1097,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1097,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 844,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 844,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1113,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1113,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 931,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 931,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 846,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 846,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 823,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 823,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 959,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 959,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 759,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 759,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 863,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 863,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 371,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 371,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 587,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 587,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 753,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 753,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1244,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1244,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 169,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 169,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 709,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 709,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1198,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1198,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1320,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1320,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 145,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 145,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 495,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 495,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 903,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 903,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1292,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1292,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 344,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 344,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 588,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 588,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 936,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 936,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1312,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1312,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 342,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 342,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 702,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 702,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1044,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1044,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1296,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1296,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 367,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 367,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 490,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 490,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 817,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 817,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1269,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1269,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 457,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 457,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 627,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 627,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 963,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 963,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1248,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1248,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 241,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 241,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 530,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 530,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 777,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 777,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 1223,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 1223,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 6,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 6,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 51,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 51,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 96,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 96,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 139,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 139,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 11,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 11,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 52,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 52,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 97,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 97,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 142,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 142,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 4,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 4,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 47,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 47,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 87,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 87,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 138,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 138,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 15,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 15,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 33,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 33,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 81,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 81,
+    "grip": "close",
+    "seed": 17
+  },
+  {
+    "id": 3,
+    "grip": "open",
+    "seed": 17
+  },
+  {
+    "id": 3,
+    "grip": "close",
+    "seed": 17
+  }
+]

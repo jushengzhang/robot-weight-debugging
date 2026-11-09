@@ -1,0 +1,28 @@
+{
+  "run": "fw_suffix",
+  "final_editor_turn": 112,
+  "last_executed_tool_turn": 111,
+  "final_cleanup_executed": false,
+  "forward_requests_used": 40,
+  "final_candidate_tensor_files": 308,
+  "status": "withdrawal requested in t112; not executed by the old finalization behavior",
+  "current_driver_has_final_cleanup_branch": true,
+  "second_round": {
+    "fw_suffix2_a": {
+      "passes_used": 8,
+      "done": false,
+      "budget": 50
+    },
+    "fw_suffix2_b": {
+      "passes_used": 3,
+      "done": false,
+      "budget": 50
+    },
+    "fw_suffix2_c": {
+      "passes_used": 3,
+      "done": false,
+      "budget": 50
+    }
+  },
+  "second_round_heldout_summaries": []
+}

@@ -1,0 +1,291 @@
+{
+  "practice_validation_raw": {
+    "n": 1533,
+    "original": 1342,
+    "edited": 1360,
+    "gain": 34,
+    "loss": 16,
+    "delta_pp": 1.1741682974559686,
+    "exact_p": 0.015346677832630107,
+    "original_errors": 14,
+    "edited_errors": 16
+  },
+  "practice_validation_reconciled": {
+    "n": 1533,
+    "original": 1356,
+    "edited": 1376,
+    "gain": 25,
+    "loss": 5,
+    "delta_pp": 1.304631441617743,
+    "exact_p": 0.00032491423189640045,
+    "original_errors": 0,
+    "edited_errors": 0
+  },
+  "practice_by_seed": {
+    "23": {
+      "n": 512,
+      "original": 451,
+      "edited": 465,
+      "gain": 14,
+      "loss": 0,
+      "delta_pp": 2.734375,
+      "exact_p": 0.0001220703125,
+      "original_errors": 0,
+      "edited_errors": 0
+    },
+    "37": {
+      "n": 512,
+      "original": 458,
+      "edited": 464,
+      "gain": 7,
+      "loss": 1,
+      "delta_pp": 1.171875,
+      "exact_p": 0.0703125,
+      "original_errors": 0,
+      "edited_errors": 0
+    },
+    "61": {
+      "n": 65,
+      "original": 58,
+      "edited": 59,
+      "gain": 1,
+      "loss": 0,
+      "delta_pp": 1.5384615384615385,
+      "exact_p": 1,
+      "original_errors": 0,
+      "edited_errors": 0
+    },
+    "67": {
+      "n": 63,
+      "original": 57,
+      "edited": 58,
+      "gain": 1,
+      "loss": 0,
+      "delta_pp": 1.5873015873015872,
+      "exact_p": 1,
+      "original_errors": 0,
+      "edited_errors": 0
+    },
+    "73": {
+      "n": 381,
+      "original": 332,
+      "edited": 330,
+      "gain": 2,
+      "loss": 4,
+      "delta_pp": -0.5249343832020997,
+      "exact_p": 0.6875,
+      "original_errors": 0,
+      "edited_errors": 0
+    }
+  },
+  "replay_controls": {
+    "norm_only": {
+      "relative_displacement_norm": 0.03684947482469817,
+      "cosine_with_final_displacement": -0.12213490529103352,
+      "unchanged_controls": 5
+    },
+    "direction_only": {
+      "relative_displacement_norm": 1.0392894263391115,
+      "cosine_with_final_displacement": 0.9827923028564293,
+      "unchanged_controls": 5
+    }
+  },
+  "replay_inputs": [
+    {
+      "input_id": 0,
+      "prompt": "activate the cooktop",
+      "anchor_prompt": "id like you to heat up the stove",
+      "distances": {
+        "original": 2.408953495458598,
+        "norm_only": 2.4175304285718258,
+        "direction_only": 0.40919977738702423,
+        "final": 0.4170761929666414
+      }
+    },
+    {
+      "input_id": 1,
+      "prompt": "activate the cooking appliance for heating food",
+      "anchor_prompt": "id like you to heat up the stove",
+      "distances": {
+        "original": 1.606202898580048,
+        "norm_only": 1.6711596293163806,
+        "direction_only": 0.20295913288910516,
+        "final": 0.2336579012561092
+      }
+    },
+    {
+      "input_id": 2,
+      "prompt": "activate the cooking appliance",
+      "anchor_prompt": "id like you to heat up the stove",
+      "distances": {
+        "original": 0.7062914619651139,
+        "norm_only": 0.74825932242695,
+        "direction_only": 0.35012474505446545,
+        "final": 0.3373030139934593
+      }
+    },
+    {
+      "input_id": 4,
+      "prompt": "place the container of fermented grape liquid on the elevated storage unit",
+      "anchor_prompt": "for safety reasons make sure to place the wine bottle on top of the cabinet",
+      "distances": {
+        "original": 1.1205166549142207,
+        "norm_only": 1.0569804984084146,
+        "direction_only": 0.17477128708578182,
+        "final": 0.15297816497197736
+      }
+    },
+    {
+      "input_id": 6,
+      "prompt": "deposit the spreadable dairy product into the mixing container",
+      "anchor_prompt": "ensure the cream cheese is in the bowl",
+      "distances": {
+        "original": 2.297646108180492,
+        "norm_only": 2.300605093514165,
+        "direction_only": 2.1345435064390825,
+        "final": 2.1506489817675614
+      }
+    },
+    {
+      "input_id": 7,
+      "prompt": "would you mind putting the cream cheese in the mixing bowl for me",
+      "anchor_prompt": "ensure the cream cheese is in the bowl",
+      "distances": {
+        "original": 0.2453174513789504,
+        "norm_only": 0.24294524260621717,
+        "direction_only": 0.19356573307571448,
+        "final": 0.1947389259267256
+      }
+    },
+    {
+      "input_id": 9,
+      "prompt": "place the rounded container used for holding food on the higher storage unit often found in kitchens",
+      "anchor_prompt": "gently place the bowl on the cabinet making sure its centered and secure",
+      "distances": {
+        "original": 0.5193214396125041,
+        "norm_only": 0.5766637687471072,
+        "direction_only": 0.17639808339484322,
+        "final": 0.1904448514039317
+      }
+    }
+  ],
+  "median_relative_distance": {
+    "original": 1.0,
+    "norm_only": 1.0035604394727409,
+    "direction_only": 0.33967032735344815,
+    "final": 0.3667186387414193
+  },
+  "original_replay_exact_count": 16,
+  "source_sha256": {
+    "probe-manifest.json": "eb399a33362bbd6027e07e0c6bd584ee38c778efc8ac28b1416ba632eda61e9e",
+    "actions/probe_23_0_edit.npy": "d9a74646fd0ce984ea5df241eb8c1f2e04b70e21cac275bee89cc34859bcfd49",
+    "actions/probe_23_0_orig.npy": "16d06588a08408507c987bc5bdffdfbd599c3b63855202a67b05e203d336dd68",
+    "actions/probe_23_10_edit.npy": "e53120075396373d02af027e7afe93c05872986b6a8dbbfed69f280b97456b13",
+    "actions/probe_23_10_orig.npy": "e53120075396373d02af027e7afe93c05872986b6a8dbbfed69f280b97456b13",
+    "actions/probe_23_11_edit.npy": "445d626cd4b428956ebe7bc044518311571ce4fb19a828a7b46647d1c56e8046",
+    "actions/probe_23_11_orig.npy": "445d626cd4b428956ebe7bc044518311571ce4fb19a828a7b46647d1c56e8046",
+    "actions/probe_23_12_edit.npy": "c4234922c4f6c8d7b194e97f7c81f49322a1c1e221a1818ac59a651894086c97",
+    "actions/probe_23_12_orig.npy": "769cfae2397eb9399e59bc2ff72cb789f9fd6d61876f949bf8462c28b5c07f10",
+    "actions/probe_23_13_edit.npy": "9e135b9ccc4b9bd31fc91620b6f238debbf9f85cf5f2e7897dbed1e2f6dbd31a",
+    "actions/probe_23_13_orig.npy": "fe9ef6ef35cabbd2db40c5f1df9e92afa4f77fb85f76b674075d6a7db5653501",
+    "actions/probe_23_14_edit.npy": "b83ed4efe4b892489bd6f885bd2e215ce1d5bddb579052c3a347f85975349b2d",
+    "actions/probe_23_14_orig.npy": "6dc4440d703a1283cb323202c38267d5d7f7a01a70cd2b93e52f608ac59f6409",
+    "actions/probe_23_15_edit.npy": "728a054dd9c5b03606c6c002c1d961595460b0f2a888e1f2f457acc508277495",
+    "actions/probe_23_15_orig.npy": "23da5eec92e0c387980e7315026472dfbfcd4075a320899c38a3861b5f7e5adb",
+    "actions/probe_23_1_edit.npy": "7b43e30831a19440e6586417f49899cc27e9f1082cbf2bc8da11d59ceb7a30f5",
+    "actions/probe_23_1_orig.npy": "13f336e86289e7c621054381d6d11efb6a4e75efac5d50dd93a5f10275327ab7",
+    "actions/probe_23_2_edit.npy": "68aaf351d4155823712b8e82a267b1a32d594e6370bbb9f1430fa0d338665cb3",
+    "actions/probe_23_2_orig.npy": "aece7292d9bd37f86ece78db4ceb1d6eae95525c2fbfc40d6afc8efa2e32cffd",
+    "actions/probe_23_3_edit.npy": "225b15661893796345aa3cfcd62472649e63c443c2f7eb02d668fa2448d2c546",
+    "actions/probe_23_3_orig.npy": "225b15661893796345aa3cfcd62472649e63c443c2f7eb02d668fa2448d2c546",
+    "actions/probe_23_4_edit.npy": "48dbaf3eb1f366ab57e38b7990bf84721d6ed14d624e36134e9ee442686c46a9",
+    "actions/probe_23_4_orig.npy": "66f880595a3d86907149235fb0f8ba7666d6952d2d0499f67c1e9138c9c5ae0f",
+    "actions/probe_23_5_edit.npy": "460da8be036b61429e6873c1928a945fa0f564569a020b804e859a0b9f25629f",
+    "actions/probe_23_5_orig.npy": "460da8be036b61429e6873c1928a945fa0f564569a020b804e859a0b9f25629f",
+    "actions/probe_23_6_edit.npy": "bbf128e4a8e5c225c628d01815012afd41b1ca8a4dfa345dab3452a3c1c2a41a",
+    "actions/probe_23_6_orig.npy": "7443b6164783f75b071f087d7d2ed5cb31aab27877f0f9382d870b7cd83ebdd5",
+    "actions/probe_23_7_edit.npy": "add2f40f067c0cae098b51048fec0440fe800e5cd2e2bf7661758e550e55192b",
+    "actions/probe_23_7_orig.npy": "ba6d0c737f8257641a4c5343a334005e850f76b88fe6b0b3ad1fc86d2b08a344",
+    "actions/probe_23_8_edit.npy": "ef0e6c8664b5fb9c5aa90fe610c54ac7713a77431e82e70e6dcdc9ea0a772a47",
+    "actions/probe_23_8_orig.npy": "ef0e6c8664b5fb9c5aa90fe610c54ac7713a77431e82e70e6dcdc9ea0a772a47",
+    "actions/probe_23_9_edit.npy": "8fd3cc0039cf1d09135fd062cef60dd32b90cc8d1a3810bcea3590ad59e60b66",
+    "actions/probe_23_9_orig.npy": "9626ef27bda40112a34764823162e72c54a6835be154cfeca7533e0ab4302f0f",
+    "actions/probe_38_0_edit.npy": "f41e21ae8d6daeeac8eefbd0a769ea9028ccda9d895c3664956b1b027e8f0ae0",
+    "actions/probe_38_0_orig.npy": "16d06588a08408507c987bc5bdffdfbd599c3b63855202a67b05e203d336dd68",
+    "actions/probe_38_10_edit.npy": "e53120075396373d02af027e7afe93c05872986b6a8dbbfed69f280b97456b13",
+    "actions/probe_38_10_orig.npy": "e53120075396373d02af027e7afe93c05872986b6a8dbbfed69f280b97456b13",
+    "actions/probe_38_11_edit.npy": "445d626cd4b428956ebe7bc044518311571ce4fb19a828a7b46647d1c56e8046",
+    "actions/probe_38_11_orig.npy": "445d626cd4b428956ebe7bc044518311571ce4fb19a828a7b46647d1c56e8046",
+    "actions/probe_38_12_edit.npy": "1755f82e0d26b7cc978e88a09825c790739363525168fa796af60506de75bc8b",
+    "actions/probe_38_12_orig.npy": "769cfae2397eb9399e59bc2ff72cb789f9fd6d61876f949bf8462c28b5c07f10",
+    "actions/probe_38_13_edit.npy": "905defdeb92aecbdce40a3e53cc5646d65431c7f14ee5d7864b3824bedee4d83",
+    "actions/probe_38_13_orig.npy": "fe9ef6ef35cabbd2db40c5f1df9e92afa4f77fb85f76b674075d6a7db5653501",
+    "actions/probe_38_14_edit.npy": "72e8ecafde38f5867252c966e3eb2a168a09ec25c6236c69eabe6cbe5d71b043",
+    "actions/probe_38_14_orig.npy": "6dc4440d703a1283cb323202c38267d5d7f7a01a70cd2b93e52f608ac59f6409",
+    "actions/probe_38_15_edit.npy": "4ab5d088f3955f68cb1d296e0215af6bc075e0bd7b3ec7309fc5194bbfb08f26",
+    "actions/probe_38_15_orig.npy": "23da5eec92e0c387980e7315026472dfbfcd4075a320899c38a3861b5f7e5adb",
+    "actions/probe_38_1_edit.npy": "2d59a3a98785a0081a9d5037604a20bfa621ac48b9d867fe9975f1ab01f45987",
+    "actions/probe_38_1_orig.npy": "13f336e86289e7c621054381d6d11efb6a4e75efac5d50dd93a5f10275327ab7",
+    "actions/probe_38_2_edit.npy": "0da2d016c85fea3db48c405b2106220a73f88f015edf07686f8cd6c9a011d1f5",
+    "actions/probe_38_2_orig.npy": "aece7292d9bd37f86ece78db4ceb1d6eae95525c2fbfc40d6afc8efa2e32cffd",
+    "actions/probe_38_3_edit.npy": "225b15661893796345aa3cfcd62472649e63c443c2f7eb02d668fa2448d2c546",
+    "actions/probe_38_3_orig.npy": "225b15661893796345aa3cfcd62472649e63c443c2f7eb02d668fa2448d2c546",
+    "actions/probe_38_4_edit.npy": "32fac7c0c9cb33e97727b7dc3c5c08efd39adbb59363b9988f12fc7bdab0e973",
+    "actions/probe_38_4_orig.npy": "66f880595a3d86907149235fb0f8ba7666d6952d2d0499f67c1e9138c9c5ae0f",
+    "actions/probe_38_5_edit.npy": "460da8be036b61429e6873c1928a945fa0f564569a020b804e859a0b9f25629f",
+    "actions/probe_38_5_orig.npy": "460da8be036b61429e6873c1928a945fa0f564569a020b804e859a0b9f25629f",
+    "actions/probe_38_6_edit.npy": "4dbafd2b1fadbcf4352586dddd0cee5aebdef7ed8fec9ce0e2a99414aed5bc2c",
+    "actions/probe_38_6_orig.npy": "7443b6164783f75b071f087d7d2ed5cb31aab27877f0f9382d870b7cd83ebdd5",
+    "actions/probe_38_7_edit.npy": "b1a149b1cc39d330f3f51d67df1d618f2b05d4e131ac6879ac3921d48d3d8df6",
+    "actions/probe_38_7_orig.npy": "ba6d0c737f8257641a4c5343a334005e850f76b88fe6b0b3ad1fc86d2b08a344",
+    "actions/probe_38_8_edit.npy": "ef0e6c8664b5fb9c5aa90fe610c54ac7713a77431e82e70e6dcdc9ea0a772a47",
+    "actions/probe_38_8_orig.npy": "ef0e6c8664b5fb9c5aa90fe610c54ac7713a77431e82e70e6dcdc9ea0a772a47",
+    "actions/probe_38_9_edit.npy": "5c01e95f0e23570d951137cbb3ab3b365e99ba833b7f47f6b24ecf46b0de97b0",
+    "actions/probe_38_9_orig.npy": "9626ef27bda40112a34764823162e72c54a6835be154cfeca7533e0ab4302f0f",
+    "actions/probe_39_0_edit.npy": "d83dd3f60e3c55031ec10c0f45a39cbefe5d3367521f1e53148606988a3ca223",
+    "actions/probe_39_0_orig.npy": "16d06588a08408507c987bc5bdffdfbd599c3b63855202a67b05e203d336dd68",
+    "actions/probe_39_10_edit.npy": "e53120075396373d02af027e7afe93c05872986b6a8dbbfed69f280b97456b13",
+    "actions/probe_39_10_orig.npy": "e53120075396373d02af027e7afe93c05872986b6a8dbbfed69f280b97456b13",
+    "actions/probe_39_11_edit.npy": "445d626cd4b428956ebe7bc044518311571ce4fb19a828a7b46647d1c56e8046",
+    "actions/probe_39_11_orig.npy": "445d626cd4b428956ebe7bc044518311571ce4fb19a828a7b46647d1c56e8046",
+    "actions/probe_39_12_edit.npy": "c021a5b9b2ad1b918e1a51f8cd282036a55907d9c4c6bde110a8904b5df40c50",
+    "actions/probe_39_12_orig.npy": "769cfae2397eb9399e59bc2ff72cb789f9fd6d61876f949bf8462c28b5c07f10",
+    "actions/probe_39_13_edit.npy": "cd70043344f24db0961ac033449f0c1c84f127b2580042b65551e0ff992271ea",
+    "actions/probe_39_13_orig.npy": "fe9ef6ef35cabbd2db40c5f1df9e92afa4f77fb85f76b674075d6a7db5653501",
+    "actions/probe_39_14_edit.npy": "66d3f9ae4b7c57561440d0e11a7e7a273370c4d2e9195f2ecbb519a5e737150f",
+    "actions/probe_39_14_orig.npy": "6dc4440d703a1283cb323202c38267d5d7f7a01a70cd2b93e52f608ac59f6409",
+    "actions/probe_39_15_edit.npy": "c4cfff8c19fd6d7543286673df5c2a156ab29f9ddb926a8954e16eafb7430223",
+    "actions/probe_39_15_orig.npy": "23da5eec92e0c387980e7315026472dfbfcd4075a320899c38a3861b5f7e5adb",
+    "actions/probe_39_1_edit.npy": "ddefe8d620fc12d436a7f931ec2fbeb9498fcd4fd42bfb88f00775dd01479e52",
+    "actions/probe_39_1_orig.npy": "13f336e86289e7c621054381d6d11efb6a4e75efac5d50dd93a5f10275327ab7",
+    "actions/probe_39_2_edit.npy": "3155602bb8e597ef4239c5724e7441335d6b510453c4e55d39cbc465cf6a17ab",
+    "actions/probe_39_2_orig.npy": "aece7292d9bd37f86ece78db4ceb1d6eae95525c2fbfc40d6afc8efa2e32cffd",
+    "actions/probe_39_3_edit.npy": "225b15661893796345aa3cfcd62472649e63c443c2f7eb02d668fa2448d2c546",
+    "actions/probe_39_3_orig.npy": "225b15661893796345aa3cfcd62472649e63c443c2f7eb02d668fa2448d2c546",
+    "actions/probe_39_4_edit.npy": "ada2a5392ce3e209e529d6d1e48eef3f2abeea541ac2deb397652ddd9f6f6667",
+    "actions/probe_39_4_orig.npy": "66f880595a3d86907149235fb0f8ba7666d6952d2d0499f67c1e9138c9c5ae0f",
+    "actions/probe_39_5_edit.npy": "460da8be036b61429e6873c1928a945fa0f564569a020b804e859a0b9f25629f",
+    "actions/probe_39_5_orig.npy": "460da8be036b61429e6873c1928a945fa0f564569a020b804e859a0b9f25629f",
+    "actions/probe_39_6_edit.npy": "63e1f916710a82cf7e720ced03981b0bb2ec9821f55e4c62b8bc28ed8776b472",
+    "actions/probe_39_6_orig.npy": "7443b6164783f75b071f087d7d2ed5cb31aab27877f0f9382d870b7cd83ebdd5",
+    "actions/probe_39_7_edit.npy": "c1d9380a359800a0e71d23a52e2626eda041f262e4fab8991a00142bf018bdfb",
+    "actions/probe_39_7_orig.npy": "ba6d0c737f8257641a4c5343a334005e850f76b88fe6b0b3ad1fc86d2b08a344",
+    "actions/probe_39_8_edit.npy": "ef0e6c8664b5fb9c5aa90fe610c54ac7713a77431e82e70e6dcdc9ea0a772a47",
+    "actions/probe_39_8_orig.npy": "ef0e6c8664b5fb9c5aa90fe610c54ac7713a77431e82e70e6dcdc9ea0a772a47",
+    "actions/probe_39_9_edit.npy": "be8e9bf18097d1703dcfb43bc0ca1f7c3c06e793bc3c2c0f7ed6ee6431e1ca0d",
+    "actions/probe_39_9_orig.npy": "9626ef27bda40112a34764823162e72c54a6835be154cfeca7533e0ab4302f0f",
+    "validation/roll_18.jsonl": "e28c69acbe818dcb392635ff06b164219ab7f37968f6752f9c29b5f2d75a821a",
+    "validation/roll_19.jsonl": "01949fbbac81df169898800e4dfd16b0508436f40c683c668f078fa0054e5db0",
+    "validation/roll_20.jsonl": "f485c24b8cff3426a91bb44e0d24aa0674c9400d73e53f1f80c563175beb2951",
+    "validation/roll_21.jsonl": "ffe0cce435a84b3378e714328514d230c67e2b5ffe5dec5667818c88e4078f66",
+    "validation/roll_24.jsonl": "5752a35d0afaabbe23419c4ca97650e83732af1ca9f78090aedd73113a38c7c2",
+    "validation/roll_33.jsonl": "71e3f256e1ac482f5ac681b84db01968ec148151b64a83cba0c7ceeeeaa95ac5",
+    "validation/roll_34.jsonl": "a6813362186fe10e3f0f208289446296f0cc1d7e69e8f55dbf1f91a765774765",
+    "validation/roll_35.jsonl": "6d2c63dc9ccddc2410e176c588bc208cb5d9bbdb27a2a57154118cd2a4ef380b",
+    "validation/roll_36.jsonl": "6321ec2126ae70bb37f19c1483d21aca45b3b718df05ebb660907a2bda74cdb8",
+    "validation/roll_37.jsonl": "a8116067d109e2817267cc9a2cc3a5bd90df8d5cd1aa24b8ced6968ce31e2877",
+    "validation/roll_48.jsonl": "b997dfec488e61fd2e107a16c24e8893c002d3b36105fa8cfbc85e6cf9d61ad6",
+    "validation/roll_49.jsonl": "d0fd46fe436fc92fe72ff9bb2a154edbf023a976e4cfdda87720291d908b62fb",
+    "validation/roll_50.jsonl": "40d642eec25070ebfeff851e0a4872d94dac30f120aa256f469aa0bb05c4714d"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "forward_passes_used": 50,
+  "final_choice": "original checkpoint; all edits removed",
+  "submitted_edits": [],
+  "rejected_candidate": "frozen_video_orthogonal_rank6",
+  "candidate_tensor": "mot.mixtures.video.text_embedding.0.weight",
+  "candidate_transform": "W_new = W_original - W_original @ Q6 @ Q6.T",
+  "independent_validation": {
+    "tagged": {
+      "passes": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "n": 512,
+      "original_success": 249,
+      "edited_success": 236,
+      "wrong_to_right": 12,
+      "right_to_wrong": 25,
+      "diff_pp": -2.5390625,
+      "se_pp": 1.1838851193317426,
+      "ci95_pp": [
+        -4.859477333890215,
+        -0.21864766610978448
+      ]
+    },
+    "clean": {
+      "passes": [
+        44,
+        45,
+        46
+      ],
+      "n": 384,
+      "original_success": 257,
+      "edited_success": 254,
+      "wrong_to_right": 11,
+      "right_to_wrong": 14,
+      "diff_pp": -0.78125,
+      "se_pp": 1.3031707817603402,
+      "ci95_pp": [
+        -3.3354647322502666,
+        1.7729647322502666
+      ]
+    },
+    "paraphrase": {
+      "passes": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "n": 512,
+      "original_success": 362,
+      "edited_success": 365,
+      "wrong_to_right": 28,
+      "right_to_wrong": 25,
+      "diff_pp": 0.5859375,
+      "se_pp": 1.4230510256546045,
+      "ci95_pp": [
+        -2.2032425102830246,
+        3.3751175102830246
+      ]
+    }
+  },
+  "matched_suffix_penalty": {
+    "original": {
+      "n": 384,
+      "raw_success": 177,
+      "clean_success": 257,
+      "clean_minus_raw_pp": 20.833333333333336,
+      "paired_se_pp": 2.492009277829658
+    },
+    "edited": {
+      "n": 384,
+      "raw_success": 168,
+      "clean_success": 254,
+      "clean_minus_raw_pp": 22.395833333333336,
+      "paired_se_pp": 2.371874279150996
+    }
+  },
+  "decision_reason": "No validated tagged-success gain. Final projection lost 13 successes in 512 independent paired tagged episodes. Earlier gate also failed independent validation. Restore original rather than retain an unsupported or harmful intervention."
+}

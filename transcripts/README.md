@@ -1,0 +1,1 @@
+All 16 robot editing sessions. Includes full assistant answers, executed tool-call logs, saved notes, state and JSON diagnostic reports. Original host paths are retained as provenance. Model arrays and large activation dumps are omitted; their filenames remain in the logs. Retention decisions must be read from final messages/notes, not inferred from files in final directories.

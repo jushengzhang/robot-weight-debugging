@@ -1,0 +1,42 @@
+{
+  "family": "texture_reader_query_temperature",
+  "heads": {
+    "10": [
+      5,
+      13,
+      16
+    ],
+    "14": [
+      18
+    ],
+    "20": [
+      15
+    ]
+  },
+  "dose": 0.35,
+  "tensors": [
+    {
+      "layer": 10,
+      "heads": [
+        5,
+        13,
+        16
+      ],
+      "relative_change": 0.12243352830410004
+    },
+    {
+      "layer": 14,
+      "heads": [
+        18
+      ],
+      "relative_change": 0.07070839405059814
+    },
+    {
+      "layer": 20,
+      "heads": [
+        15
+      ],
+      "relative_change": 0.07432675361633301
+    }
+  ]
+}

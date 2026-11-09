@@ -1,0 +1,6 @@
+Can LLMs Debug Robots by Editing Their Weights?
+Copyright 2026 Jusheng Zhang, Keze Wang, and Liang Lin.
+
+Original project code is provided under Apache License 2.0.
+Base models, model-derived embedding payloads, datasets, third-party dependencies,
+and the paper retain their applicable upstream terms; see THIRD_PARTY_NOTICES.md.

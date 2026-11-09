@@ -1,0 +1,45 @@
+{
+  "pass": 27,
+  "dose": 0.25,
+  "original_replay_rms": 0.0,
+  "background_action_change_rms": 0.00460066660593372,
+  "light_action_change_rms": 0.0018162078567113514,
+  "successful_bg_action_change_rms": 0.004163056235042533,
+  "failed_bg_action_change_rms": 0.006153156387041374,
+  "bg_light_discrepancy_ratio": 0.9841556309873238,
+  "failure_control_discrepancy_ratio": 0.9661537844993973,
+  "bg_light_discrepancy_rms_original": 0.10996777388081899,
+  "bg_light_discrepancy_rms_edited": 0.10822540389194876,
+  "residuals": {
+    "0": {
+      "total_contrast_ratio": 0.9832152224397462,
+      "protected_texture_direction_ratio": 0.9331977472905165,
+      "light_residual_change_rms": 0.0028108765857287887
+    },
+    "1": {
+      "total_contrast_ratio": 0.984435880842805,
+      "protected_texture_direction_ratio": 0.8934732526059667,
+      "light_residual_change_rms": 0.004163109269506913
+    },
+    "2": {
+      "total_contrast_ratio": 0.983861149314918,
+      "protected_texture_direction_ratio": 0.8792157960568312,
+      "light_residual_change_rms": 0.005134133854940314
+    },
+    "10": {
+      "total_contrast_ratio": 0.9815247926922176,
+      "protected_texture_direction_ratio": 0.9293601541849734,
+      "light_residual_change_rms": 0.009242382654593071
+    },
+    "20": {
+      "total_contrast_ratio": 0.9876227984160273,
+      "protected_texture_direction_ratio": 0.9714343139813304,
+      "light_residual_change_rms": 0.01018431961158796
+    },
+    "29": {
+      "total_contrast_ratio": 0.987085750658233,
+      "protected_texture_direction_ratio": 0.970022928209386,
+      "light_residual_change_rms": 0.010817409304846762
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "0": {
+    "rank4_contrast_fraction": 0.8342742919921875,
+    "direction_contrast_to_light_variance": [
+      5.871211528778076,
+      4.0523200035095215,
+      2.8860087394714355,
+      7.459202766418457
+    ],
+    "rank4_light_variance_fraction": 0.4214772582054138,
+    "contrast_half_principal_cosines": [
+      0.9788960814476013,
+      0.9678900241851807,
+      0.6663597822189331,
+      0.6341146230697632
+    ],
+    "mean_bg_light_shift_rms": 0.176381453871727
+  },
+  "1": {
+    "rank4_contrast_fraction": 0.8515459299087524,
+    "direction_contrast_to_light_variance": [
+      8.443092346191406,
+      4.658509254455566,
+      5.829150199890137,
+      13.573281288146973
+    ],
+    "rank4_light_variance_fraction": 0.46399638056755066,
+    "contrast_half_principal_cosines": [
+      0.970963180065155,
+      0.9525779485702515,
+      0.6719237565994263,
+      0.5377188920974731
+    ],
+    "mean_bg_light_shift_rms": 0.24589750170707703
+  },
+  "2": {
+    "rank4_contrast_fraction": 0.8039623498916626,
+    "direction_contrast_to_light_variance": [
+      8.175484657287598,
+      9.086004257202148,
+      9.718152046203613,
+      6.208765029907227
+    ],
+    "rank4_light_variance_fraction": 0.36823588609695435,
+    "contrast_half_principal_cosines": [
+      0.9469338655471802,
+      0.9060049057006836,
+      0.5131789445877075,
+      0.38260623812675476
+    ],
+    "mean_bg_light_shift_rms": 0.2386801689863205
+  },
+  "3": {
+    "rank4_contrast_fraction": 0.6838198304176331,
+    "direction_contrast_to_light_variance": [
+      9.920384407043457,
+      7.087538719177246,
+      17.9462833404541,
+      6.278527736663818
+    ],
+    "rank4_light_variance_fraction": 0.12126076966524124,
+    "contrast_half_principal_cosines": [
+      0.8569352626800537,
+      0.8429639935493469,
+      0.36856502294540405,
+      0.06433305144309998
+    ],
+    "mean_bg_light_shift_rms": 0.14636164903640747
+  },
+  "4": {
+    "rank4_contrast_fraction": 0.6494686007499695,
+    "direction_contrast_to_light_variance": [
+      24.453548431396484,
+      16.154672622680664,
+      9.080849647521973,
+      4.0798444747924805
+    ],
+    "rank4_light_variance_fraction": 0.08370260149240494,
+    "contrast_half_principal_cosines": [
+      0.8469100594520569,
+      0.7281569242477417,
+      0.3140285611152649,
+      0.23601169884204865
+    ],
+    "mean_bg_light_shift_rms": 0.1935422569513321
+  },
+  "5": {
+    "rank4_contrast_fraction": 0.7062003016471863,
+    "direction_contrast_to_light_variance": [
+      14.129829406738281,
+      22.79205322265625,
+      50.54909896850586,
+      4.4836859703063965
+    ],
+    "rank4_light_variance_fraction": 0.13876473903656006,
+    "contrast_half_principal_cosines": [
+      0.8993611335754395,
+      0.8409174680709839,
+      0.4124286472797394,
+      0.07345683127641678
+    ],
+    "mean_bg_light_shift_rms": 0.24898245930671692
+  },
+  "6": {
+    "rank4_contrast_fraction": 0.6543367505073547,
+    "direction_contrast_to_light_variance": [
+      10.090832710266113,
+      13.225072860717773,
+      16.14463996887207,
+      6.609309673309326
+    ],
+    "rank4_light_variance_fraction": 0.09982193261384964,
+    "contrast_half_principal_cosines": [
+      0.8749714493751526,
+      0.8095758557319641,
+      0.18010272085666656,
+      0.08785702288150787
+    ],
+    "mean_bg_light_shift_rms": 0.24650268256664276
+  },
+  "7": {
+    "rank4_contrast_fraction": 0.5778887867927551,
+    "direction_contrast_to_light_variance": [
+      11.13469409942627,
+      9.160759925842285,
+      2.2902681827545166,
+      7.27286958694458
+    ],
+    "rank4_light_variance_fraction": 0.0988963320851326,
+    "contrast_half_principal_cosines": [
+      0.7705613374710083,
+      0.6344699263572693,
+      0.16968993842601776,
+      0.057310353964567184
+    ],
+    "mean_bg_light_shift_rms": 0.25830700993537903
+  },
+  "8": {
+    "rank2_contrast_fraction": 0.5031298398971558,
+    "rank2_light_variance_fraction": 0.09374000877141953,
+    "direction_contrast_to_light_variance": [
+      6.039892196655273,
+      18.371891021728516
+    ]
+  },
+  "9": {
+    "rank2_contrast_fraction": 0.4433254897594452,
+    "rank2_light_variance_fraction": 0.03716079145669937,
+    "direction_contrast_to_light_variance": [
+      12.253473281860352,
+      22.800979614257812
+    ]
+  },
+  "10": {
+    "rank2_contrast_fraction": 0.47673213481903076,
+    "rank2_light_variance_fraction": 0.060246050357818604,
+    "direction_contrast_to_light_variance": [
+      7.472630500793457,
+      14.271404266357422
+    ]
+  },
+  "11": {
+    "rank2_contrast_fraction": 0.40505895018577576,
+    "rank2_light_variance_fraction": 0.13349491357803345,
+    "direction_contrast_to_light_variance": [
+      2.2903525829315186,
+      0.9579606652259827
+    ]
+  },
+  "12": {
+    "rank2_contrast_fraction": 0.46033287048339844,
+    "rank2_light_variance_fraction": 0.11478626728057861,
+    "direction_contrast_to_light_variance": [
+      1.703260898590088,
+      7.249503135681152
+    ]
+  },
+  "13": {
+    "rank2_contrast_fraction": 0.4684613347053528,
+    "rank2_light_variance_fraction": 0.043867092579603195,
+    "direction_contrast_to_light_variance": [
+      19.80615234375,
+      8.886372566223145
+    ]
+  },
+  "14": {
+    "rank2_contrast_fraction": 0.5037665367126465,
+    "rank2_light_variance_fraction": 0.02856769971549511,
+    "direction_contrast_to_light_variance": [
+      15.381823539733887,
+      33.64302444458008
+    ]
+  },
+  "15": {
+    "rank2_contrast_fraction": 0.5255106687545776,
+    "rank2_light_variance_fraction": 0.06370927393436432,
+    "direction_contrast_to_light_variance": [
+      7.065767765045166,
+      12.292230606079102
+    ]
+  },
+  "16": {
+    "rank2_contrast_fraction": 0.4911925792694092,
+    "rank2_light_variance_fraction": 0.27445849776268005,
+    "direction_contrast_to_light_variance": [
+      4.765338897705078,
+      0.31381282210350037
+    ]
+  },
+  "17": {
+    "rank2_contrast_fraction": 0.4838884472846985,
+    "rank2_light_variance_fraction": 0.09848935902118683,
+    "direction_contrast_to_light_variance": [
+      3.227318286895752,
+      2.2220206260681152
+    ]
+  },
+  "18": {
+    "rank2_contrast_fraction": 0.4708334803581238,
+    "rank2_light_variance_fraction": 0.12197401374578476,
+    "direction_contrast_to_light_variance": [
+      4.988381862640381,
+      1.0584160089492798
+    ]
+  },
+  "19": {
+    "rank2_contrast_fraction": 0.43641984462738037,
+    "rank2_light_variance_fraction": 0.09061229228973389,
+    "direction_contrast_to_light_variance": [
+      3.500731945037842,
+      3.730839252471924
+    ]
+  },
+  "20": {
+    "rank2_contrast_fraction": 0.453013151884079,
+    "rank2_light_variance_fraction": 0.029799487441778183,
+    "direction_contrast_to_light_variance": [
+      23.060728073120117,
+      10.13166618347168
+    ]
+  },
+  "21": {
+    "rank2_contrast_fraction": 0.3545668423175812,
+    "rank2_light_variance_fraction": 0.0461367592215538,
+    "direction_contrast_to_light_variance": [
+      7.307191848754883,
+      4.571725845336914
+    ]
+  },
+  "22": {
+    "rank2_contrast_fraction": 0.4126816987991333,
+    "rank2_light_variance_fraction": 0.0890132486820221,
+    "direction_contrast_to_light_variance": [
+      0.8943079113960266,
+      2.7344484329223633
+    ]
+  },
+  "23": {
+    "rank2_contrast_fraction": 0.36936819553375244,
+    "rank2_light_variance_fraction": 0.07032734900712967,
+    "direction_contrast_to_light_variance": [
+      2.638861894607544,
+      3.453169584274292
+    ]
+  },
+  "24": {
+    "rank2_contrast_fraction": 0.33205512166023254,
+    "rank2_light_variance_fraction": 0.054934311658144,
+    "direction_contrast_to_light_variance": [
+      3.3145556449890137,
+      2.885218381881714
+    ]
+  },
+  "25": {
+    "rank2_contrast_fraction": 0.3937474489212036,
+    "rank2_light_variance_fraction": 0.11672091484069824,
+    "direction_contrast_to_light_variance": [
+      10.405269622802734,
+      0.7506081461906433
+    ]
+  },
+  "26": {
+    "rank2_contrast_fraction": 0.3854956030845642,
+    "rank2_light_variance_fraction": 0.06458056718111038,
+    "direction_contrast_to_light_variance": [
+      5.414461612701416,
+      1.5378485918045044
+    ]
+  },
+  "27": {
+    "rank2_contrast_fraction": 0.3563220500946045,
+    "rank2_light_variance_fraction": 0.06411464512348175,
+    "direction_contrast_to_light_variance": [
+      2.7467734813690186,
+      1.661558985710144
+    ]
+  },
+  "28": {
+    "rank2_contrast_fraction": 0.418558806180954,
+    "rank2_light_variance_fraction": 0.19762440025806427,
+    "direction_contrast_to_light_variance": [
+      0.6092105507850647,
+      0.9216232299804688
+    ]
+  },
+  "29": {
+    "rank2_contrast_fraction": 0.47447067499160767,
+    "rank2_light_variance_fraction": 0.11521421372890472,
+    "direction_contrast_to_light_variance": [
+      5.147889614105225,
+      1.1637213230133057
+    ]
+  }
+}

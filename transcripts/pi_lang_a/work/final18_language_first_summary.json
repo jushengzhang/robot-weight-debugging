@@ -1,0 +1,11 @@
+{
+  "requested": 610,
+  "valid": 610,
+  "missing": 0,
+  "original": 535,
+  "edited": 551,
+  "gain_pp": 2.623,
+  "se_pp": 0.762,
+  "rescues": 19,
+  "regressions": 3
+}

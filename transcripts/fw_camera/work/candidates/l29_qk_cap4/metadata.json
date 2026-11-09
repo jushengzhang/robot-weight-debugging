@@ -1,0 +1,17 @@
+{
+  "mechanism": "Cap excessive Q/K normalization products in four agent-locked readers",
+  "cap": 4.0,
+  "heads": [
+    4,
+    7,
+    8,
+    17
+  ],
+  "layer": 29,
+  "counts": {
+    "4": 17,
+    "7": 21,
+    "8": 14,
+    "17": 12
+  }
+}

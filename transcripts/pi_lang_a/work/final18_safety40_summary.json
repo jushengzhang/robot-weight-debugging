@@ -1,0 +1,122 @@
+{
+  "Camera Viewpoints": {
+    "n": 128,
+    "original": 101,
+    "edited": 101,
+    "gain_pp": 0.0,
+    "se_pp": 0.0,
+    "rescues": 0,
+    "regressions": 0,
+    "unpaired": 0,
+    "termination": {
+      "original": {
+        "success": 101,
+        "max_steps": 27
+      },
+      "edited": {
+        "success": 101,
+        "max_steps": 27
+      }
+    }
+  },
+  "Robot Initial States": {
+    "n": 128,
+    "original": 100,
+    "edited": 100,
+    "gain_pp": 0.0,
+    "se_pp": 0.0,
+    "rescues": 0,
+    "regressions": 0,
+    "unpaired": 0,
+    "termination": {
+      "original": {
+        "success": 100,
+        "max_steps": 28
+      },
+      "edited": {
+        "success": 100,
+        "max_steps": 28
+      }
+    }
+  },
+  "Light Conditions": {
+    "n": 128,
+    "original": 122,
+    "edited": 120,
+    "gain_pp": -1.562,
+    "se_pp": 1.1,
+    "rescues": 0,
+    "regressions": 2,
+    "unpaired": 0,
+    "termination": {
+      "original": {
+        "success": 122,
+        "max_steps": 6
+      },
+      "edited": {
+        "success": 120,
+        "max_steps": 8
+      }
+    }
+  },
+  "Background Textures": {
+    "n": 128,
+    "original": 122,
+    "edited": 121,
+    "gain_pp": -0.781,
+    "se_pp": 0.781,
+    "rescues": 0,
+    "regressions": 1,
+    "unpaired": 0,
+    "termination": {
+      "original": {
+        "success": 122,
+        "max_steps": 6
+      },
+      "edited": {
+        "success": 121,
+        "max_steps": 7
+      }
+    }
+  },
+  "Sensor Noise": {
+    "n": 128,
+    "original": 109,
+    "edited": 108,
+    "gain_pp": -0.781,
+    "se_pp": 0.781,
+    "rescues": 0,
+    "regressions": 1,
+    "unpaired": 0,
+    "termination": {
+      "original": {
+        "success": 109,
+        "max_steps": 19
+      },
+      "edited": {
+        "success": 108,
+        "max_steps": 20
+      }
+    }
+  },
+  "Objects Layout": {
+    "n": 128,
+    "original": 102,
+    "edited": 102,
+    "gain_pp": 0.0,
+    "se_pp": 0.0,
+    "rescues": 0,
+    "regressions": 0,
+    "unpaired": 0,
+    "termination": {
+      "original": {
+        "success": 102,
+        "max_steps": 26
+      },
+      "edited": {
+        "success": 102,
+        "max_steps": 26
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "pass": 34,
+  "category": "Background Textures",
+  "n": 128,
+  "original_success": 79,
+  "restored_success": 79,
+  "diff_pp": 0.0,
+  "se_pp": 0.0,
+  "rescues": 0,
+  "regressions": 0,
+  "identical_action_trajectories": 128,
+  "max_action_delta": 0.0
+}

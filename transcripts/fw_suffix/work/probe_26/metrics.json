@@ -1,0 +1,38 @@
+{
+  "pass": 26,
+  "baseline_tag_gap": 0.07552249811649933,
+  "raw_to_original_clean": 0.07312558771403775,
+  "gap_ratio": 0.968262299814763,
+  "edited_raw_clean_gap": 0.07276287990677385,
+  "clean_drift": 0.0028939505810299795,
+  "language_drift": 0.003840734477095724,
+  "raw_change": 0.008010355899888017,
+  "correction_alignment": 0.3475109934806824,
+  "fraction_corrected": 0.036859042942523956,
+  "by_category": {
+    "Background Textures": {
+      "gap_ratio": 0.953420805271654,
+      "clean_drift": 0.0033089007024188957
+    },
+    "Camera Viewpoints": {
+      "gap_ratio": 0.9952067779683993,
+      "clean_drift": 0.0028138868154615805
+    },
+    "Light Conditions": {
+      "gap_ratio": 0.8623834736473299,
+      "clean_drift": 0.0022568853026676363
+    },
+    "Objects Layout": {
+      "gap_ratio": 0.9216491108957477,
+      "clean_drift": 0.002437215853281822
+    },
+    "Robot Initial States": {
+      "gap_ratio": 0.9744113479947838,
+      "clean_drift": 0.0028440363564959095
+    },
+    "Sensor Noise": {
+      "gap_ratio": 0.9545392769872695,
+      "clean_drift": 0.0035015456218661215
+    }
+  }
+}

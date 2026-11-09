@@ -1,0 +1,243 @@
+{
+  "family": "protected_video_value_input_projection",
+  "layers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "rank": 1,
+  "dose": 0.5,
+  "control": false,
+  "protected": "light means, camera mean difference, constant, top8 light PCs",
+  "tensors": [
+    {
+      "layer": 1,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.017109975218772888,
+      "normal_mean_leak": 1.1497759260237217e-06
+    },
+    {
+      "layer": 2,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.011729163117706776,
+      "normal_mean_leak": 1.0030344128608704e-06
+    },
+    {
+      "layer": 3,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010688289068639278,
+      "normal_mean_leak": 4.876332241110504e-06
+    },
+    {
+      "layer": 4,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.011781788431107998,
+      "normal_mean_leak": 4.202294803690165e-06
+    },
+    {
+      "layer": 5,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010778550058603287,
+      "normal_mean_leak": 2.5114277377724648e-06
+    },
+    {
+      "layer": 6,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010740445926785469,
+      "normal_mean_leak": 4.03914600610733e-06
+    },
+    {
+      "layer": 7,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010804073885083199,
+      "normal_mean_leak": 1.096399500966072e-06
+    },
+    {
+      "layer": 8,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.011098740622401237,
+      "normal_mean_leak": 1.951702870428562e-06
+    },
+    {
+      "layer": 9,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.01062946766614914,
+      "normal_mean_leak": 3.190943971276283e-07
+    },
+    {
+      "layer": 10,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.011582515202462673,
+      "normal_mean_leak": 8.48318450152874e-07
+    },
+    {
+      "layer": 11,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010759904980659485,
+      "normal_mean_leak": 1.8812716007232666e-07
+    },
+    {
+      "layer": 12,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.011383726261556149,
+      "normal_mean_leak": 3.573484718799591e-06
+    },
+    {
+      "layer": 13,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010418165475130081,
+      "normal_mean_leak": 4.82494942843914e-06
+    },
+    {
+      "layer": 14,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010888626798987389,
+      "normal_mean_leak": 1.577951479703188e-06
+    },
+    {
+      "layer": 15,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010994184762239456,
+      "normal_mean_leak": 2.9955990612506866e-06
+    },
+    {
+      "layer": 16,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.01124685537070036,
+      "normal_mean_leak": 5.117617547512054e-07
+    },
+    {
+      "layer": 17,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010653998702764511,
+      "normal_mean_leak": 2.9976945370435715e-06
+    },
+    {
+      "layer": 18,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010136294178664684,
+      "normal_mean_leak": 7.381197065114975e-06
+    },
+    {
+      "layer": 19,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.009654051624238491,
+      "normal_mean_leak": 2.6170164346694946e-07
+    },
+    {
+      "layer": 20,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010065664537250996,
+      "normal_mean_leak": 2.5765039026737213e-06
+    },
+    {
+      "layer": 21,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.008880898356437683,
+      "normal_mean_leak": 2.9425136744976044e-06
+    },
+    {
+      "layer": 22,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.00819330383092165,
+      "normal_mean_leak": 3.342574927955866e-07
+    },
+    {
+      "layer": 23,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.007906542159616947,
+      "normal_mean_leak": 1.835272996686399e-06
+    },
+    {
+      "layer": 24,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.0091868806630373,
+      "normal_mean_leak": 3.6268465919420123e-06
+    },
+    {
+      "layer": 25,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.009969945065677166,
+      "normal_mean_leak": 6.210029823705554e-07
+    },
+    {
+      "layer": 26,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.01106694433838129,
+      "normal_mean_leak": 2.1319719962775707e-06
+    },
+    {
+      "layer": 27,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.010403958149254322,
+      "normal_mean_leak": 2.4864202714525163e-06
+    },
+    {
+      "layer": 28,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.012029056437313557,
+      "normal_mean_leak": 4.978706783731468e-06
+    },
+    {
+      "layer": 29,
+      "rank": 1,
+      "effective_dose": 0.5,
+      "weight_relative_change": 0.011360147036612034,
+      "normal_mean_leak": 3.198860213160515e-06
+    }
+  ]
+}

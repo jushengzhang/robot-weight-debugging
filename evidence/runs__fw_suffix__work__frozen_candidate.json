@@ -1,0 +1,20 @@
+{
+  "name": "single_selective_context_attention_gate",
+  "threshold": 1.0,
+  "strength": 6.0,
+  "detector_gain": 32.0,
+  "key_gain": 64.0,
+  "experts": [
+    "action",
+    "video"
+  ],
+  "edited_count": 308,
+  "frozen_after_pass": 33,
+  "weight_snapshot": "WORK/fwd/probe_33_weights",
+  "selection_data": "diagnostic probes only; validation sets untouched",
+  "validation_plan": {
+    "tagged": "validation_a, validation_b, new disjoint validation_c (384 paired episodes)",
+    "strip": "validation_a and validation_b (256 paired episodes)",
+    "language": "language_a and language_b (256 paired episodes)"
+  }
+}

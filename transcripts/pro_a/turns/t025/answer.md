@@ -1,0 +1,4 @@
+The matched episodes are not pixel-identical, so I cannot treat their activation differences as purely linguistic. One useful architectural clue is that the first expert attention layer reads VLM keys and values before instruction tokens have been mixed with scene context. I will inspect these early heads to see whether a more direct lexical pathway is available.
+```forward
+{"type":"probe","model":"original","inputs":["WORK/roll_8_frames/e1934_seed7_original/t0000_inputs.pt","WORK/roll_8_frames/e1901_seed7_original/t0000_inputs.pt","WORK/roll_8_frames/e1879_seed7_original/t0000_inputs.pt","WORK/roll_8_frames/e1956_seed7_original/t0000_inputs.pt"],"return":{"layers":[0,1,2,4],"vlm_layers":[],"vision_layers":[],"what":"attn_maps"}}
+```

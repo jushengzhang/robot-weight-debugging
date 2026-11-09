@@ -1,0 +1,17 @@
+{
+  "name": "oblique_text_contrast_removal",
+  "rank": 24,
+  "strength": 1.0,
+  "experts": [
+    "action",
+    "video"
+  ],
+  "relative_changes": {
+    "action": 0.09719013422727585,
+    "video": 0.09165722131729126
+  },
+  "edited_names": [
+    "mot.mixtures.action.text_embedding.0.weight",
+    "mot.mixtures.video.text_embedding.0.weight"
+  ]
+}

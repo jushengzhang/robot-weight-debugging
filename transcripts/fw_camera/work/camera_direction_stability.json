@@ -1,0 +1,35 @@
+{
+  "11": {
+    "split_direction_cos": 0.9213910102844238,
+    "heldhalf_energy_fraction": 0.576530396938324,
+    "pair_direction_rms": 15.545401573181152,
+    "light_coefficient_mean": 25.831741333007812,
+    "light_coefficient_sd": 7.3645219802856445,
+    "mild_coefficient_mean": 21.68741798400879,
+    "severe_coefficient_mean": 13.530421257019043,
+    "mild_coefficient_sd": 11.921591758728027,
+    "severe_coefficient_sd": 10.930439949035645
+  },
+  "16": {
+    "split_direction_cos": 0.9110075235366821,
+    "heldhalf_energy_fraction": 0.5812578201293945,
+    "pair_direction_rms": 16.969263076782227,
+    "light_coefficient_mean": 11.696052551269531,
+    "light_coefficient_sd": 13.64101791381836,
+    "mild_coefficient_mean": 3.1829206943511963,
+    "severe_coefficient_mean": 5.492013931274414,
+    "mild_coefficient_sd": 10.924363136291504,
+    "severe_coefficient_sd": 13.444015502929688
+  },
+  "29": {
+    "split_direction_cos": 0.203582301735878,
+    "heldhalf_energy_fraction": 0.08834639936685562,
+    "pair_direction_rms": 5.397622108459473,
+    "light_coefficient_mean": -11.557889938354492,
+    "light_coefficient_sd": 3.971519947052002,
+    "mild_coefficient_mean": -10.477307319641113,
+    "severe_coefficient_mean": -12.568807601928711,
+    "mild_coefficient_sd": 4.182411193847656,
+    "severe_coefficient_sd": 3.1404976844787598
+  }
+}

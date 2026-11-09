@@ -1,0 +1,32 @@
+{
+  "Camera Viewpoints": {
+    "n": 128,
+    "exposed": 0,
+    "episodes": []
+  },
+  "Robot Initial States": {
+    "n": 128,
+    "exposed": 0,
+    "episodes": []
+  },
+  "Light Conditions": {
+    "n": 128,
+    "exposed": 0,
+    "episodes": []
+  },
+  "Background Textures": {
+    "n": 128,
+    "exposed": 0,
+    "episodes": []
+  },
+  "Sensor Noise": {
+    "n": 128,
+    "exposed": 0,
+    "episodes": []
+  },
+  "Objects Layout": {
+    "n": 128,
+    "exposed": 0,
+    "episodes": []
+  }
+}

@@ -1,0 +1,491 @@
+[
+  {
+    "pass": 1,
+    "type": "rollout",
+    "purpose": "Original matched camera/light diagnosis",
+    "edit": "original",
+    "episodes": 57
+  },
+  {
+    "pass": 2,
+    "type": "probe",
+    "purpose": "All-layer first-state camera/control comparison",
+    "edit": "original",
+    "inputs": 57,
+    "noise_seed": 46001
+  },
+  {
+    "pass": 3,
+    "type": "probe",
+    "purpose": "Head maps on two matched mild-success/severe-failure camera pairs",
+    "edit": "original",
+    "inputs": 4,
+    "layers": [
+      11,
+      16,
+      22,
+      29
+    ],
+    "noise_seed": 46001
+  },
+  {
+    "pass": 4,
+    "type": "probe",
+    "purpose": "Causal attention check of selective L29 Q/K gain cap",
+    "edit": "l29_qk_cap4",
+    "inputs": 4,
+    "noise_seed": 46001
+  },
+  {
+    "pass": 5,
+    "type": "rollout",
+    "edit": "l29_qk_cap4",
+    "episodes": 128,
+    "paired_diff_pp": 1.5625,
+    "se_pp": 2.93,
+    "wrong_to_right": 8,
+    "right_to_wrong": 6,
+    "purpose": "Discovery screen; inconclusive"
+  },
+  {
+    "pass": 6,
+    "type": "rollout",
+    "edit": "l29_suspect_o_half",
+    "episodes": 128,
+    "paired_diff_pp": 3.125,
+    "se_pp": 3.13,
+    "wrong_to_right": 10,
+    "right_to_wrong": 6
+  },
+  {
+    "pass": 7,
+    "type": "probe",
+    "edit": "l29_suspect_o_half",
+    "inputs": 4,
+    "noise_seed": 46001
+  },
+  {
+    "pass": 8,
+    "type": "probe",
+    "edit": "l11_rank1_center_half",
+    "inputs": 57,
+    "noise_seed": 46001,
+    "original_camera_pair_rms": 0.07121815532445908,
+    "edited_camera_pair_rms": 0.07078828662633896,
+    "pair_rms_change_pct": -0.6035923957824707,
+    "pairs_improved": 12,
+    "edit_xyz_rms_by_group": [
+      0.0018764809938147664,
+      0.0026156834792345762,
+      0.0012490502558648586
+    ],
+    "edit_gripper_disagreement_by_group": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "pass": 9,
+    "type": "rollout",
+    "edit": "l11_rank1_center_half",
+    "episodes": 128,
+    "paired_diff_pp": -1.5625,
+    "se_pp": 3.33,
+    "wrong_to_right": 8,
+    "right_to_wrong": 10,
+    "decision": "rejected"
+  },
+  {
+    "pass": 10,
+    "type": "probe",
+    "edit": "original",
+    "inputs": 57,
+    "what": "resid",
+    "noise_seed": 46001
+  },
+  {
+    "pass": 11,
+    "type": "rollout",
+    "edit": "original",
+    "episodes": 111,
+    "camera_success": "40/74",
+    "light_success": "35/37",
+    "purpose": "Broader matched discovery"
+  },
+  {
+    "pass": 12,
+    "type": "probe",
+    "edit": "original",
+    "inputs": 111,
+    "noise_seed": 46001,
+    "purpose": "Post-block residuals on broader matched discovery"
+  },
+  {
+    "pass": 13,
+    "type": "probe",
+    "edit": "readout_camera_rank2_full",
+    "inputs": 57,
+    "noise_seed": 46001,
+    "original_camera_pair_rms": 0.07121815532445908,
+    "edited_camera_pair_rms": 0.06991373747587204,
+    "pair_rms_change_pct": -1.8315792083740234,
+    "pairs_improved": 13,
+    "edit_xyz_rms_by_group": [
+      0.006257421337068081,
+      0.011679956689476967,
+      0.0028151695150882006
+    ],
+    "edit_gripper_disagreement_by_group": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "pass": 14,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_full",
+    "category": "Camera Viewpoints",
+    "n": 128,
+    "original_success": 64,
+    "edited_success": 72,
+    "diff_pp": 6.25,
+    "se_pp": 3.2810449410990716,
+    "gains": 13,
+    "losses": 5
+  },
+  {
+    "pass": 15,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_full",
+    "category": "Light Conditions",
+    "n": 128,
+    "original_success": 118,
+    "edited_success": 119,
+    "diff_pp": 0.78125,
+    "se_pp": 2.0739567122748155,
+    "gains": 4,
+    "losses": 3
+  },
+  {
+    "pass": 16,
+    "type": "probe",
+    "edit": "readout_camera_rank2_half",
+    "inputs": 57,
+    "noise_seed": 46001,
+    "original_camera_pair_rms": 0.07121815532445908,
+    "edited_camera_pair_rms": 0.07045962661504745,
+    "pair_rms_change_pct": -1.065075397491455,
+    "pairs_improved": 13,
+    "edit_xyz_rms_by_group": [
+      0.0032289926894009113,
+      0.00554443197324872,
+      0.001651584985665977
+    ],
+    "edit_gripper_disagreement_by_group": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "half_full_action_slope": 0.46751692197701095,
+    "half_full_action_cosine": 0.9558963491252997
+  },
+  {
+    "pass": 17,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "category": "Camera Viewpoints",
+    "n": 128,
+    "original_success": 64,
+    "edited_success": 73,
+    "diff_pp": 7.03125,
+    "se_pp": 2.972891330289857,
+    "gains": 12,
+    "losses": 3
+  },
+  {
+    "pass": 18,
+    "type": "probe",
+    "edit": "readout_rank2_negative_control",
+    "inputs": 57,
+    "original_camera_pair_rms": 0.07121815532445908,
+    "edited_camera_pair_rms": 0.07123301923274994,
+    "pair_rms_change_pct": 0.020873546600341797,
+    "pairs_improved": 10,
+    "edit_xyz_rms_by_group": [
+      0.0012430449714884162,
+      0.001240441226400435,
+      0.0011913853231817484
+    ],
+    "edit_gripper_disagreement_by_group": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "pass": 19,
+    "type": "rollout",
+    "edit": "readout_rank2_negative_control",
+    "n": 128,
+    "original_success": 65,
+    "edited_success": 67,
+    "diff_pp": 1.5625,
+    "se_pp": 2.476358441722394,
+    "gains": 6,
+    "losses": 4
+  },
+  {
+    "pass": 20,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Untouched camera validation A",
+    "n": 128,
+    "original_success": 59,
+    "edited_success": 57,
+    "diff_pp": -1.5625,
+    "se_pp": 2.713423316130324,
+    "gains": 5,
+    "losses": 7
+  },
+  {
+    "pass": 21,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Independent camera validation",
+    "n": 128,
+    "original": 55,
+    "edited": 59,
+    "diff_pp": 3.125,
+    "se_pp": 3.316,
+    "gains": 11,
+    "losses": 7
+  },
+  {
+    "pass": 22,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Independent camera validation",
+    "n": 128,
+    "original": 60,
+    "edited": 57,
+    "diff_pp": -2.344,
+    "se_pp": 2.82,
+    "gains": 5,
+    "losses": 8
+  },
+  {
+    "pass": 23,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Independent camera validation D",
+    "n": 90,
+    "original": 34,
+    "edited": 39,
+    "diff_pp": 5.556,
+    "se_pp": 3.985,
+    "gains": 9,
+    "losses": 4
+  },
+  {
+    "pass": 24,
+    "type": "probe",
+    "edit": "readout_camera_rank2_clean16_center_half",
+    "metrics": {
+      "original_pair_xyz_rms": 0.07121815532445908,
+      "edited_pair_xyz_rms": 0.07026716321706772,
+      "relative_pct": -1.3353228569030762,
+      "pairs_improved": 13,
+      "xyz_edit_rms_mild_severe_light": [
+        0.002288386458531022,
+        0.004673936869949102,
+        0.0016817270079627633
+      ],
+      "gripper_sign_disagreement": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "pass": 25,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_clean16_center_half",
+    "purpose": "Discovery",
+    "n": 128,
+    "original": 63,
+    "edited": 66,
+    "diff_pp": 2.344,
+    "se_pp": 2.82,
+    "gains": 8,
+    "losses": 5
+  },
+  {
+    "pass": 26,
+    "type": "probe",
+    "edit": "l29_qk_outlier64_ablation",
+    "metrics": {
+      "suspect_original_entropy": 0.15163728584078628,
+      "suspect_ablated_entropy": 0.39819634147481103,
+      "suspect_original_agent_fraction": 0.9995418190956116,
+      "suspect_ablated_agent_fraction": 0.7592610120773315,
+      "pair_action": [
+        {
+          "original": 0.08300881087779999,
+          "ablated": 0.0828448235988617,
+          "relative_pct": -0.1975540634833406
+        },
+        {
+          "original": 0.08551836013793945,
+          "ablated": 0.08582451194524765,
+          "relative_pct": 0.3579954138671182
+        }
+      ]
+    }
+  },
+  {
+    "pass": 27,
+    "type": "rollout",
+    "edit": "l29_qk_outlier64_ablation",
+    "purpose": "Discovery",
+    "n": 128,
+    "original": 64,
+    "edited": 66,
+    "diff_pp": 1.562,
+    "se_pp": 2.931,
+    "gains": 8,
+    "losses": 6
+  },
+  {
+    "pass": 28,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Never-run camera reserve",
+    "n": 128,
+    "original": 41,
+    "edited": 47,
+    "diff_pp": 4.688,
+    "se_pp": 3.11,
+    "gains": 11,
+    "losses": 5
+  },
+  {
+    "pass": 29,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Preplanned camera seed panel",
+    "n": 128,
+    "original": 56,
+    "edited": 59,
+    "diff_pp": 2.344,
+    "se_pp": 3.756,
+    "gains": 13,
+    "losses": 10
+  },
+  {
+    "pass": 30,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Preplanned camera seed panel",
+    "n": 128,
+    "original": 39,
+    "edited": 46,
+    "diff_pp": 5.469,
+    "se_pp": 2.786,
+    "gains": 10,
+    "losses": 3
+  },
+  {
+    "pass": 31,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Preplanned camera seed panel",
+    "n": 128,
+    "original": 56,
+    "edited": 50,
+    "diff_pp": -4.688,
+    "se_pp": 3.11,
+    "gains": 5,
+    "losses": 11
+  },
+  {
+    "pass": 32,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Safety: Light Conditions",
+    "n": 128,
+    "original": 121,
+    "edited": 121,
+    "diff_pp": 0.0,
+    "se_pp": 1.109,
+    "gains": 1,
+    "losses": 1
+  },
+  {
+    "pass": 33,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Safety: Robot Initial States",
+    "n": 128,
+    "original": 85,
+    "edited": 85,
+    "diff_pp": 0.0,
+    "se_pp": 2.218,
+    "gains": 4,
+    "losses": 4
+  },
+  {
+    "pass": 34,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Safety: Language Instructions",
+    "n": 128,
+    "original": 77,
+    "edited": 75,
+    "diff_pp": -1.562,
+    "se_pp": 2.713,
+    "gains": 5,
+    "losses": 7
+  },
+  {
+    "pass": 35,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Safety: Background Textures",
+    "n": 128,
+    "original": 79,
+    "edited": 80,
+    "diff_pp": 0.781,
+    "se_pp": 1.752,
+    "gains": 3,
+    "losses": 2
+  },
+  {
+    "pass": 36,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Safety: Sensor Noise",
+    "n": 128,
+    "original": 73,
+    "edited": 70,
+    "diff_pp": -2.344,
+    "se_pp": 2.593,
+    "gains": 4,
+    "losses": 7
+  },
+  {
+    "pass": 37,
+    "type": "rollout",
+    "edit": "readout_camera_rank2_half",
+    "purpose": "Safety: Objects Layout",
+    "n": 128,
+    "original": 92,
+    "edited": 92,
+    "diff_pp": 0.0,
+    "se_pp": 1.569,
+    "gains": 2,
+    "losses": 2
+  }
+]

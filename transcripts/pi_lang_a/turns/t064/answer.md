@@ -1,0 +1,4 @@
+This probe will compare the final candidate with literal references using identical images and diffusion noise, and replay one canonical camera-perturbed input from each suite to check exact policy invariance.
+```forward
+{"type":"probe","model":"both","inputs":["WORK/roll_1_frames/libero_goal_v1379_s7_original/t0000_inputs.pt","WORK/roll_2_frames/libero_goal_v1378_s7_original/t0000_inputs.pt","WORK/roll_2_frames/libero_10_v1466_s7_original/t0000_inputs.pt","WORK/roll_2_frames/libero_10_v1464_s7_original/t0000_inputs.pt","WORK/roll_19_frames/libero_10_v791_s7_original/t0000_inputs.pt","WORK/roll_19_frames/libero_goal_v1051_s7_original/t0000_inputs.pt","WORK/roll_19_frames/libero_object_v706_s7_original/t0000_inputs.pt","WORK/roll_19_frames/libero_spatial_v710_s7_original/t0000_inputs.pt"],"return":{"layers":[0,3,6,9,12,17],"vlm_layers":[0,3,6,9,12,17],"what":"resid"}}
+```

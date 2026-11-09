@@ -1,0 +1,15 @@
+{
+  "pass": 35,
+  "category": "Light Conditions",
+  "n": 128,
+  "original_success": 120,
+  "restored_success": 120,
+  "diff_pp": 0.0,
+  "se_pp": 0.0,
+  "rescues": 0,
+  "regressions": 0,
+  "identical_action_trajectories": 125,
+  "same_trajectory_lengths": 127,
+  "max_common_prefix_action_delta": 2.0,
+  "mean_absolute_step_difference": 0.75
+}

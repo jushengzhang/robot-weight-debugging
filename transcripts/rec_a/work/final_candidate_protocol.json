@@ -1,0 +1,21 @@
+{
+  "candidate": "E17H1_visual_grip_retention_beta_minus2",
+  "tensor": "paligemma_with_expert.gemma_expert.model.layers.17.self_attn.o_proj.weight",
+  "beta": -2.0,
+  "frozen_after_pass": 45,
+  "passes": {
+    "46": "fixed64 discovery screen",
+    "47": "same16 paired mechanism probe",
+    "48": "untouched validation panel2",
+    "49": "untouched validation panel3",
+    "50": "untouched validation panel4"
+  },
+  "validation_episodes": 290,
+  "decision": "Keep only if independent paired success gain exceeds 2 SE, loop failures improve, and solved-scene damage is small. Otherwise revert.",
+  "ordinary_task_caveat": "Tool exposes only practice recovery scenes; original-task performance cannot be directly certified.",
+  "acceptance": {
+    "gain_threshold": "2*max(episode-paired SE, scene-cluster SE)",
+    "loop_failure_delta": "strictly negative",
+    "baseline_success_losses_max": "0.02 * validation episode count"
+  }
+}

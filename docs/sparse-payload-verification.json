@@ -1,0 +1,7 @@
+{
+  "payload_rows": 65,
+  "changed_scalars": 132768,
+  "cli_dry_run": "passed on a sparse safetensors fixture populated with the released original rows",
+  "incompatible_rows_rejected": true,
+  "scope": "serialization and compatibility checks; no new model inference or simulator rollouts"
+}

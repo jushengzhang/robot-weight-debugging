@@ -1,0 +1,46 @@
+{
+  "40": {
+    "split": "validation_a",
+    "language": "raw"
+  },
+  "41": {
+    "split": "validation_b",
+    "language": "raw"
+  },
+  "42": {
+    "split": "validation_c",
+    "language": "raw"
+  },
+  "43": {
+    "split": "validation_d",
+    "language": "raw"
+  },
+  "44": {
+    "split": "validation_a",
+    "language": "strip"
+  },
+  "45": {
+    "split": "validation_b",
+    "language": "strip"
+  },
+  "46": {
+    "split": "validation_c",
+    "language": "strip"
+  },
+  "47": {
+    "split": "validation_d",
+    "language": "strip"
+  },
+  "48": {
+    "split": "language_a",
+    "language": "raw"
+  },
+  "49": {
+    "split": "language_b",
+    "language": "raw"
+  },
+  "50": {
+    "split": "language_c",
+    "language": "raw"
+  }
+}

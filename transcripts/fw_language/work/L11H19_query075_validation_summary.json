@@ -1,0 +1,9 @@
+{
+  "n": 384,
+  "original_successes": 240,
+  "edited_successes": 236,
+  "diff_pp": -1.0417,
+  "se_pp": 1.1649,
+  "rescues": 8,
+  "regressions": 12
+}

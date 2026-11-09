@@ -1,0 +1,178 @@
+[
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s4_open_seed17_original/t0400_inputs.pt",
+    "id": 4,
+    "grip": "open",
+    "step": 400,
+    "group": "loop",
+    "direction": "close",
+    "boundary": 3,
+    "level": "L4",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s81_open_seed17_original/t0050_inputs.pt",
+    "id": 81,
+    "grip": "open",
+    "step": 50,
+    "group": "loop",
+    "direction": "close",
+    "boundary": 3,
+    "level": "L4",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s142_open_seed17_original/t0000_inputs.pt",
+    "id": 142,
+    "grip": "open",
+    "step": 0,
+    "group": "loop",
+    "direction": "close",
+    "boundary": 3,
+    "level": "L4",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s142_open_seed17_original/t0400_inputs.pt",
+    "id": 142,
+    "grip": "open",
+    "step": 400,
+    "group": "loop",
+    "direction": "close",
+    "boundary": 3,
+    "level": "L4",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s4_open_seed17_original/t0100_inputs.pt",
+    "id": 4,
+    "grip": "open",
+    "step": 100,
+    "group": "loop",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L4",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s4_open_seed17_original/t0200_inputs.pt",
+    "id": 4,
+    "grip": "open",
+    "step": 200,
+    "group": "loop",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L4",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s142_open_seed17_original/t0200_inputs.pt",
+    "id": 142,
+    "grip": "open",
+    "step": 200,
+    "group": "loop",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L4",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s241_open_seed17_original/t0150_inputs.pt",
+    "id": 241,
+    "grip": "open",
+    "step": 150,
+    "group": "loop",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L3",
+    "success": false
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s903_open_seed17_original/t0000_inputs.pt",
+    "id": 903,
+    "grip": "open",
+    "step": 0,
+    "group": "success",
+    "direction": "close",
+    "boundary": 3,
+    "level": "L2",
+    "success": true
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s1320_open_seed17_original/t0000_inputs.pt",
+    "id": 1320,
+    "grip": "open",
+    "step": 0,
+    "group": "success",
+    "direction": "close",
+    "boundary": 3,
+    "level": "L2",
+    "success": true
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s833_close_seed17_original/t0100_inputs.pt",
+    "id": 833,
+    "grip": "close",
+    "step": 100,
+    "group": "success",
+    "direction": "close",
+    "boundary": 4,
+    "level": "L1",
+    "success": true
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s3_open_seed17_original/t0000_inputs.pt",
+    "id": 3,
+    "grip": "open",
+    "step": 0,
+    "group": "success",
+    "direction": "close",
+    "boundary": 1,
+    "level": "L4",
+    "success": true
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s145_open_seed17_original/t0150_inputs.pt",
+    "id": 145,
+    "grip": "open",
+    "step": 150,
+    "group": "success",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L2",
+    "success": true
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s823_close_seed17_original/t0000_inputs.pt",
+    "id": 823,
+    "grip": "close",
+    "step": 0,
+    "group": "success",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L1",
+    "success": true
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s846_close_seed17_original/t0050_inputs.pt",
+    "id": 846,
+    "grip": "close",
+    "step": 50,
+    "group": "success",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L1",
+    "success": true
+  },
+  {
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s963_open_seed17_original/t0100_inputs.pt",
+    "id": 963,
+    "grip": "open",
+    "step": 100,
+    "group": "success",
+    "direction": "open",
+    "boundary": 3,
+    "level": "L3",
+    "success": true
+  }
+]

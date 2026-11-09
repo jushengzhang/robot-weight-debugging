@@ -1,0 +1,31 @@
+The action-input columns are already nearly orthogonal, so simple gripper-to-pose leakage at the input is not supported. I will instead collect layer-by-layer visual residuals from eight matched tasks. These will let me identify a small, instruction-independent visual-change subspace and check where its transmission is weakest.
+```forward
+{
+ "type":"probe",
+ "model":"original",
+ "inputs":[
+  "WORK/roll_1_frames/s10_close_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s10_open_seed17_original/t0050_inputs.pt",
+  "WORK/roll_1_frames/s11_close_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s11_open_seed17_original/t0050_inputs.pt",
+  "WORK/roll_1_frames/s27_close_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s27_open_seed17_original/t0050_inputs.pt",
+  "WORK/roll_1_frames/s65_close_seed17_original/t0050_inputs.pt",
+  "WORK/roll_1_frames/s65_open_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s126_close_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s126_open_seed17_original/t0050_inputs.pt",
+  "WORK/roll_1_frames/s405_close_seed17_original/t0050_inputs.pt",
+  "WORK/roll_1_frames/s405_open_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s620_close_seed17_original/t0050_inputs.pt",
+  "WORK/roll_1_frames/s620_open_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s647_close_seed17_original/t0250_inputs.pt",
+  "WORK/roll_1_frames/s647_open_seed17_original/t0050_inputs.pt"
+ ],
+ "return":{
+  "layers":[],
+  "vlm_layers":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+  "vision_layers":[0,5,10,15,20,26],
+  "what":"resid"
+ }
+}
+```

@@ -1,0 +1,80 @@
+{
+  "Light Conditions": {
+    "n": 128,
+    "original": 121,
+    "edited": 121,
+    "diff_pp": 0.0,
+    "se_pp": 1.109195636770142,
+    "gains": 1,
+    "losses": 1,
+    "variants": 128,
+    "cluster_se_pp": 1.109195636770142,
+    "equal_variant_diff_pp": 0.0,
+    "equal_variant_se_pp": 1.109195636770142
+  },
+  "Robot Initial States": {
+    "n": 128,
+    "original": 85,
+    "edited": 85,
+    "diff_pp": 0.0,
+    "se_pp": 2.218391273540284,
+    "gains": 4,
+    "losses": 4,
+    "variants": 128,
+    "cluster_se_pp": 2.218391273540284,
+    "equal_variant_diff_pp": 0.0,
+    "equal_variant_se_pp": 2.218391273540284
+  },
+  "Language Instructions": {
+    "n": 128,
+    "original": 77,
+    "edited": 75,
+    "diff_pp": -1.5625,
+    "se_pp": 2.713423316130324,
+    "gains": 5,
+    "losses": 7,
+    "variants": 128,
+    "cluster_se_pp": 2.7134233161303243,
+    "equal_variant_diff_pp": -1.5625,
+    "equal_variant_se_pp": 2.713423316130324
+  },
+  "Background Textures": {
+    "n": 128,
+    "original": 79,
+    "edited": 80,
+    "diff_pp": 0.78125,
+    "se_pp": 1.7524216055960515,
+    "gains": 3,
+    "losses": 2,
+    "variants": 128,
+    "cluster_se_pp": 1.7524216055960513,
+    "equal_variant_diff_pp": 0.78125,
+    "equal_variant_se_pp": 1.7524216055960515
+  },
+  "Sensor Noise": {
+    "n": 256,
+    "original": 170,
+    "edited": 169,
+    "diff_pp": -0.390625,
+    "se_pp": 1.705854868328918,
+    "gains": 9,
+    "losses": 10,
+    "variants": 256,
+    "cluster_se_pp": 1.705854868328918,
+    "equal_variant_diff_pp": -0.390625,
+    "equal_variant_se_pp": 1.705854868328918
+  },
+  "Objects Layout": {
+    "n": 128,
+    "original": 92,
+    "edited": 92,
+    "diff_pp": 0.0,
+    "se_pp": 1.568639512845396,
+    "gains": 2,
+    "losses": 2,
+    "variants": 128,
+    "cluster_se_pp": 1.5686395128453965,
+    "equal_variant_diff_pp": 0.0,
+    "equal_variant_se_pp": 1.568639512845396
+  }
+}

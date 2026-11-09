@@ -1,0 +1,4 @@
+I will replay the same task, successful paraphrase, moved-object, and environment observations under the stronger positional edit. Attention at early and middle layers will show whether patch 193's influence changes and whether the ordinary wrist-control pathway remains intact.
+```forward
+{"type":"probe","model":"both","inputs":["WORK/roll_1_frames/e1946_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1923_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1896_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e954_seed7_original/t0000_inputs.pt"],"return":{"layers":[0,4,9,13],"vlm_layers":[],"vision_layers":[],"what":"attn_maps"}}
+```

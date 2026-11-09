@@ -1,0 +1,557 @@
+[
+  {
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it",
+    "seed": 5100,
+    "ids": [
+      751,
+      777,
+      2261
+    ],
+    "difficulties": [
+      2,
+      5,
+      2
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it",
+    "seed": 5101,
+    "ids": [
+      801,
+      802,
+      2303
+    ],
+    "difficulties": [
+      3,
+      5,
+      3
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it",
+    "seed": 5102,
+    "ids": [
+      1080,
+      1075,
+      2372
+    ],
+    "difficulties": [
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove",
+    "seed": 5103,
+    "ids": [
+      1028,
+      1041,
+      2392
+    ],
+    "difficulties": [
+      4,
+      5,
+      5
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket",
+    "seed": 5104,
+    "ids": [
+      987,
+      1017,
+      2401
+    ],
+    "difficulties": [
+      2,
+      5,
+      2
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket",
+    "seed": 5105,
+    "ids": [
+      695,
+      698,
+      2415
+    ],
+    "difficulties": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket",
+    "seed": 5106,
+    "ids": [
+      704,
+      731,
+      2431
+    ],
+    "difficulties": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate",
+    "seed": 5107,
+    "ids": [
+      862,
+      845,
+      2463
+    ],
+    "difficulties": [
+      5,
+      5,
+      2
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate",
+    "seed": 5108,
+    "ids": [
+      938,
+      956,
+      2471
+    ],
+    "difficulties": [
+      1,
+      5,
+      2
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy",
+    "seed": 5109,
+    "ids": [
+      892,
+      885,
+      2510
+    ],
+    "difficulties": [
+      5,
+      5,
+      3
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "open_the_middle_drawer_of_the_cabinet",
+    "seed": 5110,
+    "ids": [
+      692,
+      699,
+      2349
+    ],
+    "difficulties": [
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "open_the_top_drawer_and_put_the_bowl_inside",
+    "seed": 5111,
+    "ids": [
+      788,
+      812,
+      2376
+    ],
+    "difficulties": [
+      4,
+      5,
+      3
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "push_the_plate_to_the_front_of_the_stove",
+    "seed": 5112,
+    "ids": [
+      894,
+      924,
+      2409
+    ],
+    "difficulties": [
+      3,
+      5,
+      1
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_plate",
+    "seed": 5113,
+    "ids": [
+      1046,
+      1029,
+      2457
+    ],
+    "difficulties": [
+      1,
+      4,
+      2
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_cream_cheese_in_the_bowl",
+    "seed": 5116,
+    "ids": [
+      969,
+      950,
+      2493
+    ],
+    "difficulties": [
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_the_rack",
+    "seed": 5117,
+    "ids": [
+      1095,
+      1069,
+      2538
+    ],
+    "difficulties": [
+      1,
+      4,
+      2
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_top_of_the_cabinet",
+    "seed": 5118,
+    "ids": [
+      746,
+      769,
+      2562
+    ],
+    "difficulties": [
+      1,
+      5,
+      1
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "turn_on_the_stove",
+    "seed": 5119,
+    "ids": [
+      993,
+      1016,
+      2573
+    ],
+    "difficulties": [
+      1,
+      2,
+      2
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+    "seed": 5120,
+    "ids": [
+      656,
+      664,
+      2246
+    ],
+    "difficulties": [
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_bbq_sauce_and_place_it_in_the_basket",
+    "seed": 5121,
+    "ids": [
+      743,
+      764,
+      2285
+    ],
+    "difficulties": [
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_butter_and_place_it_in_the_basket",
+    "seed": 5122,
+    "ids": [
+      892,
+      903,
+      2320
+    ],
+    "difficulties": [
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
+    "seed": 5123,
+    "ids": [
+      1015,
+      987,
+      2376
+    ],
+    "difficulties": [
+      1,
+      4,
+      4
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_cream_cheese_and_place_it_in_the_basket",
+    "seed": 5124,
+    "ids": [
+      684,
+      673,
+      2391
+    ],
+    "difficulties": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_ketchup_and_place_it_in_the_basket",
+    "seed": 5125,
+    "ids": [
+      800,
+      791,
+      2398
+    ],
+    "difficulties": [
+      2,
+      5,
+      3
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_milk_and_place_it_in_the_basket",
+    "seed": 5126,
+    "ids": [
+      945,
+      963,
+      2422
+    ],
+    "difficulties": [
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_orange_juice_and_place_it_in_the_basket",
+    "seed": 5127,
+    "ids": [
+      1031,
+      1017,
+      2459
+    ],
+    "difficulties": [
+      2,
+      5,
+      3
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_salad_dressing_and_place_it_in_the_basket",
+    "seed": 5128,
+    "ids": [
+      718,
+      716,
+      2482
+    ],
+    "difficulties": [
+      1,
+      3,
+      2
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_tomato_sauce_and_place_it_in_the_basket",
+    "seed": 5129,
+    "ids": [
+      848,
+      863,
+      2510
+    ],
+    "difficulties": [
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate",
+    "seed": 5130,
+    "ids": [
+      653,
+      668,
+      2156
+    ],
+    "difficulties": [
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate",
+    "seed": 5131,
+    "ids": [
+      737,
+      781,
+      2242
+    ],
+    "difficulties": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate",
+    "seed": 5132,
+    "ids": [
+      849,
+      871,
+      2264
+    ],
+    "difficulties": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate",
+    "seed": 5133,
+    "ids": [
+      927,
+      918,
+      2281
+    ],
+    "difficulties": [
+      1,
+      3,
+      2
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+    "seed": 5134,
+    "ids": [
+      625,
+      631,
+      2282
+    ],
+    "difficulties": [
+      2,
+      5,
+      2
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate",
+    "seed": 5135,
+    "ids": [
+      714,
+      733,
+      2312
+    ],
+    "difficulties": [
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate",
+    "seed": 5136,
+    "ids": [
+      802,
+      792,
+      2344
+    ],
+    "difficulties": [
+      2,
+      4,
+      1
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+    "seed": 5137,
+    "ids": [
+      885,
+      876,
+      2361
+    ],
+    "difficulties": [
+      1,
+      5,
+      2
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+    "seed": 5138,
+    "ids": [
+      964,
+      977,
+      2383
+    ],
+    "difficulties": [
+      1,
+      5,
+      2
+    ]
+  }
+]

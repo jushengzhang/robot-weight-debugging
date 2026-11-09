@@ -1,0 +1,45 @@
+{
+  "protect_rank": 25,
+  "directions": [
+    {
+      "direction": 0,
+      "half_subspace_overlap": 0.7384666204452515,
+      "contrast_fraction": 0.16017302870750427,
+      "light_fraction": 0.00028834654949605465,
+      "contrast_light_ratio": 273.7890625,
+      "head_relative_rank1_norm": 0.02470869943499565,
+      "head_rowspace_fraction": 0.004465699661523104,
+      "protected_overlap": 1.5355089999502525e-07
+    },
+    {
+      "direction": 1,
+      "half_subspace_overlap": 0.4969107210636139,
+      "contrast_fraction": 0.11322686076164246,
+      "light_fraction": 0.0002580594446044415,
+      "contrast_light_ratio": 216.25750732421875,
+      "head_relative_rank1_norm": 0.013750824145972729,
+      "head_rowspace_fraction": 0.0014235444832593203,
+      "protected_overlap": 1.5135881881178648e-07
+    },
+    {
+      "direction": 2,
+      "half_subspace_overlap": 0.25264790654182434,
+      "contrast_fraction": 0.03891134634613991,
+      "light_fraction": 0.0002932515926659107,
+      "contrast_light_ratio": 65.39993286132812,
+      "head_relative_rank1_norm": 0.014329579658806324,
+      "head_rowspace_fraction": 0.0016466593369841576,
+      "protected_overlap": 1.4478187893018912e-07
+    },
+    {
+      "direction": 3,
+      "half_subspace_overlap": 0.00293110148049891,
+      "contrast_fraction": 0.026648391038179398,
+      "light_fraction": 0.00024201806809287518,
+      "contrast_light_ratio": 54.27061080932617,
+      "head_relative_rank1_norm": 0.01405040081590414,
+      "head_rowspace_fraction": 0.0012988075613975525,
+      "protected_overlap": 2.2984315251051157e-07
+    }
+  ]
+}

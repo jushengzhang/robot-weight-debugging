@@ -1,0 +1,13 @@
+{
+  "pass": 29,
+  "dose": 0.5,
+  "background_action_change_rms": 0.000696239387864609,
+  "light_action_change_rms": 0.0007172944049089793,
+  "successful_bg_action_change_rms": 0.0007134199517357661,
+  "failed_bg_action_change_rms": 0.0006468480473839957,
+  "bg_light_discrepancy_ratio": 0.9997438284770737,
+  "failure_control_discrepancy_ratio": 0.9996195890564624,
+  "layer1_target_projection_ratio": 0.5016847259475176,
+  "layer2_target_projection_ratio": 0.5015885101658678,
+  "late_mlp_change_rms": 0.00029924126524506116
+}

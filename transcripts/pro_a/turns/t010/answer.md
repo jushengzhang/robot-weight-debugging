@@ -1,0 +1,4 @@
+The position failures are not merely incomplete grasps: in two tomato-sauce scenes the model moves milk and leaves tomato sauce untouched, following a similar reach trajectory to the familiar task. The attention maps also show fixed visual hotspots. I will inspect per-token residuals to determine whether these are dominant scene-level features rather than object-localized signals.
+```forward
+{"type":"probe","model":"original","inputs":["WORK/roll_1_frames/e1946_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1923_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1562_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1490_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1896_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e954_seed7_original/t0000_inputs.pt"],"return":{"layers":[3,6,9,12,15,17],"vlm_layers":[0,3,6,9,12,13,14,15,16,17],"vision_layers":[0,12,26],"what":"resid"}}
+```

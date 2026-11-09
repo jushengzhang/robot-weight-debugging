@@ -1,0 +1,4 @@
+I will inspect early attention heads on one pair where the stronger texture caused failure and one pair with a large action change despite success. This tests whether particular heads read texture-altered image regions, rather than merely reflecting failed trajectories.
+```forward
+{"type":"probe","model":"original","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v1_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v27_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_spatial_v207_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_spatial_v232_s17_original/t0000_inputs.pt"],"return":{"actions":true,"layers":[0,1,2,5],"what":"attn_maps","noise_seed":17}}
+```

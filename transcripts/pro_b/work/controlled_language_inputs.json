@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 4041,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e4041_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it",
+    "ptype": "task"
+  },
+  {
+    "id": 4186,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e4186_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it",
+    "ptype": "task"
+  },
+  {
+    "id": 4919,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e4919_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it",
+    "ptype": "task"
+  },
+  {
+    "id": 4788,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4788_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove",
+    "ptype": "task"
+  },
+  {
+    "id": 4678,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4678_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 3802,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e3802_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 3935,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e3935_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 4303,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4303_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 4536,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e4536_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 4418,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4418_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy",
+    "ptype": "task"
+  },
+  {
+    "id": 2534,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2534_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "open_the_middle_drawer_of_the_cabinet",
+    "ptype": "task"
+  },
+  {
+    "id": 2920,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e2920_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "open_the_top_drawer_and_put_the_bowl_inside",
+    "ptype": "task"
+  },
+  {
+    "id": 3179,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e3179_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "push_the_plate_to_the_front_of_the_stove",
+    "ptype": "task"
+  },
+  {
+    "id": 3553,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e3553_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 2674,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2674_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_stove",
+    "ptype": "task"
+  },
+  {
+    "id": 3038,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e3038_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_top_of_the_cabinet",
+    "ptype": "task"
+  },
+  {
+    "id": 3299,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e3299_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_cream_cheese_in_the_bowl",
+    "ptype": "task"
+  },
+  {
+    "id": 3674,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e3674_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_the_rack",
+    "ptype": "task"
+  },
+  {
+    "id": 2798,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2798_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_top_of_the_cabinet",
+    "ptype": "task"
+  },
+  {
+    "id": 3408,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e3408_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "turn_on_the_stove",
+    "ptype": "task"
+  },
+  {
+    "id": 1324,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1324_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 1686,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1686_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_bbq_sauce_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 2053,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e2053_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_butter_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 2289,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e2289_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 1435,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e1435_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_cream_cheese_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 1810,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e1810_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_ketchup_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 2181,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e2181_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_milk_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 2417,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e2417_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_orange_juice_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 1545,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1545_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_salad_dressing_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 1951,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e1951_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_tomato_sauce_and_place_it_in_the_basket",
+    "ptype": "task"
+  },
+  {
+    "id": 81,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e81_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 357,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e357_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 567,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e567_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 822,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e822_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 1058,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1058_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 211,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e211_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 462,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e462_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 685,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e685_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 939,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_11_frames/e939_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 1196,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1196_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+    "ptype": "task"
+  },
+  {
+    "id": 4761,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4761_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove",
+    "ptype": "semantic"
+  },
+  {
+    "id": 4654,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4654_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 4277,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4277_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 4529,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e4529_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 4396,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4396_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy",
+    "ptype": "semantic"
+  },
+  {
+    "id": 2510,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2510_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "open_the_middle_drawer_of_the_cabinet",
+    "ptype": "semantic"
+  },
+  {
+    "id": 3145,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3145_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "push_the_plate_to_the_front_of_the_stove",
+    "ptype": "semantic"
+  },
+  {
+    "id": 3531,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e3531_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 2654,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2654_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_stove",
+    "ptype": "semantic"
+  },
+  {
+    "id": 3010,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3010_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_top_of_the_cabinet",
+    "ptype": "semantic"
+  },
+  {
+    "id": 2767,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2767_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_top_of_the_cabinet",
+    "ptype": "semantic"
+  },
+  {
+    "id": 1301,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1301_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 1665,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1665_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_bbq_sauce_and_place_it_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 2031,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2031_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_butter_and_place_it_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 2277,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2277_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 1779,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e1779_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_ketchup_and_place_it_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 2388,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2388_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_orange_juice_and_place_it_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 1522,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1522_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_salad_dressing_and_place_it_in_the_basket",
+    "ptype": "semantic"
+  },
+  {
+    "id": 327,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e327_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 800,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e800_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 1037,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1037_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 207,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e207_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 906,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e906_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 1167,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1167_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+    "ptype": "semantic"
+  },
+  {
+    "id": 3988,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e3988_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it",
+    "ptype": "position"
+  },
+  {
+    "id": 4131,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e4131_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it",
+    "ptype": "position"
+  },
+  {
+    "id": 4861,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e4861_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it",
+    "ptype": "position"
+  },
+  {
+    "id": 4737,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4737_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove",
+    "ptype": "position"
+  },
+  {
+    "id": 4625,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4625_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 3740,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e3740_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 3879,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e3879_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 4249,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4249_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 4499,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e4499_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 4376,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4376_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy",
+    "ptype": "position"
+  },
+  {
+    "id": 2482,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2482_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "open_the_middle_drawer_of_the_cabinet",
+    "ptype": "position"
+  },
+  {
+    "id": 2870,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e2870_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "open_the_top_drawer_and_put_the_bowl_inside",
+    "ptype": "position"
+  },
+  {
+    "id": 3112,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e3112_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "push_the_plate_to_the_front_of_the_stove",
+    "ptype": "position"
+  },
+  {
+    "id": 3500,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e3500_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 2628,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2628_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_stove",
+    "ptype": "position"
+  },
+  {
+    "id": 2988,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e2988_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_top_of_the_cabinet",
+    "ptype": "position"
+  },
+  {
+    "id": 3243,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e3243_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_cream_cheese_in_the_bowl",
+    "ptype": "position"
+  },
+  {
+    "id": 3614,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e3614_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_the_rack",
+    "ptype": "position"
+  },
+  {
+    "id": 2744,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2744_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_top_of_the_cabinet",
+    "ptype": "position"
+  },
+  {
+    "id": 3365,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e3365_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "turn_on_the_stove",
+    "ptype": "position"
+  },
+  {
+    "id": 1276,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1276_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 1637,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1637_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_bbq_sauce_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 2021,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e2021_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_butter_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 2256,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e2256_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 1383,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e1383_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_cream_cheese_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 1768,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e1768_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_ketchup_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 2137,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e2137_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_milk_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 2361,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e2361_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_orange_juice_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 1496,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1496_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_salad_dressing_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 1877,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e1877_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_tomato_sauce_and_place_it_in_the_basket",
+    "ptype": "position"
+  },
+  {
+    "id": 39,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e39_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 306,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e306_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 518,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e518_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 777,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e777_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 1012,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1012_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 179,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e179_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 426,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e426_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 649,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e649_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 883,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_23_frames/e883_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 1138,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1138_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+    "ptype": "position"
+  },
+  {
+    "id": 4068,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e4068_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it",
+    "ptype": "environment"
+  },
+  {
+    "id": 4206,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e4206_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it",
+    "ptype": "environment"
+  },
+  {
+    "id": 4942,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e4942_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it",
+    "ptype": "environment"
+  },
+  {
+    "id": 4811,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4811_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove",
+    "ptype": "environment"
+  },
+  {
+    "id": 4702,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4702_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 3838,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3838_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 3961,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3961_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 4320,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4320_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 4573,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e4573_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 4441,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e4441_seed17_original/t0000_inputs.pt",
+    "suite": "libero_10",
+    "task": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy",
+    "ptype": "environment"
+  },
+  {
+    "id": 2560,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2560_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "open_the_middle_drawer_of_the_cabinet",
+    "ptype": "environment"
+  },
+  {
+    "id": 2953,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2953_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "open_the_top_drawer_and_put_the_bowl_inside",
+    "ptype": "environment"
+  },
+  {
+    "id": 3193,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3193_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "push_the_plate_to_the_front_of_the_stove",
+    "ptype": "environment"
+  },
+  {
+    "id": 3574,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e3574_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 2698,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2698_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_stove",
+    "ptype": "environment"
+  },
+  {
+    "id": 3074,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3074_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_top_of_the_cabinet",
+    "ptype": "environment"
+  },
+  {
+    "id": 3312,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3312_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_cream_cheese_in_the_bowl",
+    "ptype": "environment"
+  },
+  {
+    "id": 3701,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3701_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_the_rack",
+    "ptype": "environment"
+  },
+  {
+    "id": 2822,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e2822_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_top_of_the_cabinet",
+    "ptype": "environment"
+  },
+  {
+    "id": 3459,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e3459_seed17_original/t0000_inputs.pt",
+    "suite": "libero_goal",
+    "task": "turn_on_the_stove",
+    "ptype": "environment"
+  },
+  {
+    "id": 1350,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1350_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 1713,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1713_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_bbq_sauce_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 2097,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2097_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_butter_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 2314,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2314_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 1456,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e1456_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_cream_cheese_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 1831,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e1831_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_ketchup_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 2206,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2206_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_milk_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 2441,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e2441_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_orange_juice_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 1571,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1571_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_salad_dressing_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 1958,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e1958_seed17_original/t0000_inputs.pt",
+    "suite": "libero_object",
+    "task": "pick_up_the_tomato_sauce_and_place_it_in_the_basket",
+    "ptype": "environment"
+  },
+  {
+    "id": 121,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e121_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 375,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e375_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 600,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e600_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 845,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e845_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 1082,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1082_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 245,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e245_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 489,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e489_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 725,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e725_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 976,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_24_frames/e976_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+    "ptype": "environment"
+  },
+  {
+    "id": 1221,
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1221_seed17_original/t0000_inputs.pt",
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+    "ptype": "environment"
+  }
+]

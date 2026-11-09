@@ -1,0 +1,42 @@
+[
+  {
+    "idx": 0,
+    "best_descriptive_scale": 0.9292,
+    "nonuniform_fraction_of_change": 0.225,
+    "xyz_rms_change": 0.0277,
+    "rot_rms_change": 0.0015,
+    "gripper_mean_orig": -0.0004,
+    "gripper_mean_edit": 0.0002,
+    "gripper_sign_changes": 0
+  },
+  {
+    "idx": 1,
+    "best_descriptive_scale": 0.9544,
+    "nonuniform_fraction_of_change": 0.391,
+    "xyz_rms_change": 0.0196,
+    "rot_rms_change": 0.0023,
+    "gripper_mean_orig": 1.0007,
+    "gripper_mean_edit": 0.9943,
+    "gripper_sign_changes": 0
+  },
+  {
+    "idx": 2,
+    "best_descriptive_scale": 0.8806,
+    "nonuniform_fraction_of_change": 0.22,
+    "xyz_rms_change": 0.0237,
+    "rot_rms_change": 0.0024,
+    "gripper_mean_orig": 0.9994,
+    "gripper_mean_edit": 0.9926,
+    "gripper_sign_changes": 0
+  },
+  {
+    "idx": 3,
+    "best_descriptive_scale": 0.8746,
+    "nonuniform_fraction_of_change": 0.085,
+    "xyz_rms_change": 0.0281,
+    "rot_rms_change": 0.0015,
+    "gripper_mean_orig": -1.0004,
+    "gripper_mean_edit": -0.9912,
+    "gripper_sign_changes": 0
+  }
+]

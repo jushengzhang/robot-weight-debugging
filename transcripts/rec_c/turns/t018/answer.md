@@ -1,0 +1,5 @@
+The late wrist-head attenuation is also weak on these fixed queries, so wrist attention alone is not sufficient to explain the loop. I will inspect token-level residuals and self-attention-related representations, including matched initial open/closed observations, to look for a bottleneck that actually amplifies gripper decisions or hides object evidence.
+
+```forward
+{"type":"probe","model":"original","inputs":["WORK/roll_1_frames/s562_open_seed7_original/t0050_inputs.pt","WORK/roll_1_frames/s562_close_seed7_original/t0250_inputs.pt","WORK/roll_1_frames/s979_open_seed7_original/t0250_inputs.pt","WORK/roll_1_frames/s712_open_seed7_original/t0250_inputs.pt","WORK/roll_1_frames/s562_open_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/s562_close_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/s979_open_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/s979_close_seed7_original/t0000_inputs.pt"],"return":{"layers":[0,1,2,7,8,14,15,16,17],"vlm_layers":[0,2,8,14,15,17],"vision_layers":[0,13,26],"what":"resid"}}
+```

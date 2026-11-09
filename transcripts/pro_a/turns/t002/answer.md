@@ -1,0 +1,4 @@
+The practice file contains all five perturbation types but no explicit original-task entries. I will start with a broad baseline rollout, requesting original tasks as well if the sampler supports them. Saved observations, action traces, and layer summaries will let me compare scene-driven failures with successful behavior before selecting an intervention.
+```forward
+{"type":"rollout","model":"original","sample":{"ptype":["original","object","position","semantic","task","environment"],"n":128,"seed":1701},"record":{"vlm_layers":[0,3,6,9,12,15,17],"expert_layers":[0,3,6,9,12,15,17],"vision_layers":[0,6,12,18,26],"what":"resid"},"save_frames":true}
+```

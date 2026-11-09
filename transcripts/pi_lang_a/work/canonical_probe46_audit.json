@@ -1,0 +1,9 @@
+{
+  "inputs": 40,
+  "actions_exact": 40,
+  "all_recorded_activations_exact": 40,
+  "max_action_abs_difference": 0.0,
+  "max_activation_abs_difference": 0.0,
+  "activation_arrays_compared": 1920,
+  "nonidentical_inputs": []
+}

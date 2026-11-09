@@ -1,0 +1,28 @@
+{
+  "family": "centered_output_subspace_attenuation",
+  "layers": [
+    4,
+    5
+  ],
+  "rank": 2,
+  "dose": 0.35,
+  "control": false,
+  "tensors": [
+    {
+      "layer": 4,
+      "rank": 2,
+      "dose": 0.35,
+      "weight_relative_change": 0.023680221289396286,
+      "bias_delta_rms": 0.020960772410035133,
+      "anchor_error": 0.0
+    },
+    {
+      "layer": 5,
+      "rank": 2,
+      "dose": 0.35,
+      "weight_relative_change": 0.02659466490149498,
+      "bias_delta_rms": 0.03224802017211914,
+      "anchor_error": 0.0
+    }
+  ]
+}

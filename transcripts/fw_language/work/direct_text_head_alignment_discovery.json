@@ -1,0 +1,770 @@
+[
+  {
+    "layer": 10,
+    "head": 0,
+    "energy_alignment_vs_isotropic": 1.2902032136917114,
+    "span_fraction": 0.15325984358787537,
+    "temperature_proxy": 1.0869344472885132,
+    "temperature_relative": 0.9418042898178101
+  },
+  {
+    "layer": 10,
+    "head": 1,
+    "energy_alignment_vs_isotropic": 1.291887640953064,
+    "span_fraction": 0.15189185738563538,
+    "temperature_proxy": 1.23704195022583,
+    "temperature_relative": 1.0718690156936646
+  },
+  {
+    "layer": 10,
+    "head": 2,
+    "energy_alignment_vs_isotropic": 1.4464646577835083,
+    "span_fraction": 0.16600623726844788,
+    "temperature_proxy": 1.2018734216690063,
+    "temperature_relative": 1.0413962602615356
+  },
+  {
+    "layer": 10,
+    "head": 3,
+    "energy_alignment_vs_isotropic": 1.4078385829925537,
+    "span_fraction": 0.16446268558502197,
+    "temperature_proxy": 1.1971391439437866,
+    "temperature_relative": 1.0372941493988037
+  },
+  {
+    "layer": 10,
+    "head": 4,
+    "energy_alignment_vs_isotropic": 1.2317140102386475,
+    "span_fraction": 0.15146753191947937,
+    "temperature_proxy": 1.051010251045227,
+    "temperature_relative": 0.9106767773628235
+  },
+  {
+    "layer": 10,
+    "head": 5,
+    "energy_alignment_vs_isotropic": 1.303470492362976,
+    "span_fraction": 0.160052090883255,
+    "temperature_proxy": 1.1581586599349976,
+    "temperature_relative": 1.0035184621810913
+  },
+  {
+    "layer": 10,
+    "head": 6,
+    "energy_alignment_vs_isotropic": 1.6961798667907715,
+    "span_fraction": 0.17006970942020416,
+    "temperature_proxy": 1.1068496704101562,
+    "temperature_relative": 0.9590603709220886
+  },
+  {
+    "layer": 10,
+    "head": 7,
+    "energy_alignment_vs_isotropic": 1.4047963619232178,
+    "span_fraction": 0.16064734756946564,
+    "temperature_proxy": 1.2276791334152222,
+    "temperature_relative": 1.0637563467025757
+  },
+  {
+    "layer": 10,
+    "head": 8,
+    "energy_alignment_vs_isotropic": 1.517731785774231,
+    "span_fraction": 0.16604578495025635,
+    "temperature_proxy": 0.987772524356842,
+    "temperature_relative": 0.8558827042579651
+  },
+  {
+    "layer": 10,
+    "head": 9,
+    "energy_alignment_vs_isotropic": 1.4151641130447388,
+    "span_fraction": 0.15487739443778992,
+    "temperature_proxy": 1.0865764617919922,
+    "temperature_relative": 0.9414940476417542
+  },
+  {
+    "layer": 10,
+    "head": 10,
+    "energy_alignment_vs_isotropic": 1.6764650344848633,
+    "span_fraction": 0.16941788792610168,
+    "temperature_proxy": 1.1283472776412964,
+    "temperature_relative": 0.9776875376701355
+  },
+  {
+    "layer": 10,
+    "head": 11,
+    "energy_alignment_vs_isotropic": 1.6503198146820068,
+    "span_fraction": 0.17261120676994324,
+    "temperature_proxy": 1.156586766242981,
+    "temperature_relative": 1.002156376838684
+  },
+  {
+    "layer": 10,
+    "head": 12,
+    "energy_alignment_vs_isotropic": 1.3710211515426636,
+    "span_fraction": 0.15665949881076813,
+    "temperature_proxy": 1.1516093015670776,
+    "temperature_relative": 0.9978435635566711
+  },
+  {
+    "layer": 10,
+    "head": 13,
+    "energy_alignment_vs_isotropic": 1.5545120239257812,
+    "span_fraction": 0.173357293009758,
+    "temperature_proxy": 1.1649388074874878,
+    "temperature_relative": 1.009393334388733
+  },
+  {
+    "layer": 10,
+    "head": 14,
+    "energy_alignment_vs_isotropic": 1.162774920463562,
+    "span_fraction": 0.14396686851978302,
+    "temperature_proxy": 1.2227516174316406,
+    "temperature_relative": 1.059486746788025
+  },
+  {
+    "layer": 10,
+    "head": 15,
+    "energy_alignment_vs_isotropic": 1.6676520109176636,
+    "span_fraction": 0.16783557832241058,
+    "temperature_proxy": 1.1850441694259644,
+    "temperature_relative": 1.0268141031265259
+  },
+  {
+    "layer": 10,
+    "head": 16,
+    "energy_alignment_vs_isotropic": 1.8017287254333496,
+    "span_fraction": 0.1948128044605255,
+    "temperature_proxy": 1.17930269241333,
+    "temperature_relative": 1.0218392610549927
+  },
+  {
+    "layer": 10,
+    "head": 17,
+    "energy_alignment_vs_isotropic": 1.7216097116470337,
+    "span_fraction": 0.18747015297412872,
+    "temperature_proxy": 1.1333967447280884,
+    "temperature_relative": 0.982062816619873
+  },
+  {
+    "layer": 10,
+    "head": 18,
+    "energy_alignment_vs_isotropic": 1.7041316032409668,
+    "span_fraction": 0.1683686077594757,
+    "temperature_proxy": 1.0249574184417725,
+    "temperature_relative": 0.8881025314331055
+  },
+  {
+    "layer": 10,
+    "head": 19,
+    "energy_alignment_vs_isotropic": 1.3918349742889404,
+    "span_fraction": 0.16425110399723053,
+    "temperature_proxy": 1.050822377204895,
+    "temperature_relative": 0.9105139374732971
+  },
+  {
+    "layer": 10,
+    "head": 20,
+    "energy_alignment_vs_isotropic": 1.4532150030136108,
+    "span_fraction": 0.17157721519470215,
+    "temperature_proxy": 1.1958528757095337,
+    "temperature_relative": 1.0361796617507935
+  },
+  {
+    "layer": 10,
+    "head": 21,
+    "energy_alignment_vs_isotropic": 1.046338677406311,
+    "span_fraction": 0.14717227220535278,
+    "temperature_proxy": 1.2360990047454834,
+    "temperature_relative": 1.0710519552230835
+  },
+  {
+    "layer": 10,
+    "head": 22,
+    "energy_alignment_vs_isotropic": 1.4492384195327759,
+    "span_fraction": 0.16917002201080322,
+    "temperature_proxy": 1.119559645652771,
+    "temperature_relative": 0.9700732827186584
+  },
+  {
+    "layer": 10,
+    "head": 23,
+    "energy_alignment_vs_isotropic": 1.1667014360427856,
+    "span_fraction": 0.13584673404693604,
+    "temperature_proxy": 0.8735379576683044,
+    "temperature_relative": 0.7569010257720947
+  },
+  {
+    "layer": 11,
+    "head": 0,
+    "energy_alignment_vs_isotropic": 1.1611324548721313,
+    "span_fraction": 0.13187681138515472,
+    "temperature_proxy": 1.051910400390625,
+    "temperature_relative": 0.8937124013900757
+  },
+  {
+    "layer": 11,
+    "head": 1,
+    "energy_alignment_vs_isotropic": 1.5038167238235474,
+    "span_fraction": 0.16555610299110413,
+    "temperature_proxy": 1.0660746097564697,
+    "temperature_relative": 0.9057464599609375
+  },
+  {
+    "layer": 11,
+    "head": 2,
+    "energy_alignment_vs_isotropic": 1.2124208211898804,
+    "span_fraction": 0.14485067129135132,
+    "temperature_proxy": 1.2138819694519043,
+    "temperature_relative": 1.031324863433838
+  },
+  {
+    "layer": 11,
+    "head": 3,
+    "energy_alignment_vs_isotropic": 1.4979770183563232,
+    "span_fraction": 0.16484872996807098,
+    "temperature_proxy": 1.2283833026885986,
+    "temperature_relative": 1.0436453819274902
+  },
+  {
+    "layer": 11,
+    "head": 4,
+    "energy_alignment_vs_isotropic": 1.4334105253219604,
+    "span_fraction": 0.16047045588493347,
+    "temperature_proxy": 1.1802159547805786,
+    "temperature_relative": 1.002721905708313
+  },
+  {
+    "layer": 11,
+    "head": 5,
+    "energy_alignment_vs_isotropic": 12.564972877502441,
+    "span_fraction": 0.35676488280296326,
+    "temperature_proxy": 1.2573732137680054,
+    "temperature_relative": 1.0682754516601562
+  },
+  {
+    "layer": 11,
+    "head": 6,
+    "energy_alignment_vs_isotropic": 1.080186128616333,
+    "span_fraction": 0.12566453218460083,
+    "temperature_proxy": 1.1808933019638062,
+    "temperature_relative": 1.0032974481582642
+  },
+  {
+    "layer": 11,
+    "head": 7,
+    "energy_alignment_vs_isotropic": 1.1534364223480225,
+    "span_fraction": 0.13765838742256165,
+    "temperature_proxy": 1.2091898918151855,
+    "temperature_relative": 1.0273385047912598
+  },
+  {
+    "layer": 11,
+    "head": 8,
+    "energy_alignment_vs_isotropic": 2.1695103645324707,
+    "span_fraction": 0.19014911353588104,
+    "temperature_proxy": 1.1097103357315063,
+    "temperature_relative": 0.9428197145462036
+  },
+  {
+    "layer": 11,
+    "head": 9,
+    "energy_alignment_vs_isotropic": 1.4872289896011353,
+    "span_fraction": 0.16261067986488342,
+    "temperature_proxy": 1.1738085746765137,
+    "temperature_relative": 0.9972781538963318
+  },
+  {
+    "layer": 11,
+    "head": 10,
+    "energy_alignment_vs_isotropic": 1.5482006072998047,
+    "span_fraction": 0.15942496061325073,
+    "temperature_proxy": 1.1180315017700195,
+    "temperature_relative": 0.9498894810676575
+  },
+  {
+    "layer": 11,
+    "head": 11,
+    "energy_alignment_vs_isotropic": 1.3576364517211914,
+    "span_fraction": 0.14583437144756317,
+    "temperature_proxy": 1.271315574645996,
+    "temperature_relative": 1.0801209211349487
+  },
+  {
+    "layer": 11,
+    "head": 12,
+    "energy_alignment_vs_isotropic": 1.196109414100647,
+    "span_fraction": 0.14418074488639832,
+    "temperature_proxy": 1.1700931787490845,
+    "temperature_relative": 0.9941215515136719
+  },
+  {
+    "layer": 11,
+    "head": 13,
+    "energy_alignment_vs_isotropic": 1.1935096979141235,
+    "span_fraction": 0.13592234253883362,
+    "temperature_proxy": 0.9477065205574036,
+    "temperature_relative": 0.8051798343658447
+  },
+  {
+    "layer": 11,
+    "head": 14,
+    "energy_alignment_vs_isotropic": 1.283410668373108,
+    "span_fraction": 0.1616394817829132,
+    "temperature_proxy": 1.0766957998275757,
+    "temperature_relative": 0.9147703051567078
+  },
+  {
+    "layer": 11,
+    "head": 15,
+    "energy_alignment_vs_isotropic": 1.4141288995742798,
+    "span_fraction": 0.15078218281269073,
+    "temperature_proxy": 1.2116358280181885,
+    "temperature_relative": 1.029416561126709
+  },
+  {
+    "layer": 11,
+    "head": 16,
+    "energy_alignment_vs_isotropic": 1.1844182014465332,
+    "span_fraction": 0.14816036820411682,
+    "temperature_proxy": 1.2019546031951904,
+    "temperature_relative": 1.0211912393569946
+  },
+  {
+    "layer": 11,
+    "head": 17,
+    "energy_alignment_vs_isotropic": 1.4935106039047241,
+    "span_fraction": 0.15051361918449402,
+    "temperature_proxy": 0.9750820398330688,
+    "temperature_relative": 0.8284383416175842
+  },
+  {
+    "layer": 11,
+    "head": 18,
+    "energy_alignment_vs_isotropic": 1.0842905044555664,
+    "span_fraction": 0.1336394101381302,
+    "temperature_proxy": 1.078533411026001,
+    "temperature_relative": 0.9163315296173096
+  },
+  {
+    "layer": 11,
+    "head": 19,
+    "energy_alignment_vs_isotropic": 1.363059639930725,
+    "span_fraction": 0.14227741956710815,
+    "temperature_proxy": 1.1586380004882812,
+    "temperature_relative": 0.9843891263008118
+  },
+  {
+    "layer": 11,
+    "head": 20,
+    "energy_alignment_vs_isotropic": 1.3375627994537354,
+    "span_fraction": 0.16288034617900848,
+    "temperature_proxy": 1.2199811935424805,
+    "temperature_relative": 1.0365068912506104
+  },
+  {
+    "layer": 11,
+    "head": 21,
+    "energy_alignment_vs_isotropic": 1.2714461088180542,
+    "span_fraction": 0.1500696837902069,
+    "temperature_proxy": 1.1918916702270508,
+    "temperature_relative": 1.0126416683197021
+  },
+  {
+    "layer": 11,
+    "head": 22,
+    "energy_alignment_vs_isotropic": 1.523488163948059,
+    "span_fraction": 0.1653822362422943,
+    "temperature_proxy": 1.1575477123260498,
+    "temperature_relative": 0.9834628105163574
+  },
+  {
+    "layer": 11,
+    "head": 23,
+    "energy_alignment_vs_isotropic": 1.2677150964736938,
+    "span_fraction": 0.1558394879102707,
+    "temperature_proxy": 1.245053768157959,
+    "temperature_relative": 1.057808756828308
+  },
+  {
+    "layer": 12,
+    "head": 0,
+    "energy_alignment_vs_isotropic": 1.2885491847991943,
+    "span_fraction": 0.15843653678894043,
+    "temperature_proxy": 1.191788911819458,
+    "temperature_relative": 0.9772495031356812
+  },
+  {
+    "layer": 12,
+    "head": 1,
+    "energy_alignment_vs_isotropic": 1.8228281736373901,
+    "span_fraction": 0.1848350316286087,
+    "temperature_proxy": 1.1671433448791504,
+    "temperature_relative": 0.9570404887199402
+  },
+  {
+    "layer": 12,
+    "head": 2,
+    "energy_alignment_vs_isotropic": 1.286894679069519,
+    "span_fraction": 0.14672954380512238,
+    "temperature_proxy": 1.2380635738372803,
+    "temperature_relative": 1.015194058418274
+  },
+  {
+    "layer": 12,
+    "head": 3,
+    "energy_alignment_vs_isotropic": 1.7017914056777954,
+    "span_fraction": 0.18373040854930878,
+    "temperature_proxy": 1.2436141967773438,
+    "temperature_relative": 1.0197454690933228
+  },
+  {
+    "layer": 12,
+    "head": 4,
+    "energy_alignment_vs_isotropic": 1.5817646980285645,
+    "span_fraction": 0.17944633960723877,
+    "temperature_proxy": 1.2166109085083008,
+    "temperature_relative": 0.997603178024292
+  },
+  {
+    "layer": 12,
+    "head": 5,
+    "energy_alignment_vs_isotropic": 1.7668694257736206,
+    "span_fraction": 0.16496305167675018,
+    "temperature_proxy": 1.2497334480285645,
+    "temperature_relative": 1.0247632265090942
+  },
+  {
+    "layer": 12,
+    "head": 6,
+    "energy_alignment_vs_isotropic": 1.5089037418365479,
+    "span_fraction": 0.1877884864807129,
+    "temperature_proxy": 1.202208399772644,
+    "temperature_relative": 0.9857933521270752
+  },
+  {
+    "layer": 12,
+    "head": 7,
+    "energy_alignment_vs_isotropic": 1.5625516176223755,
+    "span_fraction": 0.1781599223613739,
+    "temperature_proxy": 1.1182488203048706,
+    "temperature_relative": 0.9169477224349976
+  },
+  {
+    "layer": 12,
+    "head": 8,
+    "energy_alignment_vs_isotropic": 1.4711869955062866,
+    "span_fraction": 0.174199178814888,
+    "temperature_proxy": 1.2518184185028076,
+    "temperature_relative": 1.026472806930542
+  },
+  {
+    "layer": 12,
+    "head": 9,
+    "energy_alignment_vs_isotropic": 1.499721646308899,
+    "span_fraction": 0.17585477232933044,
+    "temperature_proxy": 1.2224568128585815,
+    "temperature_relative": 1.0023967027664185
+  },
+  {
+    "layer": 12,
+    "head": 10,
+    "energy_alignment_vs_isotropic": 1.4743432998657227,
+    "span_fraction": 0.1744718700647354,
+    "temperature_proxy": 1.2049341201782227,
+    "temperature_relative": 0.988028347492218
+  },
+  {
+    "layer": 12,
+    "head": 11,
+    "energy_alignment_vs_isotropic": 0.922798752784729,
+    "span_fraction": 0.13108347356319427,
+    "temperature_proxy": 1.370274543762207,
+    "temperature_relative": 1.1236051321029663
+  },
+  {
+    "layer": 12,
+    "head": 12,
+    "energy_alignment_vs_isotropic": 1.5665996074676514,
+    "span_fraction": 0.18024946749210358,
+    "temperature_proxy": 1.0549262762069702,
+    "temperature_relative": 0.8650241494178772
+  },
+  {
+    "layer": 12,
+    "head": 13,
+    "energy_alignment_vs_isotropic": 1.400472640991211,
+    "span_fraction": 0.16695667803287506,
+    "temperature_proxy": 1.3179819583892822,
+    "temperature_relative": 1.080725908279419
+  },
+  {
+    "layer": 12,
+    "head": 14,
+    "energy_alignment_vs_isotropic": 1.3106273412704468,
+    "span_fraction": 0.15814842283725739,
+    "temperature_proxy": 1.127465844154358,
+    "temperature_relative": 0.9245055317878723
+  },
+  {
+    "layer": 12,
+    "head": 15,
+    "energy_alignment_vs_isotropic": 1.3357850313186646,
+    "span_fraction": 0.15039697289466858,
+    "temperature_proxy": 1.2116795778274536,
+    "temperature_relative": 0.9935595393180847
+  },
+  {
+    "layer": 12,
+    "head": 16,
+    "energy_alignment_vs_isotropic": 1.7124590873718262,
+    "span_fraction": 0.19403091073036194,
+    "temperature_proxy": 1.2724440097808838,
+    "temperature_relative": 1.0433855056762695
+  },
+  {
+    "layer": 12,
+    "head": 17,
+    "energy_alignment_vs_isotropic": 1.3834855556488037,
+    "span_fraction": 0.15749849379062653,
+    "temperature_proxy": 1.1714588403701782,
+    "temperature_relative": 0.9605791568756104
+  },
+  {
+    "layer": 12,
+    "head": 18,
+    "energy_alignment_vs_isotropic": 1.1603623628616333,
+    "span_fraction": 0.1470171958208084,
+    "temperature_proxy": 1.1073626279830933,
+    "temperature_relative": 0.9080211520195007
+  },
+  {
+    "layer": 12,
+    "head": 19,
+    "energy_alignment_vs_isotropic": 1.584733247756958,
+    "span_fraction": 0.1708347350358963,
+    "temperature_proxy": 1.2507436275482178,
+    "temperature_relative": 1.025591492652893
+  },
+  {
+    "layer": 12,
+    "head": 20,
+    "energy_alignment_vs_isotropic": 1.5056959390640259,
+    "span_fraction": 0.16413377225399017,
+    "temperature_proxy": 1.2553308010101318,
+    "temperature_relative": 1.0293529033660889
+  },
+  {
+    "layer": 12,
+    "head": 21,
+    "energy_alignment_vs_isotropic": 1.3502448797225952,
+    "span_fraction": 0.16822552680969238,
+    "temperature_proxy": 1.248854398727417,
+    "temperature_relative": 1.0240423679351807
+  },
+  {
+    "layer": 12,
+    "head": 22,
+    "energy_alignment_vs_isotropic": 1.4060193300247192,
+    "span_fraction": 0.18101580440998077,
+    "temperature_proxy": 1.3001973628997803,
+    "temperature_relative": 1.0661427974700928
+  },
+  {
+    "layer": 12,
+    "head": 23,
+    "energy_alignment_vs_isotropic": 1.6247706413269043,
+    "span_fraction": 0.18641170859336853,
+    "temperature_proxy": 1.1963624954223633,
+    "temperature_relative": 0.980999767780304
+  },
+  {
+    "layer": 13,
+    "head": 0,
+    "energy_alignment_vs_isotropic": 2.779505491256714,
+    "span_fraction": 0.19515018165111542,
+    "temperature_proxy": 1.0153491497039795,
+    "temperature_relative": 0.8754779100418091
+  },
+  {
+    "layer": 13,
+    "head": 1,
+    "energy_alignment_vs_isotropic": 2.5516765117645264,
+    "span_fraction": 0.21878568828105927,
+    "temperature_proxy": 1.1292500495910645,
+    "temperature_relative": 0.9736881852149963
+  },
+  {
+    "layer": 13,
+    "head": 2,
+    "energy_alignment_vs_isotropic": 2.007262706756592,
+    "span_fraction": 0.21064917743206024,
+    "temperature_proxy": 1.1528551578521729,
+    "temperature_relative": 0.9940415024757385
+  },
+  {
+    "layer": 13,
+    "head": 3,
+    "energy_alignment_vs_isotropic": 1.5395026206970215,
+    "span_fraction": 0.1864333152770996,
+    "temperature_proxy": 1.1655359268188477,
+    "temperature_relative": 1.004975438117981
+  },
+  {
+    "layer": 13,
+    "head": 4,
+    "energy_alignment_vs_isotropic": 1.6634849309921265,
+    "span_fraction": 0.19596023857593536,
+    "temperature_proxy": 1.2321491241455078,
+    "temperature_relative": 1.062412142753601
+  },
+  {
+    "layer": 13,
+    "head": 5,
+    "energy_alignment_vs_isotropic": 8.238906860351562,
+    "span_fraction": 0.22661221027374268,
+    "temperature_proxy": 0.8223791122436523,
+    "temperature_relative": 0.7090907692909241
+  },
+  {
+    "layer": 13,
+    "head": 6,
+    "energy_alignment_vs_isotropic": 2.0468881130218506,
+    "span_fraction": 0.20107893645763397,
+    "temperature_proxy": 1.183379054069519,
+    "temperature_relative": 1.0203605890274048
+  },
+  {
+    "layer": 13,
+    "head": 7,
+    "energy_alignment_vs_isotropic": 4.139251232147217,
+    "span_fraction": 0.22776241600513458,
+    "temperature_proxy": 1.1397548913955688,
+    "temperature_relative": 0.982745885848999
+  },
+  {
+    "layer": 13,
+    "head": 8,
+    "energy_alignment_vs_isotropic": 1.6733797788619995,
+    "span_fraction": 0.18970754742622375,
+    "temperature_proxy": 1.2347986698150635,
+    "temperature_relative": 1.0646967887878418
+  },
+  {
+    "layer": 13,
+    "head": 9,
+    "energy_alignment_vs_isotropic": 1.8790156841278076,
+    "span_fraction": 0.1984231173992157,
+    "temperature_proxy": 1.2382787466049194,
+    "temperature_relative": 1.0676974058151245
+  },
+  {
+    "layer": 13,
+    "head": 10,
+    "energy_alignment_vs_isotropic": 2.6686294078826904,
+    "span_fraction": 0.2078828513622284,
+    "temperature_proxy": 0.9232280254364014,
+    "temperature_relative": 0.7960470914840698
+  },
+  {
+    "layer": 13,
+    "head": 11,
+    "energy_alignment_vs_isotropic": 1.5892716646194458,
+    "span_fraction": 0.16914644837379456,
+    "temperature_proxy": 1.1829930543899536,
+    "temperature_relative": 1.020027756690979
+  },
+  {
+    "layer": 13,
+    "head": 12,
+    "energy_alignment_vs_isotropic": 1.732242226600647,
+    "span_fraction": 0.1876552402973175,
+    "temperature_proxy": 1.215646505355835,
+    "temperature_relative": 1.0481829643249512
+  },
+  {
+    "layer": 13,
+    "head": 13,
+    "energy_alignment_vs_isotropic": 1.7159477472305298,
+    "span_fraction": 0.19799773395061493,
+    "temperature_proxy": 1.1921265125274658,
+    "temperature_relative": 1.0279029607772827
+  },
+  {
+    "layer": 13,
+    "head": 14,
+    "energy_alignment_vs_isotropic": 1.5596957206726074,
+    "span_fraction": 0.18926000595092773,
+    "temperature_proxy": 1.0487895011901855,
+    "temperature_relative": 0.9043115973472595
+  },
+  {
+    "layer": 13,
+    "head": 15,
+    "energy_alignment_vs_isotropic": 2.1227426528930664,
+    "span_fraction": 0.20005516707897186,
+    "temperature_proxy": 1.179773211479187,
+    "temperature_relative": 1.0172513723373413
+  },
+  {
+    "layer": 13,
+    "head": 16,
+    "energy_alignment_vs_isotropic": 1.8773345947265625,
+    "span_fraction": 0.1834295690059662,
+    "temperature_proxy": 1.1539952754974365,
+    "temperature_relative": 0.995024561882019
+  },
+  {
+    "layer": 13,
+    "head": 17,
+    "energy_alignment_vs_isotropic": 1.678613305091858,
+    "span_fraction": 0.18552108108997345,
+    "temperature_proxy": 1.152571201324463,
+    "temperature_relative": 0.993796706199646
+  },
+  {
+    "layer": 13,
+    "head": 18,
+    "energy_alignment_vs_isotropic": 1.7343034744262695,
+    "span_fraction": 0.1973557472229004,
+    "temperature_proxy": 1.2565765380859375,
+    "temperature_relative": 1.0834745168685913
+  },
+  {
+    "layer": 13,
+    "head": 19,
+    "energy_alignment_vs_isotropic": 1.7399147748947144,
+    "span_fraction": 0.1961487978696823,
+    "temperature_proxy": 1.1864877939224243,
+    "temperature_relative": 1.023041009902954
+  },
+  {
+    "layer": 13,
+    "head": 20,
+    "energy_alignment_vs_isotropic": 1.5860391855239868,
+    "span_fraction": 0.1864868700504303,
+    "temperature_proxy": 1.2626469135284424,
+    "temperature_relative": 1.088708758354187
+  },
+  {
+    "layer": 13,
+    "head": 21,
+    "energy_alignment_vs_isotropic": 2.1293492317199707,
+    "span_fraction": 0.2004275619983673,
+    "temperature_proxy": 1.0598487854003906,
+    "temperature_relative": 0.9138473868370056
+  },
+  {
+    "layer": 13,
+    "head": 22,
+    "energy_alignment_vs_isotropic": 1.791617751121521,
+    "span_fraction": 0.18521098792552948,
+    "temperature_proxy": 1.1135390996932983,
+    "temperature_relative": 0.9601415395736694
+  },
+  {
+    "layer": 13,
+    "head": 23,
+    "energy_alignment_vs_isotropic": 2.247653007507324,
+    "span_fraction": 0.198492631316185,
+    "temperature_proxy": 1.032670497894287,
+    "temperature_relative": 0.8904131054878235
+  }
+]

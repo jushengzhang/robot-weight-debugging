@@ -1,0 +1,41 @@
+{
+ "type": "probe",
+ "model": "both",
+ "inputs": [
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2283_s7_original/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2283_s7_edited/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2376_s37_original/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2376_s37_edited/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2369_s37_original/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2369_s37_edited/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2372_s37_original/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2372_s37_edited/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2392_s37_original/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2392_s37_edited/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_spatial_v2346_s7_original/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_spatial_v2346_s7_edited/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2341_s7_original/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2341_s7_edited/t0000_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2283_s7_original/t0050_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2283_s7_edited/t0050_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2376_s37_original/t0050_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2376_s37_edited/t0050_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2369_s37_original/t0050_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2369_s37_edited/t0050_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2372_s37_original/t0050_inputs.pt",
+  "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/roll_31_frames/libero_10_v2372_s37_edited/t0050_inputs.pt"
+ ],
+ "return": {
+  "layers": [
+   0,
+   9,
+   17
+  ],
+  "vlm_layers": [
+   0,
+   9,
+   17
+  ],
+  "what": "resid"
+ }
+}

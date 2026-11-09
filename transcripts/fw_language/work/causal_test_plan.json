@@ -1,0 +1,26 @@
+{
+  "diagnosis": [
+    "Original language rollouts with saved inputs and layer residuals",
+    "Original less-perturbed controls covering the same 40 canonical tasks",
+    "Fixed-observation canonical/paraphrase probes with identical diffusion noise",
+    "Attention-map inspection at up to four localized layers"
+  ],
+  "causal_tests": [
+    "Edit only a localized instruction-sensitive mode, not whole-tensor scaling",
+    "Measure a zero/mild/medium/strong dose-response",
+    "Use a nearby non-implicated mode or alternative route as a negative control",
+    "Check preservation of canonical-instruction action predictions"
+  ],
+  "validation": [
+    "Lock candidate before fresh paired language and category evaluations",
+    "Report language effects on variants excluded from discovery",
+    "Use paired same-variant same-seed evaluations on all six non-language categories",
+    "Revert if language gain is not distinguishable from paired uncertainty or controls degrade"
+  ],
+  "budget": {
+    "total": 40,
+    "target_max_discovery": 16,
+    "target_validation": 24
+  },
+  "weights_changed": []
+}

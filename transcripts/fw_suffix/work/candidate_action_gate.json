@@ -1,0 +1,11 @@
+{
+  "name": "selective_context_attention_gate",
+  "experts": [
+    "action"
+  ],
+  "strength": 6.0,
+  "threshold": 0.5,
+  "key_gain": 64.0,
+  "detector_gain": 32.0,
+  "edited_count": 154
+}

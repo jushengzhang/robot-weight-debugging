@@ -1,0 +1,47 @@
+{
+  "status": "hypotheses only; require observation evidence before use",
+  "suspect_output_heads": [
+    [
+      29,
+      4
+    ],
+    [
+      29,
+      7
+    ],
+    [
+      29,
+      8
+    ],
+    [
+      29,
+      17
+    ]
+  ],
+  "matched_control_output_heads": [
+    [
+      29,
+      19
+    ],
+    [
+      29,
+      1
+    ],
+    [
+      29,
+      16
+    ],
+    [
+      29,
+      12
+    ]
+  ],
+  "prospective_output_doses": [
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "alternative": "Selective capping/removal of spatial-channel excess gain, if attention maps support it",
+  "selection_rule": "Prefer the smallest targeted edit with reproducible paired camera gain and no control harm"
+}

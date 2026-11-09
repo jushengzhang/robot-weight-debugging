@@ -1,0 +1,596 @@
+[
+  {
+    "suite": "libero_10",
+    "high": 15,
+    "low": 16,
+    "hs": true,
+    "ls": false,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      1.0
+    ],
+    "pixel_delta_cameras": [
+      0.3553948998451233,
+      0.36363524198532104
+    ],
+    "initial_chunk_rms_delta": 0.029091274365782738
+  },
+  {
+    "suite": "libero_10",
+    "high": 73,
+    "low": 75,
+    "hs": false,
+    "ls": false,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      1.0
+    ],
+    "pixel_delta_cameras": [
+      0.10503844171762466,
+      0.0
+    ],
+    "initial_chunk_rms_delta": 0.02187480591237545
+  },
+  {
+    "suite": "libero_10",
+    "high": 173,
+    "low": 178,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.9453125
+    ],
+    "pixel_delta_cameras": [
+      0.17357026040554047,
+      0.21760353446006775
+    ],
+    "initial_chunk_rms_delta": 0.02601395733654499
+  },
+  {
+    "suite": "libero_10",
+    "high": 220,
+    "low": 197,
+    "hs": false,
+    "ls": false,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -0.9453125,
+      0.9765625
+    ],
+    "pixel_delta_cameras": [
+      0.6164960861206055,
+      0.7960954904556274
+    ],
+    "initial_chunk_rms_delta": 0.12663498520851135
+  },
+  {
+    "suite": "libero_10",
+    "high": 244,
+    "low": 256,
+    "hs": false,
+    "ls": false,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.9765625
+    ],
+    "pixel_delta_cameras": [
+      0.05011098086833954,
+      0.07070320844650269
+    ],
+    "initial_chunk_rms_delta": 0.016053007915616035
+  },
+  {
+    "suite": "libero_10",
+    "high": 288,
+    "low": 277,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.8515625
+    ],
+    "pixel_delta_cameras": [
+      0.35412028431892395,
+      0.4381541311740875
+    ],
+    "initial_chunk_rms_delta": 0.016977081075310707
+  },
+  {
+    "suite": "libero_goal",
+    "high": 23,
+    "low": 8,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.8671875
+    ],
+    "pixel_delta_cameras": [
+      0.14559996128082275,
+      0.15588746964931488
+    ],
+    "initial_chunk_rms_delta": 0.02037937194108963
+  },
+  {
+    "suite": "libero_goal",
+    "high": 32,
+    "low": 58,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      1.0
+    ],
+    "pixel_delta_cameras": [
+      0.276398241519928,
+      0.24998660385608673
+    ],
+    "initial_chunk_rms_delta": 0.026586350053548813
+  },
+  {
+    "suite": "libero_goal",
+    "high": 77,
+    "low": 79,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.8125
+    ],
+    "pixel_delta_cameras": [
+      0.23056422173976898,
+      0.2499598264694214
+    ],
+    "initial_chunk_rms_delta": 0.02427086979150772
+  },
+  {
+    "suite": "libero_goal",
+    "high": 117,
+    "low": 108,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.8125
+    ],
+    "pixel_delta_cameras": [
+      0.03418990969657898,
+      0.04141601175069809
+    ],
+    "initial_chunk_rms_delta": 0.03183381259441376
+  },
+  {
+    "suite": "libero_goal",
+    "high": 180,
+    "low": 165,
+    "hs": false,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.875
+    ],
+    "pixel_delta_cameras": [
+      0.2589734196662903,
+      0.25524890422821045
+    ],
+    "initial_chunk_rms_delta": 0.03429882600903511
+  },
+  {
+    "suite": "libero_goal",
+    "high": 193,
+    "low": 191,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.8125
+    ],
+    "pixel_delta_cameras": [
+      0.06527481228113174,
+      0.07020024210214615
+    ],
+    "initial_chunk_rms_delta": 0.03391333296895027
+  },
+  {
+    "suite": "libero_goal",
+    "high": 237,
+    "low": 240,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.8203125
+    ],
+    "pixel_delta_cameras": [
+      0.4855240285396576,
+      0.5314780473709106
+    ],
+    "initial_chunk_rms_delta": 0.07546534389257431
+  },
+  {
+    "suite": "libero_goal",
+    "high": 275,
+    "low": 276,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.9765625
+    ],
+    "pixel_delta_cameras": [
+      0.0007349131628870964,
+      0.0009300595265813172
+    ],
+    "initial_chunk_rms_delta": 0.0008216146961785853
+  },
+  {
+    "suite": "libero_object",
+    "high": 1,
+    "low": 27,
+    "hs": false,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.953125
+    ],
+    "pixel_delta_cameras": [
+      0.7082123756408691,
+      0.7471064925193787
+    ],
+    "initial_chunk_rms_delta": 0.12239057570695877
+  },
+  {
+    "suite": "libero_object",
+    "high": 47,
+    "low": 56,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.953125
+    ],
+    "pixel_delta_cameras": [
+      0.16704457998275757,
+      0.1798744946718216
+    ],
+    "initial_chunk_rms_delta": 0.036539386957883835
+  },
+  {
+    "suite": "libero_object",
+    "high": 82,
+    "low": 100,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.953125
+    ],
+    "pixel_delta_cameras": [
+      0.9073813557624817,
+      0.9246991276741028
+    ],
+    "initial_chunk_rms_delta": 0.05311961844563484
+  },
+  {
+    "suite": "libero_object",
+    "high": 108,
+    "low": 104,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.953125
+    ],
+    "pixel_delta_cameras": [
+      0.04518747702240944,
+      0.05299553647637367
+    ],
+    "initial_chunk_rms_delta": 0.10413730144500732
+  },
+  {
+    "suite": "libero_object",
+    "high": 147,
+    "low": 146,
+    "hs": true,
+    "ls": false,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.953125
+    ],
+    "pixel_delta_cameras": [
+      0.6627808213233948,
+      0.7314482927322388
+    ],
+    "initial_chunk_rms_delta": 0.06649227440357208
+  },
+  {
+    "suite": "libero_object",
+    "high": 179,
+    "low": 209,
+    "hs": false,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.953125
+    ],
+    "pixel_delta_cameras": [
+      0.6675450205802917,
+      0.6996645331382751
+    ],
+    "initial_chunk_rms_delta": 0.09830286353826523
+  },
+  {
+    "suite": "libero_object",
+    "high": 213,
+    "low": 211,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.984375
+    ],
+    "pixel_delta_cameras": [
+      0.0007858535391278565,
+      0.00100850744638592
+    ],
+    "initial_chunk_rms_delta": 0.0019967970438301563
+  },
+  {
+    "suite": "libero_spatial",
+    "high": 13,
+    "low": 8,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -0.9765625,
+      0.9609375
+    ],
+    "pixel_delta_cameras": [
+      0.2407136857509613,
+      0.2952862083911896
+    ],
+    "initial_chunk_rms_delta": 0.10208308696746826
+  },
+  {
+    "suite": "libero_spatial",
+    "high": 55,
+    "low": 37,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -0.984375,
+      0.859375
+    ],
+    "pixel_delta_cameras": [
+      0.47209203243255615,
+      0.5719249248504639
+    ],
+    "initial_chunk_rms_delta": 0.06188075989484787
+  },
+  {
+    "suite": "libero_spatial",
+    "high": 110,
+    "low": 106,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -1.0,
+      0.84375
+    ],
+    "pixel_delta_cameras": [
+      0.45998790860176086,
+      0.4841800332069397
+    ],
+    "initial_chunk_rms_delta": 0.05721035972237587
+  },
+  {
+    "suite": "libero_spatial",
+    "high": 157,
+    "low": 138,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -0.9765625,
+      0.84375
+    ],
+    "pixel_delta_cameras": [
+      0.03817133978009224,
+      0.03333347663283348
+    ],
+    "initial_chunk_rms_delta": 0.025462107732892036
+  },
+  {
+    "suite": "libero_spatial",
+    "high": 180,
+    "low": 182,
+    "hs": false,
+    "ls": false,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -0.9765625,
+      0.859375
+    ],
+    "pixel_delta_cameras": [
+      0.12226088345050812,
+      0.16077181696891785
+    ],
+    "initial_chunk_rms_delta": 0.15637820959091187
+  },
+  {
+    "suite": "libero_spatial",
+    "high": 207,
+    "low": 232,
+    "hs": true,
+    "ls": true,
+    "proprio_delta": 0.0,
+    "prompt_equal": true,
+    "noise_seeds": [
+      17,
+      17
+    ],
+    "image_scale": [
+      -0.9921875,
+      0.859375
+    ],
+    "pixel_delta_cameras": [
+      0.6507887840270996,
+      0.7923138737678528
+    ],
+    "initial_chunk_rms_delta": 0.19978326559066772
+  }
+]

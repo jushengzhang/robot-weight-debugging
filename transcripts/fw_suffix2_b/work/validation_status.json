@@ -1,0 +1,187 @@
+{
+  "raw": {
+    "n": 768,
+    "original": 377,
+    "edited": 386,
+    "gains": 61,
+    "losses": 52,
+    "diff_pp": 1.171875,
+    "se_pp": 1.3843890653608897,
+    "by_category": {
+      "Background Textures": {
+        "n": 136,
+        "original": 76,
+        "edited": 76,
+        "gains": 9,
+        "losses": 9,
+        "diff_pp": 0.0,
+        "se_pp": 3.131121455425747
+      },
+      "Camera Viewpoints": {
+        "n": 136,
+        "original": 18,
+        "edited": 26,
+        "gains": 14,
+        "losses": 6,
+        "diff_pp": 5.88235294117647,
+        "se_pp": 3.261431359444353
+      },
+      "Light Conditions": {
+        "n": 124,
+        "original": 100,
+        "edited": 95,
+        "gains": 5,
+        "losses": 10,
+        "diff_pp": -4.032258064516129,
+        "se_pp": 3.1148977384145944
+      },
+      "Objects Layout": {
+        "n": 124,
+        "original": 74,
+        "edited": 79,
+        "gains": 8,
+        "losses": 3,
+        "diff_pp": 4.032258064516129,
+        "se_pp": 2.66082337812008
+      },
+      "Robot Initial States": {
+        "n": 124,
+        "original": 57,
+        "edited": 59,
+        "gains": 13,
+        "losses": 11,
+        "diff_pp": 1.6129032258064515,
+        "se_pp": 3.9641507504088285
+      },
+      "Sensor Noise": {
+        "n": 124,
+        "original": 52,
+        "edited": 51,
+        "gains": 12,
+        "losses": 13,
+        "diff_pp": -0.8064516129032258,
+        "se_pp": 4.047963121291278
+      }
+    },
+    "passes": [
+      32,
+      35,
+      38,
+      41,
+      44,
+      47
+    ],
+    "ci95_pp": [
+      -1.5415275681073437,
+      3.8852775681073437
+    ]
+  },
+  "strip": {
+    "n": 768,
+    "original": 528,
+    "edited": 508,
+    "gains": 44,
+    "losses": 64,
+    "diff_pp": -2.604166666666667,
+    "se_pp": 1.350777609824199,
+    "by_category": {
+      "Background Textures": {
+        "n": 136,
+        "original": 91,
+        "edited": 83,
+        "gains": 10,
+        "losses": 18,
+        "diff_pp": -5.88235294117647,
+        "se_pp": 3.8722387564963725
+      },
+      "Camera Viewpoints": {
+        "n": 136,
+        "original": 53,
+        "edited": 53,
+        "gains": 11,
+        "losses": 11,
+        "diff_pp": 0.0,
+        "se_pp": 3.461585013559571
+      },
+      "Light Conditions": {
+        "n": 124,
+        "original": 112,
+        "edited": 111,
+        "gains": 3,
+        "losses": 4,
+        "diff_pp": -0.8064516129032258,
+        "se_pp": 2.1410918968599217
+      },
+      "Objects Layout": {
+        "n": 124,
+        "original": 95,
+        "edited": 87,
+        "gains": 6,
+        "losses": 14,
+        "diff_pp": -6.451612903225806,
+        "se_pp": 3.5741619254784323
+      },
+      "Robot Initial States": {
+        "n": 124,
+        "original": 85,
+        "edited": 87,
+        "gains": 9,
+        "losses": 7,
+        "diff_pp": 1.6129032258064515,
+        "se_pp": 3.235626280877763
+      },
+      "Sensor Noise": {
+        "n": 124,
+        "original": 92,
+        "edited": 87,
+        "gains": 5,
+        "losses": 10,
+        "diff_pp": -4.032258064516129,
+        "se_pp": 3.1148977384145944
+      }
+    },
+    "passes": [
+      33,
+      36,
+      39,
+      42,
+      45,
+      48
+    ],
+    "ci95_pp": [
+      -5.251690781922097,
+      0.04335744858876289
+    ]
+  },
+  "language": {
+    "n": 640,
+    "original": 440,
+    "edited": 430,
+    "gains": 36,
+    "losses": 46,
+    "diff_pp": -1.5625,
+    "se_pp": 1.414660879832894,
+    "by_category": {
+      "Language Instructions": {
+        "n": 640,
+        "original": 440,
+        "edited": 430,
+        "gains": 36,
+        "losses": 46,
+        "diff_pp": -1.5625,
+        "se_pp": 1.414660879832894
+      }
+    },
+    "passes": [
+      34,
+      37,
+      40,
+      43,
+      46
+    ],
+    "ci95_pp": [
+      -4.335235324472472,
+      1.210235324472472
+    ]
+  }
+}

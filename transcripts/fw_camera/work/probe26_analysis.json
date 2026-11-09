@@ -1,0 +1,18 @@
+{
+  "suspect_original_entropy": 0.15163728584078628,
+  "suspect_ablated_entropy": 0.39819634147481103,
+  "suspect_original_agent_fraction": 0.9995418190956116,
+  "suspect_ablated_agent_fraction": 0.7592610120773315,
+  "pair_action": [
+    {
+      "original": 0.08300881087779999,
+      "ablated": 0.0828448235988617,
+      "relative_pct": -0.1975540634833406
+    },
+    {
+      "original": 0.08551836013793945,
+      "ablated": 0.08582451194524765,
+      "relative_pct": 0.3579954138671182
+    }
+  ]
+}

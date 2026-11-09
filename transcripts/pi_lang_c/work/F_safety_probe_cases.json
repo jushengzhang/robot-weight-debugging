@@ -1,0 +1,542 @@
+[
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_spatial_v631_s7_original/t0000_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_spatial",
+    "id": 631,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_spatial_v631_s7_original/t0050_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_spatial",
+    "id": 631,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_object_v664_s7_original/t0000_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_object",
+    "id": 664,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_object_v664_s7_original/t0050_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_object",
+    "id": 664,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_goal_v769_s7_original/t0000_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_goal",
+    "id": 769,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_goal_v769_s7_original/t0050_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_goal",
+    "id": 769,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_10_v763_s7_original/t0000_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_10",
+    "id": 763,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_43_frames/libero_10_v763_s7_original/t0050_inputs.pt",
+    "category": "Camera Viewpoints",
+    "suite": "libero_10",
+    "id": 763,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_spatial_v307_s7_original/t0000_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_spatial",
+    "id": 307,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_spatial_v307_s7_original/t0050_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_spatial",
+    "id": 307,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_object_v277_s7_original/t0000_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_object",
+    "id": 277,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_object_v277_s7_original/t0050_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_object",
+    "id": 277,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_goal_v315_s7_original/t0000_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_goal",
+    "id": 315,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_goal_v315_s7_original/t0050_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_goal",
+    "id": 315,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v354_s7_original/t0000_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 354,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v354_s7_original/t0050_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 354,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_spatial_v2342_s7_original/t0000_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_spatial",
+    "id": 2342,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_spatial_v2342_s7_original/t0050_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_spatial",
+    "id": 2342,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_object_v2222_s7_original/t0000_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_object",
+    "id": 2222,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_object_v2222_s7_original/t0050_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_object",
+    "id": 2222,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_goal_v2386_s7_original/t0000_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_goal",
+    "id": 2386,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_goal_v2386_s7_original/t0050_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_goal",
+    "id": 2386,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2278_s7_original/t0000_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2278,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2278_s7_original/t0050_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2278,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_spatial_v171_s7_original/t0000_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_spatial",
+    "id": 171,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_spatial_v171_s7_original/t0050_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_spatial",
+    "id": 171,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_object_v58_s7_original/t0000_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_object",
+    "id": 58,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_object_v58_s7_original/t0050_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_object",
+    "id": 58,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_goal_v53_s7_original/t0000_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_goal",
+    "id": 53,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_goal_v53_s7_original/t0050_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_goal",
+    "id": 53,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_10_v47_s7_original/t0000_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_10",
+    "id": 47,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_46_frames/libero_10_v47_s7_original/t0050_inputs.pt",
+    "category": "Background Textures",
+    "suite": "libero_10",
+    "id": 47,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_spatial_v1743_s7_original/t0000_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_spatial",
+    "id": 1743,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_spatial_v1743_s7_original/t0050_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_spatial",
+    "id": 1743,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_object_v1884_s7_original/t0000_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_object",
+    "id": 1884,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_object_v1884_s7_original/t0050_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_object",
+    "id": 1884,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_goal_v1972_s7_original/t0000_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_goal",
+    "id": 1972,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_goal_v1972_s7_original/t0050_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_goal",
+    "id": 1972,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_10_v2075_s7_original/t0000_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_10",
+    "id": 2075,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_47_frames/libero_10_v2075_s7_original/t0050_inputs.pt",
+    "category": "Objects Layout",
+    "suite": "libero_10",
+    "id": 2075,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_spatial_v1414_s7_original/t0000_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_spatial",
+    "id": 1414,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_spatial_v1414_s7_original/t0050_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_spatial",
+    "id": 1414,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_object_v1592_s7_original/t0000_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_object",
+    "id": 1592,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_object_v1592_s7_original/t0050_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_object",
+    "id": 1592,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_goal_v1527_s7_original/t0000_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_goal",
+    "id": 1527,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_goal_v1527_s7_original/t0050_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_goal",
+    "id": 1527,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_10_v1658_s7_original/t0000_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_10",
+    "id": 1658,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_48_frames/libero_10_v1658_s7_original/t0050_inputs.pt",
+    "category": "Sensor Noise",
+    "suite": "libero_10",
+    "id": 1658,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "suite-category coverage"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v447_s7_original/t0000_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 447,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v447_s7_original/t0050_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 447,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v447_s7_original/t0100_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 447,
+    "step": 100,
+    "source_arm": "original",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v447_s7_edited/t0000_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 447,
+    "step": 0,
+    "source_arm": "edited",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v447_s7_edited/t0050_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 447,
+    "step": 50,
+    "source_arm": "edited",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_44_frames/libero_10_v447_s7_edited/t0100_inputs.pt",
+    "category": "Robot Initial States",
+    "suite": "libero_10",
+    "id": 447,
+    "step": 100,
+    "source_arm": "edited",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2341_s7_original/t0000_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2341,
+    "step": 0,
+    "source_arm": "original",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2341_s7_original/t0050_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2341,
+    "step": 50,
+    "source_arm": "original",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2341_s7_original/t0100_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2341,
+    "step": 100,
+    "source_arm": "original",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2341_s7_edited/t0000_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2341,
+    "step": 0,
+    "source_arm": "edited",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2341_s7_edited/t0050_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2341,
+    "step": 50,
+    "source_arm": "edited",
+    "reason": "discordant rollout audit"
+  },
+  {
+    "path": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_45_frames/libero_10_v2341_s7_edited/t0100_inputs.pt",
+    "category": "Light Conditions",
+    "suite": "libero_10",
+    "id": 2341,
+    "step": 100,
+    "source_arm": "edited",
+    "reason": "discordant rollout audit"
+  }
+]

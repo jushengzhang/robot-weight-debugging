@@ -1,0 +1,327 @@
+{
+  "as_of": "2026-11-04",
+  "candidate_status": "withdrawal requested; cleanup code unexecuted in round one",
+  "raw_heldout": {
+    "ALL": {
+      "n": 700,
+      "original_successes": 334,
+      "candidate_successes": 359,
+      "original_pct": 47.714285714285715,
+      "candidate_pct": 51.28571428571429,
+      "gain_pairs": 43,
+      "loss_pairs": 18,
+      "delta_pp": 3.571428571428571,
+      "mcnemar_exact_p": 0.0018681010309752506,
+      "paired_normal_ci95_pp": [
+        1.4006222696135062,
+        5.742234873243636
+      ]
+    },
+    "Background Textures": {
+      "n": 100,
+      "original_successes": 45,
+      "candidate_successes": 43,
+      "original_pct": 45.0,
+      "candidate_pct": 43.0,
+      "gain_pairs": 2,
+      "loss_pairs": 4,
+      "delta_pp": -2.0,
+      "mcnemar_exact_p": 0.6875,
+      "paired_normal_ci95_pp": [
+        -6.784969801367612,
+        2.784969801367611
+      ]
+    },
+    "Camera Viewpoints": {
+      "n": 100,
+      "original_successes": 7,
+      "candidate_successes": 13,
+      "original_pct": 7.000000000000001,
+      "candidate_pct": 13.0,
+      "gain_pairs": 7,
+      "loss_pairs": 1,
+      "delta_pp": 6.0,
+      "mcnemar_exact_p": 0.0703125,
+      "paired_normal_ci95_pp": [
+        0.5824522152545815,
+        11.41754778474542
+      ]
+    },
+    "Language Instructions": {
+      "n": 100,
+      "original_successes": 65,
+      "candidate_successes": 68,
+      "original_pct": 65.0,
+      "candidate_pct": 68.0,
+      "gain_pairs": 3,
+      "loss_pairs": 0,
+      "delta_pp": 3.0,
+      "mcnemar_exact_p": 0.25,
+      "paired_normal_ci95_pp": [
+        -0.34350953340946816,
+        6.343509533409468
+      ]
+    },
+    "Light Conditions": {
+      "n": 100,
+      "original_successes": 75,
+      "candidate_successes": 73,
+      "original_pct": 75.0,
+      "candidate_pct": 73.0,
+      "gain_pairs": 2,
+      "loss_pairs": 4,
+      "delta_pp": -2.0,
+      "mcnemar_exact_p": 0.6875,
+      "paired_normal_ci95_pp": [
+        -6.784969801367612,
+        2.784969801367611
+      ]
+    },
+    "Objects Layout": {
+      "n": 100,
+      "original_successes": 58,
+      "candidate_successes": 60,
+      "original_pct": 57.99999999999999,
+      "candidate_pct": 60.0,
+      "gain_pairs": 3,
+      "loss_pairs": 1,
+      "delta_pp": 2.0,
+      "mcnemar_exact_p": 0.625,
+      "paired_normal_ci95_pp": [
+        -1.9003507534579498,
+        5.90035075345795
+      ]
+    },
+    "Robot Initial States": {
+      "n": 100,
+      "original_successes": 45,
+      "candidate_successes": 52,
+      "original_pct": 45.0,
+      "candidate_pct": 52.0,
+      "gain_pairs": 9,
+      "loss_pairs": 2,
+      "delta_pp": 7.000000000000001,
+      "mcnemar_exact_p": 0.0654296875,
+      "paired_normal_ci95_pp": [
+        0.6458504896406481,
+        13.354149510359353
+      ]
+    },
+    "Sensor Noise": {
+      "n": 100,
+      "original_successes": 39,
+      "candidate_successes": 50,
+      "original_pct": 39.0,
+      "candidate_pct": 50.0,
+      "gain_pairs": 17,
+      "loss_pairs": 6,
+      "delta_pp": 11.0,
+      "mcnemar_exact_p": 0.03468966484069824,
+      "paired_normal_ci95_pp": [
+        1.8507670266846952,
+        20.149232973315307
+      ]
+    }
+  },
+  "clean_heldout": {
+    "ALL": {
+      "n": 420,
+      "original_successes": 291,
+      "candidate_successes": 293,
+      "original_pct": 69.28571428571428,
+      "candidate_pct": 69.76190476190476,
+      "gain_pairs": 14,
+      "loss_pairs": 12,
+      "delta_pp": 0.4761904761904762,
+      "mcnemar_exact_p": 0.8450189828872681,
+      "paired_normal_ci95_pp": [
+        -1.9029161099355314,
+        2.855297062316484
+      ]
+    },
+    "Background Textures": {
+      "n": 60,
+      "original_successes": 34,
+      "candidate_successes": 35,
+      "original_pct": 56.666666666666664,
+      "candidate_pct": 58.333333333333336,
+      "gain_pairs": 1,
+      "loss_pairs": 0,
+      "delta_pp": 1.6666666666666667,
+      "mcnemar_exact_p": 1.0,
+      "paired_normal_ci95_pp": [
+        -1.5726633966734769,
+        4.905996730006811
+      ]
+    },
+    "Camera Viewpoints": {
+      "n": 60,
+      "original_successes": 18,
+      "candidate_successes": 17,
+      "original_pct": 30.0,
+      "candidate_pct": 28.333333333333332,
+      "gain_pairs": 3,
+      "loss_pairs": 4,
+      "delta_pp": -1.6666666666666667,
+      "mcnemar_exact_p": 1.0,
+      "paired_normal_ci95_pp": [
+        -10.299159118208452,
+        6.965825784875119
+      ]
+    },
+    "Language Instructions": {
+      "n": 60,
+      "original_successes": 51,
+      "candidate_successes": 48,
+      "original_pct": 85.0,
+      "candidate_pct": 80.0,
+      "gain_pairs": 0,
+      "loss_pairs": 3,
+      "delta_pp": -5.0,
+      "mcnemar_exact_p": 0.25,
+      "paired_normal_ci95_pp": [
+        -10.514768051937152,
+        0.5147680519371499
+      ]
+    },
+    "Light Conditions": {
+      "n": 60,
+      "original_successes": 57,
+      "candidate_successes": 57,
+      "original_pct": 95.0,
+      "candidate_pct": 95.0,
+      "gain_pairs": 2,
+      "loss_pairs": 2,
+      "delta_pp": 0.0,
+      "mcnemar_exact_p": 1.0,
+      "paired_normal_ci95_pp": [
+        -6.533333333333332,
+        6.533333333333332
+      ]
+    },
+    "Objects Layout": {
+      "n": 60,
+      "original_successes": 50,
+      "candidate_successes": 49,
+      "original_pct": 83.33333333333334,
+      "candidate_pct": 81.66666666666667,
+      "gain_pairs": 0,
+      "loss_pairs": 1,
+      "delta_pp": -1.6666666666666667,
+      "mcnemar_exact_p": 1.0,
+      "paired_normal_ci95_pp": [
+        -4.905996730006811,
+        1.5726633966734769
+      ]
+    },
+    "Robot Initial States": {
+      "n": 60,
+      "original_successes": 41,
+      "candidate_successes": 44,
+      "original_pct": 68.33333333333333,
+      "candidate_pct": 73.33333333333333,
+      "gain_pairs": 3,
+      "loss_pairs": 0,
+      "delta_pp": 5.0,
+      "mcnemar_exact_p": 0.25,
+      "paired_normal_ci95_pp": [
+        -0.5147680519371499,
+        10.514768051937152
+      ]
+    },
+    "Sensor Noise": {
+      "n": 60,
+      "original_successes": 40,
+      "candidate_successes": 43,
+      "original_pct": 66.66666666666666,
+      "candidate_pct": 71.66666666666667,
+      "gain_pairs": 5,
+      "loss_pairs": 2,
+      "delta_pp": 5.0,
+      "mcnemar_exact_p": 0.453125,
+      "paired_normal_ci95_pp": [
+        -3.5496848544909003,
+        13.5496848544909
+      ]
+    }
+  },
+  "baseline210": {
+    "n": 210,
+    "raw_successes": 102,
+    "clean_successes": 147,
+    "raw_pct": 48.57142857142857,
+    "clean_pct": 70.0
+  },
+  "sources": [
+    {
+      "path": "paper/MATERIALS.md",
+      "sha256": "40e884c455e81ba22a1d245c53d30885982f5d3941fbc57b5c37b3483323d875",
+      "bytes": 2129
+    },
+    {
+      "path": "fastwam/README.md",
+      "sha256": "687308ccac11b69f6ae8197e1073cbfa89841b20d1fb15f32b0323e33460cfcf",
+      "bytes": 17546
+    },
+    {
+      "path": "reports/exp8_verify.md",
+      "sha256": "c5968a29f849a1aecb251b7761537a0d98eb4cddd8f1f2c045b2a36305718f42",
+      "bytes": 4248
+    },
+    {
+      "path": "harness/driver.py",
+      "sha256": "93fe61587b89af0fe00aecba6a68e18f8f6501b5bcd27a7b1605733f030bddcd",
+      "bytes": 9624
+    },
+    {
+      "path": "harness/kernel.py",
+      "sha256": "774e02072563b6772bc9ae04afe3d03c15a3068d939991c925cfe472ee88e2bc",
+      "bytes": 4031
+    },
+    {
+      "path": "harness/domain_fastwam.py",
+      "sha256": "d5d64926b48761db6a5edf87bfcd7d150f596886f51d65dcbd28f9eaa5873765",
+      "bytes": 12285
+    },
+    {
+      "path": "harness/domain_fastwam_suffix.py",
+      "sha256": "8eedf770d2fb514356e882b36d1b01ebae425fdcc9bf8921fcbc6b29f49c3782",
+      "bytes": 7256
+    },
+    {
+      "path": "harness/eval_heldout.py",
+      "sha256": "c500d17260e2d2db595ab6a9daf7901ee036442df158f1b59e1279383253b30a",
+      "bytes": 4408
+    },
+    {
+      "path": "runs/fw_suffix/work/notes.md",
+      "sha256": "555fa3e1adf816fce7fc18f6a8c8f48a89169c24dab8e4584a37cae40bc52b7a",
+      "bytes": 23711
+    },
+    {
+      "path": "runs/fw_suffix/work/frozen_candidate.json",
+      "sha256": "b4464f8dcd9091bf0542db699a8ac45b37391757dc233d119e9de1ae034dd470",
+      "bytes": 613
+    },
+    {
+      "path": "runs/fw_suffix/turns/t112/answer.md",
+      "sha256": "e4b5308c4a5b9a45972cdba7fa953e0278bf647e8c2554ebe2dd716ee27c568e",
+      "bytes": 2382
+    },
+    {
+      "path": "heldout/suffix_raw/summary.md",
+      "sha256": "baa588e5088f38f15732ae3bae1540355329f1d6798553b659c2007f3cf9f82f",
+      "bytes": 586
+    },
+    {
+      "path": "heldout/suffix_strip/summary.md",
+      "sha256": "086abea9f3e2b4d6bffe769331194ac4a22c7567d30c3656bc51180b8b9c0516",
+      "bytes": 556
+    },
+    {
+      "path": "heldout/wave1/summary.md",
+      "sha256": "1d1337f748485051926fac43c6c7b2f6d4a437a0ae1eaf0b9f89886074a61f3a",
+      "bytes": 1096
+    }
+  ]
+}

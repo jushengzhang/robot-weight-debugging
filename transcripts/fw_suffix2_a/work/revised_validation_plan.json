@@ -1,0 +1,27 @@
+{
+  "candidate": "frozen_video_orthogonal_rank6",
+  "development_raw_pass": 33,
+  "development_safety_pass": 39,
+  "raw_splits": [
+    "tag_validation_2",
+    "tag_validation_3",
+    "tag_validation_4",
+    "tag_validation_5"
+  ],
+  "strip_splits": [
+    "tag_validation_2",
+    "tag_validation_3",
+    "tag_validation_4"
+  ],
+  "language_splits": [
+    "language_validation_0",
+    "language_validation_1",
+    "language_validation_2",
+    "language_validation_3"
+  ],
+  "excluded_validation_passes": [
+    36,
+    37
+  ],
+  "retain_rule": "positive tagged 95% paired CI; clean/language losses each <=2pp"
+}

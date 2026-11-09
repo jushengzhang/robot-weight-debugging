@@ -1,0 +1,146 @@
+[
+  {
+    "key": "video_L23_H3",
+    "top_singular": 81.91458892822266,
+    "full_removal_relative_tensor_norm": 0.23501324653625488,
+    "channel1938_overlap": 0.9964281320571899
+  },
+  {
+    "key": "video_L24_H21",
+    "top_singular": 64.77236938476562,
+    "full_removal_relative_tensor_norm": 0.20408043265342712,
+    "channel1938_overlap": 0.9934666156768799
+  },
+  {
+    "key": "video_L22_H5",
+    "top_singular": 52.95098876953125,
+    "full_removal_relative_tensor_norm": 0.18813841044902802,
+    "channel1938_overlap": 0.9896165132522583
+  },
+  {
+    "key": "video_L15_H11",
+    "top_singular": 62.199520111083984,
+    "full_removal_relative_tensor_norm": 0.16951468586921692,
+    "channel1938_overlap": 0.9849234223365784
+  },
+  {
+    "key": "video_L17_H14",
+    "top_singular": 51.408111572265625,
+    "full_removal_relative_tensor_norm": 0.18683265149593353,
+    "channel1938_overlap": 0.9910197854042053
+  },
+  {
+    "key": "video_L25_H22",
+    "top_singular": 42.985233306884766,
+    "full_removal_relative_tensor_norm": 0.16176512837409973,
+    "channel1938_overlap": 0.9856281876564026
+  },
+  {
+    "key": "video_L27_H19",
+    "top_singular": 39.12861251831055,
+    "full_removal_relative_tensor_norm": 0.14995846152305603,
+    "channel1938_overlap": 0.9768880605697632
+  },
+  {
+    "key": "video_L20_H6",
+    "top_singular": 39.863243103027344,
+    "full_removal_relative_tensor_norm": 0.1612330675125122,
+    "channel1938_overlap": 0.9699497818946838
+  },
+  {
+    "key": "video_L13_H7",
+    "top_singular": 44.975101470947266,
+    "full_removal_relative_tensor_norm": 0.13392233848571777,
+    "channel1938_overlap": 0.9794929027557373
+  },
+  {
+    "key": "video_L18_H10",
+    "top_singular": 35.220947265625,
+    "full_removal_relative_tensor_norm": 0.1528935581445694,
+    "channel1938_overlap": 0.9769562482833862
+  },
+  {
+    "key": "video_L26_H14",
+    "top_singular": 25.611291885375977,
+    "full_removal_relative_tensor_norm": 0.13435575366020203,
+    "channel1938_overlap": 0.9671757221221924
+  },
+  {
+    "key": "video_L26_H15",
+    "top_singular": 25.556106567382812,
+    "full_removal_relative_tensor_norm": 0.12890954315662384,
+    "channel1938_overlap": 0.4307055175304413
+  },
+  {
+    "key": "action_L23_H3",
+    "top_singular": 4.088886260986328,
+    "full_removal_relative_tensor_norm": 0.03423962742090225,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L24_H21",
+    "top_singular": 4.039464473724365,
+    "full_removal_relative_tensor_norm": 0.03162020072340965,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L22_H5",
+    "top_singular": 3.0286202430725098,
+    "full_removal_relative_tensor_norm": 0.03629792481660843,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L15_H11",
+    "top_singular": 3.5615830421447754,
+    "full_removal_relative_tensor_norm": 0.03177182748913765,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L17_H14",
+    "top_singular": 3.3371474742889404,
+    "full_removal_relative_tensor_norm": 0.03259240835905075,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L25_H22",
+    "top_singular": 3.0064311027526855,
+    "full_removal_relative_tensor_norm": 0.03504951670765877,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L27_H19",
+    "top_singular": 3.7453596591949463,
+    "full_removal_relative_tensor_norm": 0.04383881390094757,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L20_H6",
+    "top_singular": 2.8689069747924805,
+    "full_removal_relative_tensor_norm": 0.040804486721754074,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L13_H7",
+    "top_singular": 4.161029815673828,
+    "full_removal_relative_tensor_norm": 0.03630577027797699,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L18_H10",
+    "top_singular": 2.595273017883301,
+    "full_removal_relative_tensor_norm": 0.04356759786605835,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L26_H14",
+    "top_singular": 2.698387861251831,
+    "full_removal_relative_tensor_norm": 0.04218912869691849,
+    "channel1938_overlap": null
+  },
+  {
+    "key": "action_L26_H15",
+    "top_singular": 8.238714218139648,
+    "full_removal_relative_tensor_norm": 0.10539726912975311,
+    "channel1938_overlap": null
+  }
+]

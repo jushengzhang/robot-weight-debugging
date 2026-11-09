@@ -1,0 +1,332 @@
+{
+  "0": {
+    "ratio": [
+      15.410954475402832,
+      48.488773345947266
+    ],
+    "contrast_fraction": 0.16528157889842987,
+    "light_fraction": 0.003423186717554927,
+    "leading_half_cosine": 0.35850492119789124,
+    "protected_light_fraction": 0.9764047265052795,
+    "residual_pair_rms": 0.12692652642726898
+  },
+  "1": {
+    "ratio": [
+      18.281579971313477,
+      53.394283294677734
+    ],
+    "contrast_fraction": 0.15394602715969086,
+    "light_fraction": 0.004338799975812435,
+    "leading_half_cosine": 0.26913487911224365,
+    "protected_light_fraction": 0.9655553698539734,
+    "residual_pair_rms": 0.15584692358970642
+  },
+  "2": {
+    "ratio": [
+      26.55104637145996,
+      59.56147766113281
+    ],
+    "contrast_fraction": 0.11679261922836304,
+    "light_fraction": 0.0028782051522284746,
+    "leading_half_cosine": 0.10363495349884033,
+    "protected_light_fraction": 0.959389865398407,
+    "residual_pair_rms": 0.16869522631168365
+  },
+  "3": {
+    "ratio": [
+      37.138816833496094,
+      59.27910232543945
+    ],
+    "contrast_fraction": 0.11276889592409134,
+    "light_fraction": 0.0020853611640632153,
+    "leading_half_cosine": 0.11974342167377472,
+    "protected_light_fraction": 0.95379638671875,
+    "residual_pair_rms": 0.1680685579776764
+  },
+  "4": {
+    "ratio": [
+      73.43807983398438,
+      52.527915954589844
+    ],
+    "contrast_fraction": 0.1344458907842636,
+    "light_fraction": 0.0013858155580237508,
+    "leading_half_cosine": 0.2989715337753296,
+    "protected_light_fraction": 0.9326636791229248,
+    "residual_pair_rms": 0.1766771674156189
+  },
+  "5": {
+    "ratio": [
+      91.14720153808594,
+      74.79791259765625
+    ],
+    "contrast_fraction": 0.1518266201019287,
+    "light_fraction": 0.0014005620032548904,
+    "leading_half_cosine": 0.37496012449264526,
+    "protected_light_fraction": 0.9254744052886963,
+    "residual_pair_rms": 0.18779447674751282
+  },
+  "6": {
+    "ratio": [
+      106.58873748779297,
+      93.30719757080078
+    ],
+    "contrast_fraction": 0.15219275653362274,
+    "light_fraction": 0.0012914406834170222,
+    "leading_half_cosine": 0.3865066170692444,
+    "protected_light_fraction": 0.9180365800857544,
+    "residual_pair_rms": 0.19390733540058136
+  },
+  "7": {
+    "ratio": [
+      108.63504028320312,
+      72.31627655029297
+    ],
+    "contrast_fraction": 0.16512484848499298,
+    "light_fraction": 0.0014733585994690657,
+    "leading_half_cosine": 0.460091233253479,
+    "protected_light_fraction": 0.8980844616889954,
+    "residual_pair_rms": 0.19762392342090607
+  },
+  "8": {
+    "ratio": [
+      97.9280776977539,
+      63.59696578979492
+    ],
+    "contrast_fraction": 0.18136762082576752,
+    "light_fraction": 0.0019358060089871287,
+    "leading_half_cosine": 0.480806440114975,
+    "protected_light_fraction": 0.8821244239807129,
+    "residual_pair_rms": 0.20169034600257874
+  },
+  "9": {
+    "ratio": [
+      91.98655700683594,
+      49.60024642944336
+    ],
+    "contrast_fraction": 0.20703257620334625,
+    "light_fraction": 0.0024533893447369337,
+    "leading_half_cosine": 0.5913996696472168,
+    "protected_light_fraction": 0.865028977394104,
+    "residual_pair_rms": 0.20075100660324097
+  },
+  "10": {
+    "ratio": [
+      69.01136016845703,
+      52.102848052978516
+    ],
+    "contrast_fraction": 0.20416320860385895,
+    "light_fraction": 0.0034845336340367794,
+    "leading_half_cosine": 0.38213351368904114,
+    "protected_light_fraction": 0.840481162071228,
+    "residual_pair_rms": 0.20211969316005707
+  },
+  "11": {
+    "ratio": [
+      65.41426086425781,
+      59.03998947143555
+    ],
+    "contrast_fraction": 0.1995736062526703,
+    "light_fraction": 0.0032683860044926405,
+    "leading_half_cosine": 0.22336934506893158,
+    "protected_light_fraction": 0.8313508629798889,
+    "residual_pair_rms": 0.194892019033432
+  },
+  "12": {
+    "ratio": [
+      78.90119934082031,
+      76.74368286132812
+    ],
+    "contrast_fraction": 0.1880498230457306,
+    "light_fraction": 0.0023448863066732883,
+    "leading_half_cosine": 0.164831280708313,
+    "protected_light_fraction": 0.8360963463783264,
+    "residual_pair_rms": 0.19655738770961761
+  },
+  "13": {
+    "ratio": [
+      77.5739517211914,
+      85.95040893554688
+    ],
+    "contrast_fraction": 0.187933549284935,
+    "light_fraction": 0.0023646617773920298,
+    "leading_half_cosine": 0.08418117463588715,
+    "protected_light_fraction": 0.8364159464836121,
+    "residual_pair_rms": 0.18962372839450836
+  },
+  "14": {
+    "ratio": [
+      94.0173568725586,
+      66.88359069824219
+    ],
+    "contrast_fraction": 0.18871073424816132,
+    "light_fraction": 0.0019148903666064143,
+    "leading_half_cosine": 0.019258646294474602,
+    "protected_light_fraction": 0.8391905426979065,
+    "residual_pair_rms": 0.18760773539543152
+  },
+  "15": {
+    "ratio": [
+      73.28092956542969,
+      87.03903198242188
+    ],
+    "contrast_fraction": 0.21213729679584503,
+    "light_fraction": 0.0026838190387934446,
+    "leading_half_cosine": 0.1902211755514145,
+    "protected_light_fraction": 0.8441639542579651,
+    "residual_pair_rms": 0.19810707867145538
+  },
+  "16": {
+    "ratio": [
+      78.47350311279297,
+      78.5797119140625
+    ],
+    "contrast_fraction": 0.2151297777891159,
+    "light_fraction": 0.0023563557770103216,
+    "leading_half_cosine": 0.22928950190544128,
+    "protected_light_fraction": 0.8541348576545715,
+    "residual_pair_rms": 0.20063777267932892
+  },
+  "17": {
+    "ratio": [
+      51.89381408691406,
+      63.80879211425781
+    ],
+    "contrast_fraction": 0.23272459208965302,
+    "light_fraction": 0.0035006527323275805,
+    "leading_half_cosine": 0.31297633051872253,
+    "protected_light_fraction": 0.8541563153266907,
+    "residual_pair_rms": 0.20825059711933136
+  },
+  "18": {
+    "ratio": [
+      58.15194320678711,
+      53.479923248291016
+    ],
+    "contrast_fraction": 0.25233128666877747,
+    "light_fraction": 0.0031548913102597,
+    "leading_half_cosine": 0.4066455662250519,
+    "protected_light_fraction": 0.8599048852920532,
+    "residual_pair_rms": 0.2090124487876892
+  },
+  "19": {
+    "ratio": [
+      61.848079681396484,
+      44.30939483642578
+    ],
+    "contrast_fraction": 0.25026771426200867,
+    "light_fraction": 0.002826244570314884,
+    "leading_half_cosine": 0.4137086868286133,
+    "protected_light_fraction": 0.8658623099327087,
+    "residual_pair_rms": 0.21124328672885895
+  },
+  "20": {
+    "ratio": [
+      58.513214111328125,
+      45.362979888916016
+    ],
+    "contrast_fraction": 0.2457914650440216,
+    "light_fraction": 0.00292152795009315,
+    "leading_half_cosine": 0.3553428053855896,
+    "protected_light_fraction": 0.867853045463562,
+    "residual_pair_rms": 0.21628931164741516
+  },
+  "21": {
+    "ratio": [
+      60.72688293457031,
+      46.40476608276367
+    ],
+    "contrast_fraction": 0.24642980098724365,
+    "light_fraction": 0.0027591825928539038,
+    "leading_half_cosine": 0.3577539026737213,
+    "protected_light_fraction": 0.8669099807739258,
+    "residual_pair_rms": 0.21439696848392487
+  },
+  "22": {
+    "ratio": [
+      49.77408218383789,
+      47.946678161621094
+    ],
+    "contrast_fraction": 0.280020147562027,
+    "light_fraction": 0.003413353580981493,
+    "leading_half_cosine": 0.46106526255607605,
+    "protected_light_fraction": 0.8605422973632812,
+    "residual_pair_rms": 0.21298344433307648
+  },
+  "23": {
+    "ratio": [
+      51.79829406738281,
+      47.97518539428711
+    ],
+    "contrast_fraction": 0.2820623517036438,
+    "light_fraction": 0.0030825757421553135,
+    "leading_half_cosine": 0.4901849329471588,
+    "protected_light_fraction": 0.8586679100990295,
+    "residual_pair_rms": 0.21383948624134064
+  },
+  "24": {
+    "ratio": [
+      63.117340087890625,
+      44.122039794921875
+    ],
+    "contrast_fraction": 0.30644160509109497,
+    "light_fraction": 0.00262123579159379,
+    "leading_half_cosine": 0.5748825073242188,
+    "protected_light_fraction": 0.8479933142662048,
+    "residual_pair_rms": 0.2159142792224884
+  },
+  "25": {
+    "ratio": [
+      63.1122932434082,
+      44.17334747314453
+    ],
+    "contrast_fraction": 0.30865204334259033,
+    "light_fraction": 0.0025336777325719595,
+    "leading_half_cosine": 0.57405686378479,
+    "protected_light_fraction": 0.8456369042396545,
+    "residual_pair_rms": 0.2164650559425354
+  },
+  "26": {
+    "ratio": [
+      60.40960693359375,
+      44.045372009277344
+    ],
+    "contrast_fraction": 0.29800549149513245,
+    "light_fraction": 0.0024442500434815884,
+    "leading_half_cosine": 0.5518191456794739,
+    "protected_light_fraction": 0.8362321257591248,
+    "residual_pair_rms": 0.2176474630832672
+  },
+  "27": {
+    "ratio": [
+      54.395965576171875,
+      36.287113189697266
+    ],
+    "contrast_fraction": 0.29973486065864563,
+    "light_fraction": 0.002801619004458189,
+    "leading_half_cosine": 0.546160101890564,
+    "protected_light_fraction": 0.7898648977279663,
+    "residual_pair_rms": 0.21409182250499725
+  },
+  "28": {
+    "ratio": [
+      36.50624465942383,
+      43.29463577270508
+    ],
+    "contrast_fraction": 0.28892865777015686,
+    "light_fraction": 0.004222243092954159,
+    "leading_half_cosine": 0.5201253890991211,
+    "protected_light_fraction": 0.7430450320243835,
+    "residual_pair_rms": 0.22825081646442413
+  },
+  "29": {
+    "ratio": [
+      37.37439727783203,
+      47.68753433227539
+    ],
+    "contrast_fraction": 0.2927314043045044,
+    "light_fraction": 0.004387568216770887,
+    "leading_half_cosine": 0.5220683813095093,
+    "protected_light_fraction": 0.7289990186691284,
+    "residual_pair_rms": 0.23029640316963196
+  }
+}

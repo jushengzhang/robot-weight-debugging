@@ -1,0 +1,647 @@
+{
+  "type": "rollout",
+  "model": "both",
+  "language": "raw",
+  "episodes": [
+    {
+      "suite": "libero_10",
+      "id": 186,
+      "seed": 1643
+    },
+    {
+      "suite": "libero_goal",
+      "id": 71,
+      "seed": 87454
+    },
+    {
+      "suite": "libero_object",
+      "id": 29,
+      "seed": 3727
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 157,
+      "seed": 367
+    },
+    {
+      "suite": "libero_10",
+      "id": 802,
+      "seed": 12441
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1055,
+      "seed": 87057
+    },
+    {
+      "suite": "libero_object",
+      "id": 913,
+      "seed": 35397
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 847,
+      "seed": 46542
+    },
+    {
+      "suite": "libero_10",
+      "id": 2416,
+      "seed": 689
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2391,
+      "seed": 43845
+    },
+    {
+      "suite": "libero_object",
+      "id": 2448,
+      "seed": 3180
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 2385,
+      "seed": 5331
+    },
+    {
+      "suite": "libero_10",
+      "id": 1962,
+      "seed": 60313
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2270,
+      "seed": 38933
+    },
+    {
+      "suite": "libero_object",
+      "id": 1886,
+      "seed": 15141
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 2047,
+      "seed": 39332
+    },
+    {
+      "suite": "libero_10",
+      "id": 480,
+      "seed": 25287
+    },
+    {
+      "suite": "libero_goal",
+      "id": 650,
+      "seed": 55826
+    },
+    {
+      "suite": "libero_object",
+      "id": 255,
+      "seed": 37539
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 375,
+      "seed": 99863
+    },
+    {
+      "suite": "libero_10",
+      "id": 1897,
+      "seed": 77135
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1870,
+      "seed": 86064
+    },
+    {
+      "suite": "libero_object",
+      "id": 1567,
+      "seed": 42769
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1481,
+      "seed": 61593
+    },
+    {
+      "suite": "libero_10",
+      "id": 256,
+      "seed": 19657
+    },
+    {
+      "suite": "libero_goal",
+      "id": 265,
+      "seed": 4171
+    },
+    {
+      "suite": "libero_object",
+      "id": 41,
+      "seed": 33777
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 12,
+      "seed": 28497
+    },
+    {
+      "suite": "libero_10",
+      "id": 766,
+      "seed": 45811
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1078,
+      "seed": 20387
+    },
+    {
+      "suite": "libero_object",
+      "id": 879,
+      "seed": 83416
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 814,
+      "seed": 37466
+    },
+    {
+      "suite": "libero_10",
+      "id": 2351,
+      "seed": 55890
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2457,
+      "seed": 33472
+    },
+    {
+      "suite": "libero_object",
+      "id": 2278,
+      "seed": 48732
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 2359,
+      "seed": 50181
+    },
+    {
+      "suite": "libero_10",
+      "id": 2234,
+      "seed": 31711
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2153,
+      "seed": 95646
+    },
+    {
+      "suite": "libero_object",
+      "id": 2070,
+      "seed": 44220
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1962,
+      "seed": 61097
+    },
+    {
+      "suite": "libero_10",
+      "id": 679,
+      "seed": 12144
+    },
+    {
+      "suite": "libero_goal",
+      "id": 524,
+      "seed": 74218
+    },
+    {
+      "suite": "libero_object",
+      "id": 438,
+      "seed": 26458
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 267,
+      "seed": 71774
+    },
+    {
+      "suite": "libero_10",
+      "id": 1741,
+      "seed": 93644
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1771,
+      "seed": 99098
+    },
+    {
+      "suite": "libero_object",
+      "id": 1610,
+      "seed": 19647
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1543,
+      "seed": 96384
+    },
+    {
+      "suite": "libero_10",
+      "id": 29,
+      "seed": 59092
+    },
+    {
+      "suite": "libero_goal",
+      "id": 209,
+      "seed": 17047
+    },
+    {
+      "suite": "libero_object",
+      "id": 108,
+      "seed": 22706
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 113,
+      "seed": 89692
+    },
+    {
+      "suite": "libero_10",
+      "id": 878,
+      "seed": 84619
+    },
+    {
+      "suite": "libero_goal",
+      "id": 825,
+      "seed": 25466
+    },
+    {
+      "suite": "libero_object",
+      "id": 760,
+      "seed": 96898
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 808,
+      "seed": 37079
+    },
+    {
+      "suite": "libero_10",
+      "id": 2316,
+      "seed": 52956
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2581,
+      "seed": 32795
+    },
+    {
+      "suite": "libero_object",
+      "id": 2239,
+      "seed": 75433
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 2171,
+      "seed": 29299
+    },
+    {
+      "suite": "libero_10",
+      "id": 2205,
+      "seed": 31834
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2114,
+      "seed": 89443
+    },
+    {
+      "suite": "libero_object",
+      "id": 1830,
+      "seed": 15768
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1812,
+      "seed": 94947
+    },
+    {
+      "suite": "libero_10",
+      "id": 303,
+      "seed": 3078
+    },
+    {
+      "suite": "libero_goal",
+      "id": 528,
+      "seed": 62812
+    },
+    {
+      "suite": "libero_object",
+      "id": 385,
+      "seed": 33737
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 457,
+      "seed": 93127
+    },
+    {
+      "suite": "libero_10",
+      "id": 1895,
+      "seed": 39935
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1847,
+      "seed": 87166
+    },
+    {
+      "suite": "libero_object",
+      "id": 1777,
+      "seed": 95720
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1420,
+      "seed": 77997
+    },
+    {
+      "suite": "libero_10",
+      "id": 273,
+      "seed": 37332
+    },
+    {
+      "suite": "libero_goal",
+      "id": 98,
+      "seed": 48387
+    },
+    {
+      "suite": "libero_object",
+      "id": 203,
+      "seed": 85735
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 138,
+      "seed": 70597
+    },
+    {
+      "suite": "libero_10",
+      "id": 1025,
+      "seed": 93180
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1021,
+      "seed": 64802
+    },
+    {
+      "suite": "libero_object",
+      "id": 980,
+      "seed": 30808
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 784,
+      "seed": 64480
+    },
+    {
+      "suite": "libero_10",
+      "id": 2311,
+      "seed": 70141
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2440,
+      "seed": 18026
+    },
+    {
+      "suite": "libero_object",
+      "id": 2463,
+      "seed": 60006
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 2199,
+      "seed": 86857
+    },
+    {
+      "suite": "libero_10",
+      "id": 2011,
+      "seed": 25068
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1982,
+      "seed": 26587
+    },
+    {
+      "suite": "libero_object",
+      "id": 2107,
+      "seed": 6897
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1805,
+      "seed": 26313
+    },
+    {
+      "suite": "libero_10",
+      "id": 670,
+      "seed": 78179
+    },
+    {
+      "suite": "libero_goal",
+      "id": 539,
+      "seed": 70777
+    },
+    {
+      "suite": "libero_object",
+      "id": 425,
+      "seed": 22444
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 543,
+      "seed": 91384
+    },
+    {
+      "suite": "libero_10",
+      "id": 1616,
+      "seed": 88697
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1646,
+      "seed": 72239
+    },
+    {
+      "suite": "libero_object",
+      "id": 1544,
+      "seed": 5671
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1379,
+      "seed": 88163
+    },
+    {
+      "suite": "libero_10",
+      "id": 83,
+      "seed": 85541
+    },
+    {
+      "suite": "libero_goal",
+      "id": 52,
+      "seed": 9810
+    },
+    {
+      "suite": "libero_object",
+      "id": 213,
+      "seed": 59694
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 193,
+      "seed": 9351
+    },
+    {
+      "suite": "libero_10",
+      "id": 791,
+      "seed": 16376
+    },
+    {
+      "suite": "libero_goal",
+      "id": 880,
+      "seed": 58141
+    },
+    {
+      "suite": "libero_object",
+      "id": 820,
+      "seed": 34981
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 964,
+      "seed": 56783
+    },
+    {
+      "suite": "libero_10",
+      "id": 2309,
+      "seed": 11746
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2573,
+      "seed": 95607
+    },
+    {
+      "suite": "libero_object",
+      "id": 2514,
+      "seed": 85511
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 2325,
+      "seed": 44615
+    },
+    {
+      "suite": "libero_10",
+      "id": 2017,
+      "seed": 56523
+    },
+    {
+      "suite": "libero_goal",
+      "id": 2294,
+      "seed": 92581
+    },
+    {
+      "suite": "libero_object",
+      "id": 1960,
+      "seed": 22597
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 2010,
+      "seed": 28899
+    },
+    {
+      "suite": "libero_10",
+      "id": 636,
+      "seed": 96097
+    },
+    {
+      "suite": "libero_goal",
+      "id": 440,
+      "seed": 64195
+    },
+    {
+      "suite": "libero_object",
+      "id": 254,
+      "seed": 75825
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 545,
+      "seed": 12546
+    },
+    {
+      "suite": "libero_10",
+      "id": 1534,
+      "seed": 62284
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1827,
+      "seed": 57458
+    },
+    {
+      "suite": "libero_object",
+      "id": 1625,
+      "seed": 93019
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1628,
+      "seed": 24003
+    },
+    {
+      "suite": "libero_10",
+      "id": 88,
+      "seed": 28171
+    },
+    {
+      "suite": "libero_goal",
+      "id": 208,
+      "seed": 67647
+    },
+    {
+      "suite": "libero_object",
+      "id": 184,
+      "seed": 8378
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 248,
+      "seed": 4475
+    },
+    {
+      "suite": "libero_10",
+      "id": 892,
+      "seed": 7497
+    },
+    {
+      "suite": "libero_goal",
+      "id": 702,
+      "seed": 69968
+    },
+    {
+      "suite": "libero_object",
+      "id": 726,
+      "seed": 10775
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 942,
+      "seed": 28137
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pass": 32,
+  "kind": "target",
+  "dose": 1.0,
+  "background_action_change_rms": 0.0007117442394468803,
+  "light_action_change_rms": 0.0007023630267644912,
+  "successful_bg_action_change_rms": 0.0007004544358433961,
+  "failed_bg_action_change_rms": 0.0007763990076657461,
+  "failure_control_discrepancy_rms_original": 0.10884617139367762,
+  "failure_control_discrepancy_ratio": 0.9995456747733359,
+  "failure_to_original_control_ratio": 0.9996193474384015,
+  "failure_action_change_by_channel": [
+    0.0010516900621563108,
+    0.0011261876106739154,
+    0.001281715002697495,
+    0.0002384276981766536,
+    0.00025157431955083123,
+    0.0002868565125661246,
+    0.0
+  ],
+  "light_action_change_by_channel": [
+    0.0010793109821642167,
+    0.0009820533754686242,
+    0.0010574294113485424,
+    0.00022951930498064585,
+    0.00025164504941855035,
+    0.00029949026500079786,
+    0.0
+  ],
+  "failure_pair_ratios": [
+    0.9988025710046307,
+    0.9999628954819374,
+    0.9981035276413057,
+    0.9993361153119116,
+    1.0008788736427332,
+    1.0003498940226734,
+    0.9966421934727512,
+    1.000303329281633,
+    0.997162892745617,
+    1.0015985271611927,
+    0.9995807476517699
+  ],
+  "layer11_target_projection_ratio": 0.0003064298712490904,
+  "layer19_target_projection_ratio": 0.0002271432525721095,
+  "layer25_target_projection_ratio": 0.00019487803523287966,
+  "late_mlp_change_rms": 0.0020891922384326054,
+  "action_change_ratio_full_to_half": 1.1235622444765045,
+  "half_full_change_cosine": 0.5467244386672974,
+  "failure_half_to_full_increment_rms": 0.0005882463474293865
+}

@@ -1,0 +1,77 @@
+{
+  "overall": {
+    "n": 204,
+    "original": 144,
+    "edited": 158,
+    "gain_pp": 6.863,
+    "se_pp": 2.028,
+    "rescues": 16,
+    "regressions": 2,
+    "unpaired": 0
+  },
+  "by_difficulty": {
+    "4": {
+      "n": 95,
+      "original": 87,
+      "edited": 86,
+      "gain_pp": -1.053,
+      "se_pp": 1.83,
+      "rescues": 1,
+      "regressions": 2,
+      "unpaired": 0
+    },
+    "5": {
+      "n": 109,
+      "original": 57,
+      "edited": 72,
+      "gain_pp": 13.761,
+      "se_pp": 3.315,
+      "rescues": 15,
+      "regressions": 0,
+      "unpaired": 0
+    }
+  },
+  "by_suite": {
+    "libero_10": {
+      "n": 69,
+      "original": 55,
+      "edited": 55,
+      "gain_pp": 0.0,
+      "se_pp": 2.065,
+      "rescues": 1,
+      "regressions": 1,
+      "unpaired": 0
+    },
+    "libero_goal": {
+      "n": 80,
+      "original": 39,
+      "edited": 54,
+      "gain_pp": 18.75,
+      "se_pp": 4.391,
+      "rescues": 15,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "libero_object": {
+      "n": 27,
+      "original": 24,
+      "edited": 24,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "libero_spatial": {
+      "n": 28,
+      "original": 26,
+      "edited": 25,
+      "gain_pp": -3.571,
+      "se_pp": 3.571,
+      "rescues": 0,
+      "regressions": 1,
+      "unpaired": 0
+    }
+  },
+  "exact_p": 0.001312255859375
+}

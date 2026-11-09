@@ -1,0 +1,9 @@
+{
+  "family": "protected_patch_DC_texture_direction",
+  "dose": 0.25,
+  "actual_dose": 0.25,
+  "kind": "target",
+  "tensor": "mot.mixtures.video.patch_embedding.weight",
+  "rank": 1,
+  "relative_change": 0.022997304797172546
+}

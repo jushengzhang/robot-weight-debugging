@@ -1,0 +1,25 @@
+{
+  "candidate": "frozen_video_orthogonal_rank6",
+  "retain": false,
+  "reason": "Independent tagged efficacy criterion failed",
+  "tagged_validation": {
+    "passes": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "n": 512,
+    "original_success": 249,
+    "edited_success": 236,
+    "wrong_to_right": 12,
+    "right_to_wrong": 25,
+    "diff_pp": -2.5390625,
+    "se_pp": 1.1838851193317426,
+    "ci95_pp": [
+      -4.859477333890215,
+      -0.21864766610978448
+    ]
+  },
+  "active_only_for_remaining_safety_measurements": true
+}

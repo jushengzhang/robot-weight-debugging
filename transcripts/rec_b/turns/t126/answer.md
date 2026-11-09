@@ -1,0 +1,4 @@
+The four selected inputs share the alphabet-soup instruction and open-gripper commands: one late loop, one successful recovery, and two successful pre-failure starts. I will probe H15 on these fixed observations to see how its routing effects differ across them; this is an audit, not further tuning.
+```forward
+{"type":"probe","model":"both","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_b/work/roll_1_frames/s65_open_seed17_original/t0300_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_b/work/roll_1_frames/s65_close_seed17_original/t0050_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_b/work/roll_47_frames/s735_open_seed7_original/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_b/work/roll_47_frames/s744_open_seed7_original/t0000_inputs.pt"],"return":{"layers":[2,7,15,16],"what":"attn_maps"}}
+```

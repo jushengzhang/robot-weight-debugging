@@ -1,0 +1,458 @@
+[
+  {
+    "suite": "libero_10",
+    "id": 1080,
+    "name": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it_view_0_0_100_358_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1100
+  },
+  {
+    "suite": "libero_10",
+    "id": 1067,
+    "name": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it_view_0_0_196_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1100
+  },
+  {
+    "suite": "libero_10",
+    "id": 2372,
+    "name": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it_light_50",
+    "category": "Light Conditions",
+    "difficulty": 4,
+    "seed": 1100
+  },
+  {
+    "suite": "libero_10",
+    "id": 987,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_view_0_0_100_354_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1101
+  },
+  {
+    "suite": "libero_10",
+    "id": 1016,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_view_328_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1101
+  },
+  {
+    "suite": "libero_10",
+    "id": 2401,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_light_24",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1101
+  },
+  {
+    "suite": "libero_10",
+    "id": 938,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_view_0_0_100_352_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1,
+    "seed": 1102
+  },
+  {
+    "suite": "libero_10",
+    "id": 958,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_view_309_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1102
+  },
+  {
+    "suite": "libero_10",
+    "id": 2471,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_light_15",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1102
+  },
+  {
+    "suite": "libero_10",
+    "id": 751,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_view_0_0_100_6_352_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1103
+  },
+  {
+    "suite": "libero_10",
+    "id": 774,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_view_41_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4,
+    "seed": 1103
+  },
+  {
+    "suite": "libero_10",
+    "id": 2261,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_light_25",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1103
+  },
+  {
+    "suite": "libero_goal",
+    "id": 746,
+    "name": "put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_126_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1,
+    "seed": 1104
+  },
+  {
+    "suite": "libero_goal",
+    "id": 761,
+    "name": "put_the_wine_bottle_on_top_of_the_cabinet_view_34_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1104
+  },
+  {
+    "suite": "libero_goal",
+    "id": 2562,
+    "name": "put_the_wine_bottle_on_top_of_the_cabinet_light_39",
+    "category": "Light Conditions",
+    "difficulty": 1,
+    "seed": 1104
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1046,
+    "name": "put_the_bowl_on_the_plate_view_337_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1,
+    "seed": 1105
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1029,
+    "name": "put_the_bowl_on_the_plate_view_0_0_184_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4,
+    "seed": 1105
+  },
+  {
+    "suite": "libero_goal",
+    "id": 2457,
+    "name": "put_the_bowl_on_the_plate_light_38",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1105
+  },
+  {
+    "suite": "libero_goal",
+    "id": 832,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_0_0_141_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1106
+  },
+  {
+    "suite": "libero_goal",
+    "id": 858,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_64_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4,
+    "seed": 1106
+  },
+  {
+    "suite": "libero_goal",
+    "id": 2472,
+    "name": "put_the_bowl_on_top_of_the_cabinet_light_15",
+    "category": "Light Conditions",
+    "difficulty": null,
+    "seed": 1106
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1089,
+    "name": "put_the_wine_bottle_on_the_rack_view_352_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1107
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1058,
+    "name": "put_the_wine_bottle_on_the_rack_view_0_0_192_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4,
+    "seed": 1107
+  },
+  {
+    "suite": "libero_goal",
+    "id": 2510,
+    "name": "put_the_wine_bottle_on_the_rack_light_11",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1107
+  },
+  {
+    "suite": "libero_object",
+    "id": 656,
+    "name": "pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_4_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1108
+  },
+  {
+    "suite": "libero_object",
+    "id": 664,
+    "name": "pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_12_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1108
+  },
+  {
+    "suite": "libero_object",
+    "id": 2246,
+    "name": "pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_35",
+    "category": "Light Conditions",
+    "difficulty": 4,
+    "seed": 1108
+  },
+  {
+    "suite": "libero_object",
+    "id": 848,
+    "name": "pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_350_358_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1109
+  },
+  {
+    "suite": "libero_object",
+    "id": 835,
+    "name": "pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_157_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1109
+  },
+  {
+    "suite": "libero_object",
+    "id": 2510,
+    "name": "pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_29",
+    "category": "Light Conditions",
+    "difficulty": 4,
+    "seed": 1109
+  },
+  {
+    "suite": "libero_object",
+    "id": 1034,
+    "name": "pick_up_the_orange_juice_and_place_it_in_the_basket_view_345_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1110
+  },
+  {
+    "suite": "libero_object",
+    "id": 1017,
+    "name": "pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_191_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1110
+  },
+  {
+    "suite": "libero_object",
+    "id": 2435,
+    "name": "pick_up_the_orange_juice_and_place_it_in_the_basket_light_15",
+    "category": "Light Conditions",
+    "difficulty": 3,
+    "seed": 1110
+  },
+  {
+    "suite": "libero_object",
+    "id": 945,
+    "name": "pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_354_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1111
+  },
+  {
+    "suite": "libero_object",
+    "id": 933,
+    "name": "pick_up_the_milk_and_place_it_in_the_basket_view_0_0_176_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1111
+  },
+  {
+    "suite": "libero_object",
+    "id": 2420,
+    "name": "pick_up_the_milk_and_place_it_in_the_basket_light_41",
+    "category": "Light Conditions",
+    "difficulty": 4,
+    "seed": 1111
+  },
+  {
+    "suite": "libero_object",
+    "id": 800,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_10_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1112
+  },
+  {
+    "suite": "libero_object",
+    "id": 814,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_view_68_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1112
+  },
+  {
+    "suite": "libero_object",
+    "id": 2398,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_light_39",
+    "category": "Light Conditions",
+    "difficulty": 3,
+    "seed": 1112
+  },
+  {
+    "suite": "libero_object",
+    "id": 990,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_330_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1,
+    "seed": 1113
+  },
+  {
+    "suite": "libero_object",
+    "id": 980,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_185_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1113
+  },
+  {
+    "suite": "libero_object",
+    "id": 2357,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_1",
+    "category": "Light Conditions",
+    "difficulty": 4,
+    "seed": 1113
+  },
+  {
+    "suite": "libero_object",
+    "id": 892,
+    "name": "pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_352_10_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1114
+  },
+  {
+    "suite": "libero_object",
+    "id": 884,
+    "name": "pick_up_the_butter_and_place_it_in_the_basket_view_0_0_166_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1114
+  },
+  {
+    "suite": "libero_object",
+    "id": 2320,
+    "name": "pick_up_the_butter_and_place_it_in_the_basket_light_18",
+    "category": "Light Conditions",
+    "difficulty": 4,
+    "seed": 1114
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 880,
+    "name": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate_view_0_0_179_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1115
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 876,
+    "name": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate_view_0_0_175_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1115
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 2352,
+    "name": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate_light_13",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1115
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 956,
+    "name": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate_view_0_0_199_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1116
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 948,
+    "name": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate_view_0_0_191_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4,
+    "seed": 1116
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 2383,
+    "name": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate_light_11",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1116
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 819,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_294_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1117
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 812,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_290_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4,
+    "seed": 1117
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 2344,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_light_49",
+    "category": "Light Conditions",
+    "difficulty": 1,
+    "seed": 1117
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 627,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_18_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2,
+    "seed": 1118
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 624,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_16_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5,
+    "seed": 1118
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 2282,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_light_10",
+    "category": "Light Conditions",
+    "difficulty": 2,
+    "seed": 1118
+  }
+]

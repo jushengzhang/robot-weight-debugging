@@ -1,0 +1,25 @@
+{
+  "candidate": "five exceptional positional rows, local residual retain50%",
+  "name": "paligemma_with_expert.paligemma.model.vision_tower.vision_model.embeddings.position_embedding.weight",
+  "changed_rows": [
+    13,
+    47,
+    48,
+    193,
+    243
+  ],
+  "tensor_sha256": "44d71c5e3051dd09cd7473497428e25aa5194cef76caf0a0cedf49d3910f0916",
+  "frozen_after_pass": 31,
+  "confirmation_batches": [
+    "final_batch_1.json",
+    "final_batch_2.json",
+    "final_batch_3.json",
+    "final_batch_4.json",
+    "final_batch_5.json",
+    "final_batch_6.json"
+  ],
+  "safety_batches": [
+    "safety_batch_1.json",
+    "safety_batch_2.json"
+  ]
+}

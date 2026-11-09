@@ -1,0 +1,284 @@
+[
+  {
+    "key": "rt2",
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+    "authors": [
+      "Brohan, Anthony",
+      "Brown, Noah",
+      "Carbajal, Justice",
+      "Chebotar, Yevgen",
+      "Chen, Xi",
+      "Choromanski, Krzysztof",
+      "Ding, Tianli",
+      "Driess, Danny",
+      "Dubey, Avinava",
+      "Finn, Chelsea",
+      "Florence, Pete",
+      "Fu, Chuyuan",
+      "Arenas, Montse Gonzalez",
+      "Gopalakrishnan, Keerthana",
+      "Han, Kehang",
+      "Hausman, Karol",
+      "Herzog, Alexander",
+      "Hsu, Jasmine",
+      "Ichter, Brian",
+      "Irpan, Alex",
+      "Joshi, Nikhil",
+      "Julian, Ryan",
+      "Kalashnikov, Dmitry",
+      "Kuang, Yuheng",
+      "Leal, Isabel",
+      "Lee, Lisa",
+      "Lee, Tsang-Wei Edward",
+      "Levine, Sergey",
+      "Lu, Yao",
+      "Michalewski, Henryk",
+      "Mordatch, Igor",
+      "Pertsch, Karl",
+      "Rao, Kanishka",
+      "Reymann, Krista",
+      "Ryoo, Michael",
+      "Salazar, Grecia",
+      "Sanketi, Pannag",
+      "Sermanet, Pierre",
+      "Singh, Jaspiar",
+      "Singh, Anikait",
+      "Soricut, Radu",
+      "Tran, Huong",
+      "Vanhoucke, Vincent",
+      "Vuong, Quan",
+      "Wahid, Ayzaan",
+      "Welker, Stefan",
+      "Wohlhart, Paul",
+      "Wu, Jialin",
+      "Xia, Fei",
+      "Xiao, Ted",
+      "Xu, Peng",
+      "Xu, Sichun",
+      "Yu, Tianhe",
+      "Zitkovich, Brianna"
+    ],
+    "year": "2023",
+    "primary_url": "https://arxiv.org/abs/2307.15818",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "openvla",
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "authors": [
+      "Kim, Moo Jin",
+      "Pertsch, Karl",
+      "Karamcheti, Siddharth",
+      "Xiao, Ted",
+      "Balakrishna, Ashwin",
+      "Nair, Suraj",
+      "Rafailov, Rafael",
+      "Foster, Ethan",
+      "Lam, Grace",
+      "Sanketi, Pannag",
+      "Vuong, Quan",
+      "Kollar, Thomas",
+      "Burchfiel, Benjamin",
+      "Tedrake, Russ",
+      "Sadigh, Dorsa",
+      "Levine, Sergey",
+      "Liang, Percy",
+      "Finn, Chelsea"
+    ],
+    "year": "2024",
+    "primary_url": "https://arxiv.org/abs/2406.09246",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "fastwam",
+    "title": "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",
+    "authors": [
+      "Yuan, Tianyuan",
+      "Dong, Zibin",
+      "Liu, Yicheng",
+      "Zhao, Hang"
+    ],
+    "year": "2026",
+    "primary_url": "https://arxiv.org/abs/2603.16666",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "liberoplus",
+    "title": "LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models",
+    "authors": [
+      "Fei, Senyu",
+      "Wang, Siyin",
+      "Shi, Junhao",
+      "Dai, Zihao",
+      "Cai, Jikun",
+      "Qian, Pengfang",
+      "Ji, Li",
+      "He, Xinzhe",
+      "Zhang, Shiduo",
+      "Fei, Zhaoye",
+      "Fu, Jinlan",
+      "Gong, Jingjing",
+      "Qiu, Xipeng"
+    ],
+    "year": "2025",
+    "primary_url": "https://arxiv.org/abs/2510.13626",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "wsp",
+    "primary_url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "metadata": "author project page and released logs",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read and write neural network weights",
+    "authors": [
+      "Rikiya Takehi",
+      "Jayden Teoh",
+      "Alex Zhang",
+      "Omar Khattab"
+    ],
+    "year": "2026"
+  },
+  {
+    "key": "diffusionpolicy",
+    "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+    "authors": [
+      "Chi, Cheng",
+      "Xu, Zhenjia",
+      "Feng, Siyuan",
+      "Cousineau, Eric",
+      "Du, Yilun",
+      "Burchfiel, Benjamin",
+      "Tedrake, Russ",
+      "Song, Shuran"
+    ],
+    "year": "2023",
+    "primary_url": "https://arxiv.org/abs/2303.04137",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "flowmatching",
+    "title": "Flow Matching for Generative Modeling",
+    "authors": [
+      "Lipman, Yaron",
+      "Chen, Ricky T. Q.",
+      "Ben-Hamu, Heli",
+      "Nickel, Maximilian",
+      "Le, Matt"
+    ],
+    "year": "2022",
+    "primary_url": "https://arxiv.org/abs/2210.02747",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "libero",
+    "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+    "authors": [
+      "Liu, Bo",
+      "Zhu, Yifeng",
+      "Gao, Chongkai",
+      "Feng, Yihao",
+      "Liu, Qiang",
+      "Zhu, Yuke",
+      "Stone, Peter"
+    ],
+    "year": "2023",
+    "primary_url": "https://arxiv.org/abs/2306.03310",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "rss",
+    "primary_url": "https://aclanthology.org/2026.acl-long.190/",
+    "metadata": "publisher BibTeX export",
+    "title": "Stable Language Guidance for Vision–Language–Action Models",
+    "authors": [
+      "Zhihao Zhan",
+      "Yuhao Chen",
+      "Jiaying Zhou",
+      "Qinhan Lyu",
+      "Hao Liu",
+      "Keze Wang",
+      "Liang Lin",
+      "Guangrun Wang"
+    ],
+    "year": "2026"
+  },
+  {
+    "key": "rome",
+    "title": "Locating and Editing Factual Associations in GPT",
+    "authors": [
+      "Meng, Kevin",
+      "Bau, David",
+      "Andonian, Alex",
+      "Belinkov, Yonatan"
+    ],
+    "year": "2022",
+    "primary_url": "https://arxiv.org/abs/2202.05262",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "memit",
+    "title": "Mass-Editing Memory in a Transformer",
+    "authors": [
+      "Meng, Kevin",
+      "Sharma, Arnab Sen",
+      "Andonian, Alex",
+      "Belinkov, Yonatan",
+      "Bau, David"
+    ],
+    "year": "2022",
+    "primary_url": "https://arxiv.org/abs/2210.07229",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "mend",
+    "title": "Fast Model Editing at Scale",
+    "authors": [
+      "Mitchell, Eric",
+      "Lin, Charles",
+      "Bosselut, Antoine",
+      "Finn, Chelsea",
+      "Manning, Christopher D."
+    ],
+    "year": "2021",
+    "primary_url": "https://arxiv.org/abs/2110.11309",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "leace",
+    "title": "LEACE: Perfect linear concept erasure in closed form",
+    "authors": [
+      "Belrose, Nora",
+      "Schneider-Joseph, David",
+      "Ravfogel, Shauli",
+      "Cotterell, Ryan",
+      "Raff, Edward",
+      "Biderman, Stella"
+    ],
+    "year": "2023",
+    "primary_url": "https://arxiv.org/abs/2306.03819",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "iti",
+    "title": "Inference-Time Intervention: Eliciting Truthful Answers from a Language Model",
+    "authors": [
+      "Li, Kenneth",
+      "Patel, Oam",
+      "Viégas, Fernanda",
+      "Pfister, Hanspeter",
+      "Wattenberg, Martin"
+    ],
+    "year": "2023",
+    "primary_url": "https://arxiv.org/abs/2306.03341",
+    "metadata": "arXiv citation meta tags"
+  },
+  {
+    "key": "mcnemar",
+    "primary_url": "https://doi.org/10.1007/BF02295996",
+    "metadata": "publisher record",
+    "title": "Note on the sampling error of the difference between correlated proportions or percentages",
+    "authors": [
+      "Quinn McNemar"
+    ],
+    "year": "1947"
+  }
+]

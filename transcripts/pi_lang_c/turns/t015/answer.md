@@ -1,0 +1,4 @@
+I will probe the half-strength edit on the affected paraphrases and literal controls. The prediction is specific: “cooker,” “basin/cupboard,” and grape-description prompts should move toward the corresponding literal task features, while untouched prompts should produce identical actions.
+```forward
+{"type":"probe","model":"both","inputs":["WORK/roll_1_frames/libero_goal_v1420_s7_original/t0000_inputs.pt","WORK/roll_1_frames/libero_goal_v1262_s7_original/t0000_inputs.pt","WORK/roll_1_frames/libero_goal_v1179_s7_original/t0000_inputs.pt","WORK/roll_1_frames/libero_goal_v1385_s7_original/t0000_inputs.pt","WORK/roll_2_frames/libero_goal_v1785_s7_original/t0000_inputs.pt","WORK/roll_2_frames/libero_goal_v2473_s7_original/t0000_inputs.pt","WORK/roll_2_frames/libero_goal_v2553_s7_original/t0000_inputs.pt"],"return":{"layers":[0,3,6,9,12,15,17],"vlm_layers":[0,3,6,9,12,15,17],"what":"resid"}}
+```

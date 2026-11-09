@@ -1,0 +1,68 @@
+{
+  "raw_ab": {
+    "passes": [
+      34,
+      35
+    ],
+    "n": 256,
+    "original_success": 114,
+    "edited_success": 117,
+    "wrong_to_right": 11,
+    "right_to_wrong": 8,
+    "diff_pp": 1.171875,
+    "se_pp": 1.7044511611433868,
+    "ci95_pp": [
+      -2.1688492758410383,
+      4.512599275841039
+    ]
+  },
+  "strip_a": {
+    "passes": [
+      36
+    ],
+    "n": 128,
+    "original_success": 87,
+    "edited_success": 83,
+    "wrong_to_right": 2,
+    "right_to_wrong": 6,
+    "diff_pp": -3.125,
+    "se_pp": 2.2009918576587952,
+    "ci95_pp": [
+      -7.438944041011238,
+      1.1889440410112382
+    ]
+  },
+  "strip_b": {
+    "passes": [
+      37
+    ],
+    "n": 128,
+    "original_success": 81,
+    "edited_success": 83,
+    "wrong_to_right": 6,
+    "right_to_wrong": 4,
+    "diff_pp": 1.5625,
+    "se_pp": 2.476358441722394,
+    "ci95_pp": [
+      -3.291162545775892,
+      6.416162545775892
+    ]
+  },
+  "strip_ab": {
+    "passes": [
+      36,
+      37
+    ],
+    "n": 256,
+    "original_success": 168,
+    "edited_success": 166,
+    "wrong_to_right": 8,
+    "right_to_wrong": 10,
+    "diff_pp": -0.78125,
+    "se_pp": 1.6598070386756574,
+    "ci95_pp": [
+      -4.034471795804288,
+      2.4719717958042886
+    ]
+  }
+}

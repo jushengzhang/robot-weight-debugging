@@ -1,0 +1,515 @@
+[
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.2840152680873871,
+    "rotation_rms": 0.02850394882261753,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 3,
+    "steps": 214
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.42740416526794434,
+    "rotation_rms": 0.03390257805585861,
+    "saturated_xyz": 0.0014947683109118087,
+    "gripper_switches": 6,
+    "steps": 223
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.24953077733516693,
+    "rotation_rms": 0.05743891000747681,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 6,
+    "steps": 285
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.2176259458065033,
+    "rotation_rms": 0.016220374032855034,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 7,
+    "steps": 323
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.2618548572063446,
+    "rotation_rms": 0.018638622015714645,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 10,
+    "steps": 402
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.30013927817344666,
+    "rotation_rms": 0.07124939560890198,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 5,
+    "steps": 238
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.15046925842761993,
+    "rotation_rms": 0.012797798030078411,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 17,
+    "steps": 700
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.24177531898021698,
+    "rotation_rms": 0.033586569130420685,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 5,
+    "steps": 700
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.08877548575401306,
+    "rotation_rms": 0.029209427535533905,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 0,
+    "steps": 700
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.18026013672351837,
+    "rotation_rms": 0.010735123418271542,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 52,
+    "steps": 700
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.19892992079257965,
+    "rotation_rms": 0.025269554927945137,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 12,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.22724130749702454,
+    "rotation_rms": 0.02671833708882332,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 8,
+    "steps": 400
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.4710702896118164,
+    "rotation_rms": 0.05244794115424156,
+    "saturated_xyz": 0.004329004329004329,
+    "gripper_switches": 1,
+    "steps": 77
+  },
+  {
+    "category": "Light Conditions",
+    "success": false,
+    "xyz_rms": 0.12046658247709274,
+    "rotation_rms": 0.03598106652498245,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 26,
+    "steps": 700
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.17196926474571228,
+    "rotation_rms": 0.03845019266009331,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 10,
+    "steps": 700
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.45063263177871704,
+    "rotation_rms": 0.024387795478105545,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 82
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.5047363638877869,
+    "rotation_rms": 0.019502973183989525,
+    "saturated_xyz": 0.003875968992248062,
+    "gripper_switches": 1,
+    "steps": 86
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.48184001445770264,
+    "rotation_rms": 0.02785203978419304,
+    "saturated_xyz": 0.013888888888888888,
+    "gripper_switches": 1,
+    "steps": 72
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.44700896739959717,
+    "rotation_rms": 0.022976892068982124,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 2,
+    "steps": 110
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.26679661870002747,
+    "rotation_rms": 0.12409789115190506,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 6,
+    "steps": 151
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.2880406379699707,
+    "rotation_rms": 0.13780926167964935,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 2,
+    "steps": 128
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.24923789501190186,
+    "rotation_rms": 0.019593270495533943,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 10,
+    "steps": 328
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.40268373489379883,
+    "rotation_rms": 0.04795327037572861,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 2,
+    "steps": 123
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.2501591742038727,
+    "rotation_rms": 0.01659279689192772,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.3209218680858612,
+    "rotation_rms": 0.01483676116913557,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 12,
+    "steps": 244
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.4197585880756378,
+    "rotation_rms": 0.023078376427292824,
+    "saturated_xyz": 0.002583979328165375,
+    "gripper_switches": 2,
+    "steps": 129
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.27199965715408325,
+    "rotation_rms": 0.017915556207299232,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 21,
+    "steps": 384
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.37271666526794434,
+    "rotation_rms": 0.01903725042939186,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 113
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.20647118985652924,
+    "rotation_rms": 0.015835488215088844,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 25,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.2916867136955261,
+    "rotation_rms": 0.01916670799255371,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 4,
+    "steps": 135
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.40135547518730164,
+    "rotation_rms": 0.028449630364775658,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 2,
+    "steps": 124
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.4246174097061157,
+    "rotation_rms": 0.036752600222826004,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 124
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.40247878432273865,
+    "rotation_rms": 0.023910801857709885,
+    "saturated_xyz": 0.007194244604316547,
+    "gripper_switches": 2,
+    "steps": 139
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.291969895362854,
+    "rotation_rms": 0.020489810034632683,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 8,
+    "steps": 331
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.32777687907218933,
+    "rotation_rms": 0.019259432330727577,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 4,
+    "steps": 194
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.2893708348274231,
+    "rotation_rms": 0.016685908660292625,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 4,
+    "steps": 185
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.4378066956996918,
+    "rotation_rms": 0.020853405818343163,
+    "saturated_xyz": 0.022556390977443608,
+    "gripper_switches": 2,
+    "steps": 133
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.19442522525787354,
+    "rotation_rms": 0.012605352327227592,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 20,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.23978327214717865,
+    "rotation_rms": 0.01855904422700405,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 26,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.1869213581085205,
+    "rotation_rms": 0.01567712426185608,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 17,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.2473781257867813,
+    "rotation_rms": 0.017210647463798523,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 0,
+    "steps": 400
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.436494380235672,
+    "rotation_rms": 0.030736617743968964,
+    "saturated_xyz": 0.013513513513513514,
+    "gripper_switches": 2,
+    "steps": 148
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.16809166967868805,
+    "rotation_rms": 0.07759556174278259,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 5,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.2945172190666199,
+    "rotation_rms": 0.019828839227557182,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 2,
+    "steps": 183
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.29427266120910645,
+    "rotation_rms": 0.019876450300216675,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 2,
+    "steps": 190
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.3604288399219513,
+    "rotation_rms": 0.02105460688471794,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 2,
+    "steps": 195
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.525473952293396,
+    "rotation_rms": 0.035508450120687485,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 112
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.3284982740879059,
+    "rotation_rms": 0.03369900956749916,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 184
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.30419695377349854,
+    "rotation_rms": 0.01638062112033367,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 59,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.2860948443412781,
+    "rotation_rms": 0.015235449187457561,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 57,
+    "steps": 400
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.45345452427864075,
+    "rotation_rms": 0.05715208500623703,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 91
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.4319973289966583,
+    "rotation_rms": 0.03487277030944824,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 112
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.3938432037830353,
+    "rotation_rms": 0.03357105702161789,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 116
+  },
+  {
+    "category": "Light Conditions",
+    "success": true,
+    "xyz_rms": 0.49344179034233093,
+    "rotation_rms": 0.02758370339870453,
+    "saturated_xyz": 0.01282051282051282,
+    "gripper_switches": 1,
+    "steps": 104
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": true,
+    "xyz_rms": 0.2920604348182678,
+    "rotation_rms": 0.026598313823342323,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 12,
+    "steps": 399
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.25004738569259644,
+    "rotation_rms": 0.029634542763233185,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 400
+  },
+  {
+    "category": "Camera Viewpoints",
+    "success": false,
+    "xyz_rms": 0.23255228996276855,
+    "rotation_rms": 0.029114030301570892,
+    "saturated_xyz": 0.0,
+    "gripper_switches": 1,
+    "steps": 400
+  }
+]

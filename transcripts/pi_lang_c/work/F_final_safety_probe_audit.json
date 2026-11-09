@@ -1,0 +1,494 @@
+{
+  "summary": {
+    "n_inputs": 60,
+    "exact_action_chunks": 60,
+    "exact_activation_sets": 60,
+    "max_action_difference": 0.0,
+    "activation_arrays_per_input": [
+      66
+    ],
+    "both_arms_match_saved": 60
+  },
+  "inputs": [
+    {
+      "idx": 0,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 1,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 2,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 3,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 4,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 5,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 6,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 7,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 8,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 9,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 10,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 11,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 12,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 13,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 14,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 15,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 16,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 17,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 18,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 19,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 20,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 21,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 22,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 23,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 24,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 25,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 26,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 27,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 28,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 29,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 30,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 31,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 32,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 33,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 34,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 35,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 36,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 37,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 38,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 39,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 40,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 41,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 42,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 43,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 44,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 45,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 46,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 47,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 48,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 49,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 50,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 51,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 52,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 53,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 54,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 55,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 56,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 57,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 58,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    },
+    {
+      "idx": 59,
+      "action_exact": true,
+      "action_max_abs_diff": 0.0,
+      "activation_arrays": 66,
+      "unequal_activation_keys": [],
+      "both_match_saved_chunk": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+runtime/
+paths.local.json
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.sock
+*.ready
+*.log
+.DS_Store

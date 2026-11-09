@@ -1,0 +1,45 @@
+{
+  "name": "multi_selective_context_attention_gate",
+  "strength": 12.0,
+  "key_gain": 64.0,
+  "detector_gain": 128.0,
+  "detectors": [
+    [
+      0,
+      0.5
+    ],
+    [
+      5,
+      0.625
+    ],
+    [
+      6,
+      0.875
+    ],
+    [
+      7,
+      0.625
+    ]
+  ],
+  "design": {
+    "action": {
+      "hidden": [
+        296,
+        744,
+        244,
+        757
+      ],
+      "channel": 702
+    },
+    "video": {
+      "hidden": [
+        2844,
+        889,
+        1745,
+        2272
+      ],
+      "channel": 1066
+    }
+  },
+  "edited_count": 308
+}

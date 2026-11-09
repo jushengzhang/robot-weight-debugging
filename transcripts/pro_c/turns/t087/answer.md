@@ -1,0 +1,4 @@
+I will replay the four unchanged diagnostic observations through both models. This will show whether the selective head attenuation produces observation-dependent action changes, rather than merely shrinking every action, before I spend simulator passes on it.
+```forward
+{"type":"probe","model":"both","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_c/work/fwd/roll_1/artifacts/libero_object_environment_1_i19_s17_orig_frames/t0150_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_c/work/fwd/roll_1/artifacts/libero_object_semantic_1_i19_s17_orig_frames/t0100_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_c/work/fwd/roll_1/artifacts/libero_goal_position_5_i29_s17_orig_frames/t0150_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_c/work/fwd/roll_1/artifacts/libero_goal_task_5_i29_s17_orig_frames/t0150_inputs.pt"],"return":{"layers":[16,17],"what":"attn_maps"}}
+```

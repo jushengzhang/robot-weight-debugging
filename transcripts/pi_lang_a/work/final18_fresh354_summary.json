@@ -1,0 +1,14 @@
+{
+  "summary": {
+    "requested": 354,
+    "valid": 354,
+    "missing": 0,
+    "original": 310,
+    "edited": 319,
+    "gain_pp": 2.542,
+    "se_pp": 1.011,
+    "rescues": 11,
+    "regressions": 2
+  },
+  "p_exact": 0.0224609375
+}

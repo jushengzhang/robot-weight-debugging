@@ -1,0 +1,12 @@
+{
+  "mechanism": "Negative control: random rank2 directions orthogonal to protected and camera spans",
+  "rank": 2,
+  "alpha": 0.3911825120449066,
+  "weight_relative_change": 0.02086779661476612,
+  "protected_subspace_rank": 79,
+  "protected_linear_error_max": 1.2369127944111824e-09,
+  "encoder_mapping_error_max": 5.4424162954092026e-09,
+  "seed": 9817,
+  "norm_matched_to": "readout_camera_rank2_half",
+  "camera_subspace_overlap_max": 1.8742866814136505e-08
+}

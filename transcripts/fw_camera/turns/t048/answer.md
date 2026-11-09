@@ -1,0 +1,4 @@
+Halving the four heads produced +3.1 points with a 3.1-point standard error, still inconclusive. I will replay the two exact-state camera pairs to see whether this edit reduces viewpoint-dependent actions, rather than merely changing rollout outcomes.
+```forward
+{"type":"probe","model":"edited","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/roll_1_frames/libero_goal_v1089_s1107_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/roll_1_frames/libero_goal_v1058_s1107_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/roll_1_frames/libero_object_v945_s1111_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/roll_1_frames/libero_object_v933_s1111_original/t0000_inputs.pt"],"return":{"actions":true,"layers":[11,16,22,29],"what":"attn_out","noise_seed":46001}}
+```

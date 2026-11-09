@@ -1,0 +1,4 @@
+Action residual differences increase sharply at layer 11, before the largest static cross-attention outlier at layer 13. I will inspect attention in both experts at those two layers on the two most divergent instruction pairs to distinguish text-attention changes from downstream propagation.
+```forward
+{"type":"probe","model":"original","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_1/artifacts/libero_goal_v1470_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1484_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1275_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1269_s7_i0_orig_frames/t0000_inputs.pt"],"return":{"actions":true,"layers":["video.11","action.11","video.13","action.13"],"what":"attn_maps","noise_seed":7}}
+```

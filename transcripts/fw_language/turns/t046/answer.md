@@ -1,0 +1,4 @@
+The attention-map interface accepts integer layer numbers, not expert-qualified names; the rejected request used no pass. I will request layers 10, 11, 13, and 15 and inspect whichever attention routes the tool exposes.
+```forward
+{"type":"probe","model":"original","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_1/artifacts/libero_goal_v1470_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1484_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1275_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1269_s7_i0_orig_frames/t0000_inputs.pt"],"return":{"actions":true,"layers":[10,11,13,15],"what":"attn_maps","noise_seed":7}}
+```

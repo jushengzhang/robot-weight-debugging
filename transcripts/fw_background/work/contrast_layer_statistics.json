@@ -1,0 +1,50 @@
+{
+  "0": {
+    "contrast_rms": 0.33760592341423035,
+    "contrast_to_task": 1.4368741512298584,
+    "rank4": 0.8342742919921875,
+    "rank4_control_fraction": 0.5883318781852722
+  },
+  "1": {
+    "contrast_rms": 0.599064826965332,
+    "contrast_to_task": 1.5086106061935425,
+    "rank4": 0.8515459299087524,
+    "rank4_control_fraction": 0.6648723483085632
+  },
+  "2": {
+    "contrast_rms": 0.5529480576515198,
+    "contrast_to_task": 1.4490834474563599,
+    "rank4": 0.8039623498916626,
+    "rank4_control_fraction": 0.6574234962463379
+  },
+  "3": {
+    "contrast_rms": 0.3345474898815155,
+    "contrast_to_task": 1.3259270191192627,
+    "rank4": 0.6838198304176331,
+    "rank4_control_fraction": 0.3504764139652252
+  },
+  "4": {
+    "contrast_rms": 0.47373658418655396,
+    "contrast_to_task": 1.3781083822250366,
+    "rank4": 0.6494686007499695,
+    "rank4_control_fraction": 0.3360843360424042
+  },
+  "5": {
+    "contrast_rms": 0.486280620098114,
+    "contrast_to_task": 1.4224483966827393,
+    "rank4": 0.7062003016471863,
+    "rank4_control_fraction": 0.4642244875431061
+  },
+  "6": {
+    "contrast_rms": 0.4740369915962219,
+    "contrast_to_task": 1.1969542503356934,
+    "rank4": 0.6543367505073547,
+    "rank4_control_fraction": 0.2830063998699188
+  },
+  "7": {
+    "contrast_rms": 0.5022821426391602,
+    "contrast_to_task": 1.2251391410827637,
+    "rank4": 0.5778887867927551,
+    "rank4_control_fraction": 0.2285272479057312
+  }
+}

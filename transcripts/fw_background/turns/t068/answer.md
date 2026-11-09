@@ -1,0 +1,4 @@
+I will request video-block residuals on matched initial observations using expert-qualified layer names. If the probe supports these identifiers, this gives an observation-side texture contrast without trajectory differences, which is a cleaner basis for a targeted video-feature edit.
+```forward
+{"type":"probe","model":"original","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v1_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v27_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v179_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v209_s17_original/t0000_inputs.pt"],"return":{"actions":true,"layers":["video.0","video.1","video.2","video.5","video.10","video.15","video.20","video.25","video.29"],"what":"resid","noise_seed":17}}
+```

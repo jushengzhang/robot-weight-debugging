@@ -1,0 +1,217 @@
+{
+  "decision": "reject candidate; submit original weights with no edits",
+  "candidate": "E17H1_visual_grip_retention_beta_minus2",
+  "passes_used": 50,
+  "requested_validation_pairs": 290,
+  "excluded_episode_pairs": {
+    "48": [],
+    "49": [
+      [
+        454,
+        "close",
+        29
+      ],
+      [
+        454,
+        "open",
+        29
+      ]
+    ],
+    "50": []
+  },
+  "overall": {
+    "n": 288,
+    "scenes": 144,
+    "original_successes": 166,
+    "edited_successes": 164,
+    "gain_pp": -0.6944444444444444,
+    "paired_se_pp": 1.9671774098333143,
+    "scene_cluster_se_pp": 1.9701856475464827,
+    "rescues": 15,
+    "losses": 17,
+    "original_loop_failures": 98,
+    "edited_loop_failures": 98,
+    "already_solved_at_start": 12
+  },
+  "excluding_already_solved": {
+    "n": 276,
+    "scenes": 144,
+    "original_successes": 154,
+    "edited_successes": 152,
+    "gain_pp": -0.7246376811594203,
+    "paired_se_pp": 2.0528429865885696,
+    "scene_cluster_se_pp": 2.0553207889769847,
+    "rescues": 15,
+    "losses": 17,
+    "original_loop_failures": 98,
+    "edited_loop_failures": 98,
+    "already_solved_at_start": 0
+  },
+  "by_pass": {
+    "48": {
+      "n": 102,
+      "scenes": 51,
+      "original_successes": 51,
+      "edited_successes": 48,
+      "gain_pp": -2.941176470588235,
+      "paired_se_pp": 3.5402344903183844,
+      "scene_cluster_se_pp": 3.25749955408552,
+      "rescues": 5,
+      "losses": 8,
+      "original_loop_failures": 44,
+      "edited_loop_failures": 45,
+      "already_solved_at_start": 3
+    },
+    "49": {
+      "n": 94,
+      "scenes": 47,
+      "original_successes": 64,
+      "edited_successes": 61,
+      "gain_pp": -3.1914893617021276,
+      "paired_se_pp": 3.5317715582848157,
+      "scene_cluster_se_pp": 3.535290341169539,
+      "rescues": 4,
+      "losses": 7,
+      "original_loop_failures": 23,
+      "edited_loop_failures": 26,
+      "already_solved_at_start": 6
+    },
+    "50": {
+      "n": 92,
+      "scenes": 46,
+      "original_successes": 51,
+      "edited_successes": 55,
+      "gain_pp": 4.3478260869565215,
+      "paired_se_pp": 3.057438462642361,
+      "scene_cluster_se_pp": 3.414266373736158,
+      "rescues": 6,
+      "losses": 2,
+      "original_loop_failures": 31,
+      "edited_loop_failures": 27,
+      "already_solved_at_start": 3
+    }
+  },
+  "by_level": {
+    "L1": {
+      "n": 26,
+      "scenes": 13,
+      "original_successes": 21,
+      "edited_successes": 20,
+      "gain_pp": -3.8461538461538463,
+      "paired_se_pp": 3.8461538461538463,
+      "scene_cluster_se_pp": 3.8461538461538463,
+      "rescues": 0,
+      "losses": 1,
+      "original_loop_failures": 4,
+      "edited_loop_failures": 4,
+      "already_solved_at_start": 3
+    },
+    "L2": {
+      "n": 96,
+      "scenes": 48,
+      "original_successes": 72,
+      "edited_successes": 69,
+      "gain_pp": -3.125,
+      "paired_se_pp": 3.4581219550704616,
+      "scene_cluster_se_pp": 3.7680564106015155,
+      "rescues": 4,
+      "losses": 7,
+      "original_loop_failures": 21,
+      "edited_loop_failures": 21,
+      "already_solved_at_start": 1
+    },
+    "L3": {
+      "n": 90,
+      "scenes": 45,
+      "original_successes": 48,
+      "edited_successes": 50,
+      "gain_pp": 2.2222222222222223,
+      "paired_se_pp": 4.1740467309081115,
+      "scene_cluster_se_pp": 4.191006350651464,
+      "rescues": 8,
+      "losses": 6,
+      "original_loop_failures": 29,
+      "edited_loop_failures": 28,
+      "already_solved_at_start": 5
+    },
+    "L4": {
+      "n": 76,
+      "scenes": 38,
+      "original_successes": 25,
+      "edited_successes": 25,
+      "gain_pp": 0.0,
+      "paired_se_pp": 3.2444284226152504,
+      "scene_cluster_se_pp": 2.666903735313325,
+      "rescues": 3,
+      "losses": 3,
+      "original_loop_failures": 44,
+      "edited_loop_failures": 45,
+      "already_solved_at_start": 3
+    }
+  },
+  "by_suite": {
+    "libero_10": {
+      "n": 72,
+      "scenes": 36,
+      "original_successes": 35,
+      "edited_successes": 41,
+      "gain_pp": 8.333333333333332,
+      "paired_se_pp": 3.830321331474347,
+      "scene_cluster_se_pp": 3.72677996249965,
+      "rescues": 7,
+      "losses": 1,
+      "original_loop_failures": 28,
+      "edited_loop_failures": 23,
+      "already_solved_at_start": 1
+    },
+    "libero_goal": {
+      "n": 72,
+      "scenes": 36,
+      "original_successes": 40,
+      "edited_successes": 41,
+      "gain_pp": 1.3888888888888888,
+      "paired_se_pp": 3.6967690687351507,
+      "scene_cluster_se_pp": 3.7193782075020163,
+      "rescues": 4,
+      "losses": 3,
+      "original_loop_failures": 23,
+      "edited_loop_failures": 22,
+      "already_solved_at_start": 0
+    },
+    "libero_object": {
+      "n": 92,
+      "scenes": 46,
+      "original_successes": 57,
+      "edited_successes": 49,
+      "gain_pp": -8.695652173913043,
+      "paired_se_pp": 3.3337141531704426,
+      "scene_cluster_se_pp": 3.224434124824201,
+      "rescues": 1,
+      "losses": 9,
+      "original_loop_failures": 30,
+      "edited_loop_failures": 36,
+      "already_solved_at_start": 6
+    },
+    "libero_spatial": {
+      "n": 52,
+      "scenes": 26,
+      "original_successes": 34,
+      "edited_successes": 33,
+      "gain_pp": -1.9230769230769231,
+      "paired_se_pp": 5.130561298845506,
+      "scene_cluster_se_pp": 5.174470787336043,
+      "rescues": 3,
+      "losses": 4,
+      "original_loop_failures": 17,
+      "edited_loop_failures": 17,
+      "already_solved_at_start": 5
+    }
+  },
+  "acceptance_criteria": {
+    "gain_exceeds_two_SE": false,
+    "fewer_loop_failures": false,
+    "losses_at_most_two_percent": false
+  },
+  "submitted_edits": [],
+  "ordinary_task_status": "No original-task evaluation was exposed. Submitted weights are unchanged, so no weight-induced performance change is claimed."
+}

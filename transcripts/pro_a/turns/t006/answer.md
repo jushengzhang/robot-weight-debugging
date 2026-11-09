@@ -1,0 +1,4 @@
+The exact equality check shows that the layer summaries do differ; the earlier aggregate display was therefore not enough to establish a fault or rule one out. I will now inspect attention over base-camera, wrist-camera, and instruction tokens in four matched-scene observations.
+```forward
+{"type":"probe","model":"original","inputs":["WORK/roll_1_frames/e1946_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1923_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1562_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1490_seed7_original/t0000_inputs.pt"],"return":{"layers":[3,6,9,12],"vlm_layers":[3,6,9,12],"vision_layers":[],"what":"attn_maps"}}
+```

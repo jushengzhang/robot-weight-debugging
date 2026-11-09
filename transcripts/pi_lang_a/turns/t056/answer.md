@@ -1,0 +1,4 @@
+The safety audit found no edited-token exposure; all background differences were failures before an instruction was loaded. I will now probe the successful bowl/plate repair and the still-difficult cream-cheese paraphrase to see which action-expert heads read their changed prefix representations.
+```forward
+{"type":"probe","model":"both","inputs":["WORK/fwd/roll_1/artifacts/libero_goal_v1425_s7_i0_orig_frames/t0000_inputs.pt","WORK/fwd/roll_2/artifacts/libero_goal_v1431_s7_i0_orig_frames/t0000_inputs.pt","WORK/fwd/roll_1/artifacts/libero_goal_v1379_s7_i0_orig_frames/t0000_inputs.pt","WORK/fwd/roll_2/artifacts/libero_goal_v1378_s7_i0_orig_frames/t0000_inputs.pt"],"return":{"layers":[3,6,9,15],"what":"attn_maps"}}
+```

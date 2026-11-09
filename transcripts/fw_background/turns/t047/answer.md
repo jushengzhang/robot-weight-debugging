@@ -1,0 +1,4 @@
+Layer 2, head 10 is the clearest candidate so far: it reads almost entirely from video tokens, places about 1.9 times uniform attention on the most texture-changed regions, and has a large spatial-attention shift between textures. I will check two additional pairs before intervening, since the current map sample is small.
+```forward
+{"type":"probe","model":"original","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v179_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_object_v209_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_spatial_v180_s17_original/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/roll_2_frames/libero_spatial_v182_s17_original/t0000_inputs.pt"],"return":{"actions":true,"layers":[0,1,2,5],"what":"attn_maps","noise_seed":17}}
+```

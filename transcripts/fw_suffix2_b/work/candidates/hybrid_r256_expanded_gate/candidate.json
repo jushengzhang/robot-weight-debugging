@@ -1,0 +1,15 @@
+{
+  "kind": "hybrid_oblique_expanded_suffix_gate",
+  "basis_file": "rich_context_projection.pt",
+  "rank": 256,
+  "dose": 1.0,
+  "old_threshold": 0.5,
+  "new_threshold": 0.35,
+  "gain": 128.0,
+  "strength": 6.0,
+  "detectors": 7,
+  "experts": [
+    "action",
+    "video"
+  ]
+}

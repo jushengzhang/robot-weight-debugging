@@ -1,0 +1,893 @@
+{
+  "prompts": {
+    "0": "activate the cooktop",
+    "1": "activate the cooking appliance for heating food",
+    "2": "activate the cooking appliance",
+    "3": "id like you to heat up the stove",
+    "4": "place the container of fermented grape liquid on the elevated storage unit",
+    "5": "for safety reasons make sure to place the wine bottle on top of the cabinet",
+    "6": "deposit the spreadable dairy product into the mixing container",
+    "7": "would you mind putting the cream cheese in the mixing bowl for me",
+    "8": "ensure the cream cheese is in the bowl",
+    "9": "place the rounded container used for holding food on the higher storage unit often found in kitchens",
+    "10": "gently place the bowl on the cabinet making sure its centered and secure",
+    "11": "set the bowl on the plate",
+    "12": "nudge the dish toward the front of the cooker",
+    "13": "place the glass container of aged grape beverage on the storage framework designed for holding such items",
+    "14": "lift the citrus beverage and put it into the woven container",
+    "15": "lift the citrus beverage container and set it inside the woven holder"
+  },
+  "probes": {
+    "23": [
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1415_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 0,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_0_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_0_acts.npz",
+        "local_action": "actions/probe_23_0_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1416_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 1,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_1_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_1_acts.npz",
+        "local_action": "actions/probe_23_1_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1400_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 2,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_2_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_2_acts.npz",
+        "local_action": "actions/probe_23_2_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1390_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 3,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_3_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_3_acts.npz",
+        "local_action": "actions/probe_23_3_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1179_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 4,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_4_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_4_acts.npz",
+        "local_action": "actions/probe_23_4_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1169_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 5,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_5_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_5_acts.npz",
+        "local_action": "actions/probe_23_5_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1339_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 6,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_6_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_6_acts.npz",
+        "local_action": "actions/probe_23_6_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1341_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 7,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_7_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_7_acts.npz",
+        "local_action": "actions/probe_23_7_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1378_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 8,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_8_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_8_acts.npz",
+        "local_action": "actions/probe_23_8_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1263_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 9,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_9_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_9_acts.npz",
+        "local_action": "actions/probe_23_9_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1278_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 10,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_10_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_10_acts.npz",
+        "local_action": "actions/probe_23_10_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1431_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 11,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_11_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_11_acts.npz",
+        "local_action": "actions/probe_23_11_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1331_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 12,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_12_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_12_acts.npz",
+        "local_action": "actions/probe_23_12_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1462_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 13,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_13_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_13_acts.npz",
+        "local_action": "actions/probe_23_13_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1376_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 14,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_14_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_14_acts.npz",
+        "local_action": "actions/probe_23_14_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1377_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 15,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_15_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_orig_15_acts.npz",
+        "local_action": "actions/probe_23_15_orig.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1415_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 0,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_0_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_0_acts.npz",
+        "local_action": "actions/probe_23_0_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1416_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 1,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_1_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_1_acts.npz",
+        "local_action": "actions/probe_23_1_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1400_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 2,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_2_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_2_acts.npz",
+        "local_action": "actions/probe_23_2_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1390_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 3,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_3_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_3_acts.npz",
+        "local_action": "actions/probe_23_3_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1179_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 4,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_4_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_4_acts.npz",
+        "local_action": "actions/probe_23_4_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1169_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 5,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_5_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_5_acts.npz",
+        "local_action": "actions/probe_23_5_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1339_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 6,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_6_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_6_acts.npz",
+        "local_action": "actions/probe_23_6_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1341_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 7,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_7_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_7_acts.npz",
+        "local_action": "actions/probe_23_7_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1378_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 8,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_8_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_8_acts.npz",
+        "local_action": "actions/probe_23_8_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1263_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 9,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_9_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_9_acts.npz",
+        "local_action": "actions/probe_23_9_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1278_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 10,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_10_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_10_acts.npz",
+        "local_action": "actions/probe_23_10_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1431_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 11,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_11_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_11_acts.npz",
+        "local_action": "actions/probe_23_11_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1331_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 12,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_12_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_12_acts.npz",
+        "local_action": "actions/probe_23_12_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1462_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 13,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_13_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_13_acts.npz",
+        "local_action": "actions/probe_23_13_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1376_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 14,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_14_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_14_acts.npz",
+        "local_action": "actions/probe_23_14_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1377_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 15,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_15_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_23/probe_edit_15_acts.npz",
+        "local_action": "actions/probe_23_15_edit.npy"
+      }
+    ],
+    "38": [
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1415_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 0,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_0_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_0_acts.npz",
+        "local_action": "actions/probe_38_0_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1416_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 1,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_1_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_1_acts.npz",
+        "local_action": "actions/probe_38_1_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1400_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 2,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_2_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_2_acts.npz",
+        "local_action": "actions/probe_38_2_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1390_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 3,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_3_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_3_acts.npz",
+        "local_action": "actions/probe_38_3_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1179_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 4,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_4_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_4_acts.npz",
+        "local_action": "actions/probe_38_4_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1169_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 5,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_5_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_5_acts.npz",
+        "local_action": "actions/probe_38_5_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1339_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 6,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_6_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_6_acts.npz",
+        "local_action": "actions/probe_38_6_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1341_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 7,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_7_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_7_acts.npz",
+        "local_action": "actions/probe_38_7_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1378_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 8,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_8_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_8_acts.npz",
+        "local_action": "actions/probe_38_8_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1263_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 9,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_9_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_9_acts.npz",
+        "local_action": "actions/probe_38_9_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1278_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 10,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_10_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_10_acts.npz",
+        "local_action": "actions/probe_38_10_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1431_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 11,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_11_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_11_acts.npz",
+        "local_action": "actions/probe_38_11_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1331_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 12,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_12_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_12_acts.npz",
+        "local_action": "actions/probe_38_12_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1462_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 13,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_13_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_13_acts.npz",
+        "local_action": "actions/probe_38_13_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1376_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 14,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_14_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_14_acts.npz",
+        "local_action": "actions/probe_38_14_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1377_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 15,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_15_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_orig_15_acts.npz",
+        "local_action": "actions/probe_38_15_orig.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1415_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 0,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_0_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_0_acts.npz",
+        "local_action": "actions/probe_38_0_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1416_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 1,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_1_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_1_acts.npz",
+        "local_action": "actions/probe_38_1_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1400_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 2,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_2_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_2_acts.npz",
+        "local_action": "actions/probe_38_2_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1390_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 3,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_3_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_3_acts.npz",
+        "local_action": "actions/probe_38_3_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1179_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 4,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_4_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_4_acts.npz",
+        "local_action": "actions/probe_38_4_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1169_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 5,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_5_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_5_acts.npz",
+        "local_action": "actions/probe_38_5_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1339_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 6,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_6_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_6_acts.npz",
+        "local_action": "actions/probe_38_6_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1341_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 7,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_7_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_7_acts.npz",
+        "local_action": "actions/probe_38_7_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1378_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 8,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_8_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_8_acts.npz",
+        "local_action": "actions/probe_38_8_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1263_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 9,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_9_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_9_acts.npz",
+        "local_action": "actions/probe_38_9_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1278_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 10,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_10_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_10_acts.npz",
+        "local_action": "actions/probe_38_10_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1431_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 11,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_11_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_11_acts.npz",
+        "local_action": "actions/probe_38_11_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1331_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 12,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_12_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_12_acts.npz",
+        "local_action": "actions/probe_38_12_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1462_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 13,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_13_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_13_acts.npz",
+        "local_action": "actions/probe_38_13_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1376_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 14,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_14_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_14_acts.npz",
+        "local_action": "actions/probe_38_14_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1377_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 15,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_15_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_38/probe_edit_15_acts.npz",
+        "local_action": "actions/probe_38_15_edit.npy"
+      }
+    ],
+    "39": [
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1415_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 0,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_0_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_0_acts.npz",
+        "local_action": "actions/probe_39_0_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1416_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 1,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_1_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_1_acts.npz",
+        "local_action": "actions/probe_39_1_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1400_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 2,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_2_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_2_acts.npz",
+        "local_action": "actions/probe_39_2_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1390_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 3,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_3_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_3_acts.npz",
+        "local_action": "actions/probe_39_3_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1179_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 4,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_4_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_4_acts.npz",
+        "local_action": "actions/probe_39_4_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1169_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 5,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_5_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_5_acts.npz",
+        "local_action": "actions/probe_39_5_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1339_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 6,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_6_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_6_acts.npz",
+        "local_action": "actions/probe_39_6_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1341_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 7,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_7_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_7_acts.npz",
+        "local_action": "actions/probe_39_7_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1378_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 8,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_8_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_8_acts.npz",
+        "local_action": "actions/probe_39_8_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1263_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 9,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_9_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_9_acts.npz",
+        "local_action": "actions/probe_39_9_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1278_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 10,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_10_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_10_acts.npz",
+        "local_action": "actions/probe_39_10_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1431_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 11,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_11_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_11_acts.npz",
+        "local_action": "actions/probe_39_11_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1331_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 12,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_12_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_12_acts.npz",
+        "local_action": "actions/probe_39_12_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1462_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 13,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_13_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_13_acts.npz",
+        "local_action": "actions/probe_39_13_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1376_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 14,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_14_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_14_acts.npz",
+        "local_action": "actions/probe_39_14_orig.npy"
+      },
+      {
+        "arm": "orig",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1377_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 15,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_15_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_orig_15_acts.npz",
+        "local_action": "actions/probe_39_15_orig.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1415_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 0,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_0_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_0_acts.npz",
+        "local_action": "actions/probe_39_0_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1416_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 1,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_1_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_1_acts.npz",
+        "local_action": "actions/probe_39_1_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1400_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 2,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_2_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_2_acts.npz",
+        "local_action": "actions/probe_39_2_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1390_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 3,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_3_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_3_acts.npz",
+        "local_action": "actions/probe_39_3_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1179_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 4,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_4_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_4_acts.npz",
+        "local_action": "actions/probe_39_4_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1169_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 5,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_5_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_5_acts.npz",
+        "local_action": "actions/probe_39_5_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1339_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 6,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_6_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_6_acts.npz",
+        "local_action": "actions/probe_39_6_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1341_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 7,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_7_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_7_acts.npz",
+        "local_action": "actions/probe_39_7_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1378_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 8,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_8_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_8_acts.npz",
+        "local_action": "actions/probe_39_8_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1263_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 9,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_9_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_9_acts.npz",
+        "local_action": "actions/probe_39_9_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1278_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 10,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_10_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_10_acts.npz",
+        "local_action": "actions/probe_39_10_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_2/artifacts/libero_goal_v1431_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 11,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_11_action.npy",
+        "matches_saved_chunk": true,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_11_acts.npz",
+        "local_action": "actions/probe_39_11_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1331_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 12,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_12_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_12_acts.npz",
+        "local_action": "actions/probe_39_12_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_1/artifacts/libero_goal_v1462_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 13,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_13_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_13_acts.npz",
+        "local_action": "actions/probe_39_13_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1376_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 14,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_14_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_14_acts.npz",
+        "local_action": "actions/probe_39_14_edit.npy"
+      },
+      {
+        "arm": "edit",
+        "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/fwd/roll_4/artifacts/libero_object_v1377_s7_i0_orig_frames/t0000_inputs.pt",
+        "idx": 15,
+        "action": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_15_action.npy",
+        "matches_saved_chunk": false,
+        "activations": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work/probe_39/probe_edit_15_acts.npz",
+        "local_action": "actions/probe_39_15_edit.npy"
+      }
+    ]
+  },
+  "source_work": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_b/work"
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "pair": 0,
+    "key": [
+      "libero_10",
+      30,
+      1701
+    ],
+    "category": "Background Textures",
+    "raw": "WORK/diag_inputs/r00.pt",
+    "clean": "WORK/diag_inputs/c00.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: turn on the stove and put the moka pot on it tb 6",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: turn on the stove and put the moka pot on it"
+  },
+  {
+    "pair": 1,
+    "key": [
+      "libero_10",
+      655,
+      1717
+    ],
+    "category": "Robot Initial States",
+    "raw": "WORK/diag_inputs/r01.pt",
+    "clean": "WORK/diag_inputs/c01.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the yellow and white mug in the microwave and close it view 0 0 100 0 0 initstate 210",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the yellow and white mug in the microwave and close it"
+  },
+  {
+    "pair": 2,
+    "key": [
+      "libero_10",
+      1096,
+      1705
+    ],
+    "category": "Camera Viewpoints",
+    "raw": "WORK/diag_inputs/r02.pt",
+    "clean": "WORK/diag_inputs/c02.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the yellow and white mug in the microwave and close it view 354 15 100 0 0 initstate 0",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the yellow and white mug in the microwave and close it"
+  },
+  {
+    "pair": 3,
+    "key": [
+      "libero_10",
+      1644,
+      1721
+    ],
+    "category": "Sensor Noise",
+    "raw": "WORK/diag_inputs/r03.pt",
+    "clean": "WORK/diag_inputs/c03.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the black bowl in the bottom drawer of the cabinet and close it view 0 0 100 0 0 initstate 0 noise 32",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the black bowl in the bottom drawer of the cabinet and close it"
+  },
+  {
+    "pair": 4,
+    "key": [
+      "libero_10",
+      1982,
+      1713
+    ],
+    "category": "Objects Layout",
+    "raw": "WORK/diag_inputs/r04.pt",
+    "clean": "WORK/diag_inputs/c04.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the black bowl in the bottom drawer of the cabinet and close it level5 sample3",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the black bowl in the bottom drawer of the cabinet and close it"
+  },
+  {
+    "pair": 5,
+    "key": [
+      "libero_10",
+      2261,
+      1709
+    ],
+    "category": "Light Conditions",
+    "raw": "WORK/diag_inputs/r05.pt",
+    "clean": "WORK/diag_inputs/c05.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: turn on the stove and put the moka pot on it light 25",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: turn on the stove and put the moka pot on it"
+  },
+  {
+    "pair": 6,
+    "key": [
+      "libero_goal",
+      180,
+      1702
+    ],
+    "category": "Background Textures",
+    "raw": "WORK/diag_inputs/r06.pt",
+    "clean": "WORK/diag_inputs/c06.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the cream cheese in the bowl tb 22",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the cream cheese in the bowl"
+  },
+  {
+    "pair": 7,
+    "key": [
+      "libero_goal",
+      651,
+      1718
+    ],
+    "category": "Robot Initial States",
+    "raw": "WORK/diag_inputs/r07.pt",
+    "clean": "WORK/diag_inputs/c07.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the bowl on the plate view 0 0 100 0 0 initstate 499",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the bowl on the plate"
+  },
+  {
+    "pair": 8,
+    "key": [
+      "libero_goal",
+      872,
+      1706
+    ],
+    "category": "Camera Viewpoints",
+    "raw": "WORK/diag_inputs/r08.pt",
+    "clean": "WORK/diag_inputs/c08.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the bowl on top of the cabinet view 71 0 100 0 0 initstate 0",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the bowl on top of the cabinet"
+  },
+  {
+    "pair": 9,
+    "key": [
+      "libero_goal",
+      1699,
+      1722
+    ],
+    "category": "Sensor Noise",
+    "raw": "WORK/diag_inputs/r09.pt",
+    "clean": "WORK/diag_inputs/c09.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 44",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the bowl on top of the cabinet"
+  },
+  {
+    "pair": 10,
+    "key": [
+      "libero_goal",
+      2197,
+      1714
+    ],
+    "category": "Objects Layout",
+    "raw": "WORK/diag_inputs/r10.pt",
+    "clean": "WORK/diag_inputs/c10.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the wine bottle on the rack add 5",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the wine bottle on the rack"
+  },
+  {
+    "pair": 11,
+    "key": [
+      "libero_goal",
+      2562,
+      1710
+    ],
+    "category": "Light Conditions",
+    "raw": "WORK/diag_inputs/r11.pt",
+    "clean": "WORK/diag_inputs/c11.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: put the wine bottle on top of the cabinet light 39",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: put the wine bottle on top of the cabinet"
+  },
+  {
+    "pair": 12,
+    "key": [
+      "libero_object",
+      210,
+      1703
+    ],
+    "category": "Background Textures",
+    "raw": "WORK/diag_inputs/r12.pt",
+    "clean": "WORK/diag_inputs/c12.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the orange juice and place it in the basket tb 9",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the orange juice and place it in the basket"
+  },
+  {
+    "pair": 13,
+    "key": [
+      "libero_object",
+      486,
+      1719
+    ],
+    "category": "Robot Initial States",
+    "raw": "WORK/diag_inputs/r13.pt",
+    "clean": "WORK/diag_inputs/c13.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the butter and place it in the basket view 0 0 100 0 0 initstate 67",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the butter and place it in the basket"
+  },
+  {
+    "pair": 14,
+    "key": [
+      "libero_object",
+      927,
+      1707
+    ],
+    "category": "Camera Viewpoints",
+    "raw": "WORK/diag_inputs/r14.pt",
+    "clean": "WORK/diag_inputs/c14.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the butter and place it in the basket view 314 15 100 0 0 initstate 0",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the butter and place it in the basket"
+  },
+  {
+    "pair": 15,
+    "key": [
+      "libero_object",
+      1515,
+      1723
+    ],
+    "category": "Sensor Noise",
+    "raw": "WORK/diag_inputs/r15.pt",
+    "clean": "WORK/diag_inputs/c15.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the salad dressing and place it in the basket view 0 0 100 0 0 initstate 0 noise 41",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the salad dressing and place it in the basket"
+  },
+  {
+    "pair": 16,
+    "key": [
+      "libero_object",
+      1864,
+      1715
+    ],
+    "category": "Objects Layout",
+    "raw": "WORK/diag_inputs/r16.pt",
+    "clean": "WORK/diag_inputs/c16.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the bbq sauce and place it in the basket add 15",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the bbq sauce and place it in the basket"
+  },
+  {
+    "pair": 17,
+    "key": [
+      "libero_object",
+      2398,
+      1711
+    ],
+    "category": "Light Conditions",
+    "raw": "WORK/diag_inputs/r17.pt",
+    "clean": "WORK/diag_inputs/c17.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the ketchup and place it in the basket light 39",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the ketchup and place it in the basket"
+  },
+  {
+    "pair": 18,
+    "key": [
+      "libero_spatial",
+      257,
+      1704
+    ],
+    "category": "Background Textures",
+    "raw": "WORK/diag_inputs/r18.pt",
+    "clean": "WORK/diag_inputs/c18.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl on the wooden cabinet and place it on the plate tb 2",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl on the wooden cabinet and place it on the plate"
+  },
+  {
+    "pair": 19,
+    "key": [
+      "libero_spatial",
+      417,
+      1720
+    ],
+    "category": "Robot Initial States",
+    "raw": "WORK/diag_inputs/r19.pt",
+    "clean": "WORK/diag_inputs/c19.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 100 0 0 initstate 385",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate"
+  },
+  {
+    "pair": 20,
+    "key": [
+      "libero_spatial",
+      895,
+      1708
+    ],
+    "category": "Camera Viewpoints",
+    "raw": "WORK/diag_inputs/r20.pt",
+    "clean": "WORK/diag_inputs/c20.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl on the stove and place it on the plate view 319 15 100 0 0 initstate 0",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl on the stove and place it on the plate"
+  },
+  {
+    "pair": 21,
+    "key": [
+      "libero_spatial",
+      1682,
+      1724
+    ],
+    "category": "Sensor Noise",
+    "raw": "WORK/diag_inputs/r21.pt",
+    "clean": "WORK/diag_inputs/c21.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl next to the plate and place it on the plate view 0 0 100 0 0 initstate 0 noise 46",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl next to the plate and place it on the plate"
+  },
+  {
+    "pair": 22,
+    "key": [
+      "libero_spatial",
+      2007,
+      1716
+    ],
+    "category": "Objects Layout",
+    "raw": "WORK/diag_inputs/r22.pt",
+    "clean": "WORK/diag_inputs/c22.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl on the ramekin and place it on the plate add 24",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl on the ramekin and place it on the plate"
+  },
+  {
+    "pair": 23,
+    "key": [
+      "libero_spatial",
+      2218,
+      1712
+    ],
+    "category": "Light Conditions",
+    "raw": "WORK/diag_inputs/r23.pt",
+    "clean": "WORK/diag_inputs/c23.pt",
+    "raw_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate light 23",
+    "clean_prompt": "A video recorded from a robot's point of view executing the following instruction: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate"
+  }
+]

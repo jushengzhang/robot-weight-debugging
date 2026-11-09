@@ -1,0 +1,120 @@
+{
+  "17": {
+    "summary": {
+      "requested": 128,
+      "valid": 128,
+      "missing": 0,
+      "original": 101,
+      "edited": 107,
+      "gain_pp": 4.688,
+      "se_pp": 1.876,
+      "rescues": 6,
+      "regressions": 0
+    },
+    "exposed_pairs": 29,
+    "discordances": [
+      {
+        "suite": "libero_goal",
+        "id": 1102,
+        "difference": 1,
+        "exposed": true,
+        "orig_term": "max_steps",
+        "edit_term": "success"
+      },
+      {
+        "suite": "libero_goal",
+        "id": 1308,
+        "difference": 1,
+        "exposed": true,
+        "orig_term": "max_steps",
+        "edit_term": "success"
+      },
+      {
+        "suite": "libero_goal",
+        "id": 1175,
+        "difference": 1,
+        "exposed": true,
+        "orig_term": "max_steps",
+        "edit_term": "success"
+      },
+      {
+        "suite": "libero_goal",
+        "id": 1420,
+        "difference": 1,
+        "exposed": true,
+        "orig_term": "max_steps",
+        "edit_term": "success"
+      },
+      {
+        "suite": "libero_goal",
+        "id": 1257,
+        "difference": 1,
+        "exposed": true,
+        "orig_term": "max_steps",
+        "edit_term": "success"
+      },
+      {
+        "suite": "libero_goal",
+        "id": 1494,
+        "difference": 1,
+        "exposed": true,
+        "orig_term": "max_steps",
+        "edit_term": "success"
+      }
+    ]
+  },
+  "18": {
+    "summary": {
+      "requested": 128,
+      "valid": 123,
+      "missing": 5,
+      "original": 119,
+      "edited": 118,
+      "gain_pp": -0.813,
+      "se_pp": 0.813,
+      "rescues": 0,
+      "regressions": 1
+    },
+    "exposed_pairs": 31,
+    "discordances": [
+      {
+        "suite": "libero_object",
+        "id": 1075,
+        "difference": -1,
+        "exposed": true,
+        "orig_term": "success",
+        "edit_term": "max_steps"
+      }
+    ]
+  },
+  "19": {
+    "summary": {
+      "requested": 128,
+      "valid": 116,
+      "missing": 12,
+      "original": 84,
+      "edited": 84,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0
+    },
+    "exposed_pairs": 0,
+    "discordances": []
+  },
+  "20": {
+    "summary": {
+      "requested": 128,
+      "valid": 127,
+      "missing": 1,
+      "original": 93,
+      "edited": 93,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0
+    },
+    "exposed_pairs": 0,
+    "discordances": []
+  }
+}

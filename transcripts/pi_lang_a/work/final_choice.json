@@ -1,0 +1,18 @@
+{
+  "candidate": "frozen18",
+  "active_edited_tensors": [
+    "paligemma_with_expert.paligemma.model.language_model.embed_tokens.weight"
+  ],
+  "recipe": "candidate18_frozen.json",
+  "backup": "candidate18_weights",
+  "weight_audit": "final_weight_audit45.json",
+  "changed_rows_sha256": "c8fbbb500e340107031f0a3582cb90976128fa7de261347d92bdeae244ffe97e",
+  "primary_language_evidence": "final18_evidence45.json",
+  "secondary_hard_language_evidence": "final18_hard_third_seed_summary.json",
+  "canonical_invariance": "canonical_probe46_audit.json",
+  "safety_through_pass49": "final18_safety49_summary.json",
+  "last_safety_request": "request50.json",
+  "last_safety_records_when_complete": "roll_50.jsonl",
+  "training_used": false,
+  "all_non_embedding_tensors_unchanged": true
+}

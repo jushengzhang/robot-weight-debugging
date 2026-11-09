@@ -1,0 +1,10 @@
+{
+  "n_tasks": 37,
+  "split_task_mean_cosine": 0.9690025448799133,
+  "contrast_light_ratio": 53.379638671875,
+  "contrast_fraction": 0.05269581452012062,
+  "light_variance_fraction": 0.0029471665620803833,
+  "protected_light_variance": 0.9611018300056458,
+  "fraction_of_patch_weight_in_direction": 0.09199148416519165,
+  "protected_mean_projection_max": 2.473592758178711e-06
+}

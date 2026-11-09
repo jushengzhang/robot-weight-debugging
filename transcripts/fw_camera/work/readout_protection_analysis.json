@@ -1,0 +1,74 @@
+[
+  {
+    "protect_clean_rank": 0,
+    "camera_energy": 0.301,
+    "readout_cam_fraction": 0.495,
+    "readout_cam_cos": 0.703,
+    "clean_readout_rms_ratio": 0.072,
+    "weight_rel": 0.045,
+    "principal_cosines": [
+      0.733,
+      0.679
+    ]
+  },
+  {
+    "protect_clean_rank": 2,
+    "camera_energy": 0.303,
+    "readout_cam_fraction": 0.463,
+    "readout_cam_cos": 0.683,
+    "clean_readout_rms_ratio": 0.058,
+    "weight_rel": 0.044,
+    "principal_cosines": [
+      0.735,
+      0.675
+    ]
+  },
+  {
+    "protect_clean_rank": 4,
+    "camera_energy": 0.305,
+    "readout_cam_fraction": 0.464,
+    "readout_cam_cos": 0.659,
+    "clean_readout_rms_ratio": 0.056,
+    "weight_rel": 0.045,
+    "principal_cosines": [
+      0.738,
+      0.683
+    ]
+  },
+  {
+    "protect_clean_rank": 8,
+    "camera_energy": 0.291,
+    "readout_cam_fraction": 0.414,
+    "readout_cam_cos": 0.612,
+    "clean_readout_rms_ratio": 0.034,
+    "weight_rel": 0.045,
+    "principal_cosines": [
+      0.719,
+      0.684
+    ]
+  },
+  {
+    "protect_clean_rank": 16,
+    "camera_energy": 0.274,
+    "readout_cam_fraction": 0.24,
+    "readout_cam_cos": 0.603,
+    "clean_readout_rms_ratio": 0.014,
+    "weight_rel": 0.037,
+    "principal_cosines": [
+      0.689,
+      0.656
+    ]
+  },
+  {
+    "protect_clean_rank": 32,
+    "camera_energy": 0.271,
+    "readout_cam_fraction": 0.264,
+    "readout_cam_cos": 0.38,
+    "clean_readout_rms_ratio": 0.009,
+    "weight_rel": 0.043,
+    "principal_cosines": [
+      0.692,
+      0.652
+    ]
+  }
+]

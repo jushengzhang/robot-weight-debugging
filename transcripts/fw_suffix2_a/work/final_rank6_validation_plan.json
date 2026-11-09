@@ -1,0 +1,57 @@
+{
+  "40": {
+    "split": "tag_validation_2",
+    "language": "raw",
+    "condition": "tagged"
+  },
+  "41": {
+    "split": "tag_validation_3",
+    "language": "raw",
+    "condition": "tagged"
+  },
+  "42": {
+    "split": "tag_validation_4",
+    "language": "raw",
+    "condition": "tagged"
+  },
+  "43": {
+    "split": "tag_validation_5",
+    "language": "raw",
+    "condition": "tagged"
+  },
+  "44": {
+    "split": "tag_validation_2",
+    "language": "strip",
+    "condition": "clean"
+  },
+  "45": {
+    "split": "tag_validation_3",
+    "language": "strip",
+    "condition": "clean"
+  },
+  "46": {
+    "split": "tag_validation_4",
+    "language": "strip",
+    "condition": "clean"
+  },
+  "47": {
+    "split": "language_validation_0",
+    "language": "raw",
+    "condition": "paraphrase"
+  },
+  "48": {
+    "split": "language_validation_1",
+    "language": "raw",
+    "condition": "paraphrase"
+  },
+  "49": {
+    "split": "language_validation_2",
+    "language": "raw",
+    "condition": "paraphrase"
+  },
+  "50": {
+    "split": "language_validation_3",
+    "language": "raw",
+    "condition": "paraphrase"
+  }
+}

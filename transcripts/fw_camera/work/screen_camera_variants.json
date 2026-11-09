@@ -1,0 +1,898 @@
+[
+  {
+    "suite": "libero_10",
+    "id": 758,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_view_33_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 876,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_73_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_object",
+    "id": 673,
+    "name": "pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_4_10_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 817,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_293_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_10",
+    "id": 938,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_view_0_0_100_352_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_10",
+    "id": 975,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_view_0_0_177_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_10",
+    "id": 1013,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_view_327_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_goal",
+    "id": 812,
+    "name": "open_the_top_drawer_and_put_the_bowl_inside_view_51_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_object",
+    "id": 1015,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_343_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 947,
+    "name": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate_view_344_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1046,
+    "name": "put_the_bowl_on_the_plate_view_337_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_10",
+    "id": 695,
+    "name": "LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_view_8_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1089,
+    "name": "put_the_wine_bottle_on_the_rack_view_352_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 786,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_0_0_154_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 987,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_356_350_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 827,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_298_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 768,
+    "name": "put_the_wine_bottle_on_top_of_the_cabinet_view_38_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 631,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_20_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_object",
+    "id": 814,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_view_68_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_object",
+    "id": 656,
+    "name": "pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_4_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 621,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_0_0_100_4_350_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_object",
+    "id": 716,
+    "name": "pick_up_the_salad_dressing_and_place_it_in_the_basket_view_36_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_goal",
+    "id": 993,
+    "name": "turn_on_the_stove_view_0_0_100_354_350_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_object",
+    "id": 884,
+    "name": "pick_up_the_butter_and_place_it_in_the_basket_view_0_0_166_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_goal",
+    "id": 858,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_64_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 910,
+    "name": "push_the_plate_to_the_front_of_the_stove_view_289_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_object",
+    "id": 1002,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_336_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 984,
+    "name": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate_view_359_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 849,
+    "name": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate_view_303_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_goal",
+    "id": 844,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10_6_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 977,
+    "name": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate_view_352_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_10",
+    "id": 922,
+    "name": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy_view_299_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_10",
+    "id": 1080,
+    "name": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it_view_0_0_100_358_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 709,
+    "name": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate_view_47_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_object",
+    "id": 846,
+    "name": "pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_350_354_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1016,
+    "name": "turn_on_the_stove_view_325_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 672,
+    "name": "pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_4_8_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_10",
+    "id": 957,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_view_309_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_10",
+    "id": 691,
+    "name": "LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_view_4_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_10",
+    "id": 801,
+    "name": "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it_view_46_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1058,
+    "name": "put_the_wine_bottle_on_the_rack_view_0_0_192_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_10",
+    "id": 845,
+    "name": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate_view_0_0_100_10_352_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_goal",
+    "id": 746,
+    "name": "put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_126_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_object",
+    "id": 737,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_134_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1025,
+    "name": "turn_on_the_stove_view_329_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 925,
+    "name": "pick_up_the_butter_and_place_it_in_the_basket_view_313_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 842,
+    "name": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate_view_0_0_100_352_352_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_10",
+    "id": 923,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_view_0_0_161_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 948,
+    "name": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate_view_0_0_191_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 920,
+    "name": "push_the_plate_to_the_front_of_the_stove_view_294_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 624,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_16_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1055,
+    "name": "put_the_bowl_on_the_plate_view_343_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_10",
+    "id": 987,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_view_0_0_100_354_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 735,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_132_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_object",
+    "id": 791,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_150_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 940,
+    "name": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate_view_335_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_object",
+    "id": 749,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_8_350_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 934,
+    "name": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate_view_332_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_goal",
+    "id": 755,
+    "name": "put_the_wine_bottle_on_top_of_the_cabinet_view_31_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_object",
+    "id": 965,
+    "name": "pick_up_the_milk_and_place_it_in_the_basket_view_324_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_10",
+    "id": 990,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_view_315_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_10",
+    "id": 909,
+    "name": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy_view_292_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 635,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_22_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 876,
+    "name": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate_view_0_0_175_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_goal",
+    "id": 780,
+    "name": "put_the_wine_bottle_on_top_of_the_cabinet_view_44_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_goal",
+    "id": 832,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_0_0_141_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1095,
+    "name": "put_the_wine_bottle_on_the_rack_view_356_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 657,
+    "name": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate_view_0_0_100_6_8_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 712,
+    "name": "pick_up_the_salad_dressing_and_place_it_in_the_basket_view_34_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 738,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_135_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_10",
+    "id": 724,
+    "name": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket_view_25_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 659,
+    "name": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate_view_0_0_100_6_350_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_goal",
+    "id": 827,
+    "name": "open_the_top_drawer_and_put_the_bowl_inside_view_58_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_10",
+    "id": 933,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_view_0_0_100_352_6_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_object",
+    "id": 815,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_view_68_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_object",
+    "id": 990,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_330_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 623,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_0_0_100_4_354_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 692,
+    "name": "open_the_middle_drawer_of_the_cabinet_view_0_0_100_2_6_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_10",
+    "id": 774,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_view_41_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_10",
+    "id": 704,
+    "name": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket_view_0_0_100_4_6_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 751,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_8_354_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_10",
+    "id": 958,
+    "name": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_view_309_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_object",
+    "id": 863,
+    "name": "pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_292_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 871,
+    "name": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate_view_314_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_goal",
+    "id": 866,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_68_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 927,
+    "name": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate_view_0_0_100_356_10_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 690,
+    "name": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate_view_0_0_134_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 945,
+    "name": "pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_354_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1004,
+    "name": "turn_on_the_stove_view_319_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 850,
+    "name": "pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_285_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1069,
+    "name": "put_the_wine_bottle_on_the_rack_view_0_0_100_358_6_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 818,
+    "name": "open_the_top_drawer_and_put_the_bowl_inside_view_54_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_10",
+    "id": 738,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_view_0_0_124_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 812,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_290_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_object",
+    "id": 777,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_58_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 625,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_17_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_goal",
+    "id": 991,
+    "name": "turn_on_the_stove_view_0_0_100_354_8_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_10",
+    "id": 751,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_view_0_0_100_6_352_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_object",
+    "id": 743,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_140_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_object",
+    "id": 809,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_view_65_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_goal",
+    "id": 836,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_0_0_145_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 885,
+    "name": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate_view_0_0_100_354_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_object",
+    "id": 764,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_52_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 792,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_0_0_160_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 864,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_67_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 862,
+    "name": "put_the_bowl_on_top_of_the_cabinet_view_66_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_object",
+    "id": 742,
+    "name": "pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_139_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_10",
+    "id": 733,
+    "name": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket_view_30_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_goal",
+    "id": 919,
+    "name": "push_the_plate_to_the_front_of_the_stove_view_294_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_10",
+    "id": 1016,
+    "name": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket_view_328_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 764,
+    "name": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate_view_65_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_10",
+    "id": 1028,
+    "name": "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove_view_0_0_100_356_4_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_object",
+    "id": 923,
+    "name": "pick_up_the_butter_and_place_it_in_the_basket_view_312_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_10",
+    "id": 740,
+    "name": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it_view_0_0_126_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 666,
+    "name": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate_view_34_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_object",
+    "id": 718,
+    "name": "pick_up_the_salad_dressing_and_place_it_in_the_basket_view_37_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  },
+  {
+    "suite": "libero_object",
+    "id": 843,
+    "name": "pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_350_10_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_goal",
+    "id": 804,
+    "name": "open_the_top_drawer_and_put_the_bowl_inside_view_47_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_10",
+    "id": 782,
+    "name": "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it_view_0_0_131_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_object",
+    "id": 800,
+    "name": "pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_10_356_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 639,
+    "name": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_view_24_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 3
+  },
+  {
+    "suite": "libero_object",
+    "id": 980,
+    "name": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_185_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_object",
+    "id": 905,
+    "name": "pick_up_the_butter_and_place_it_in_the_basket_view_303_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_spatial",
+    "id": 819,
+    "name": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate_view_294_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_goal",
+    "id": 738,
+    "name": "put_the_bowl_on_the_stove_view_28_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 2
+  },
+  {
+    "suite": "libero_10",
+    "id": 853,
+    "name": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate_view_63_0_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 5
+  },
+  {
+    "suite": "libero_goal",
+    "id": 950,
+    "name": "put_the_cream_cheese_in_the_bowl_view_0_0_100_352_358_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 4
+  },
+  {
+    "suite": "libero_goal",
+    "id": 1021,
+    "name": "turn_on_the_stove_view_327_15_100_0_0_initstate_0",
+    "category": "Camera Viewpoints",
+    "difficulty": 1
+  }
+]

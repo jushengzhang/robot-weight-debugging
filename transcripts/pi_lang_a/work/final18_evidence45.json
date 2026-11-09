@@ -1,0 +1,197 @@
+{
+  "first_seed_manifest_aligned": {
+    "n": 610,
+    "original": 535,
+    "edited": 551,
+    "gain_pp": 2.623,
+    "se_pp": 0.762,
+    "rescues": 19,
+    "regressions": 3,
+    "unpaired": 0
+  },
+  "second_seed": {
+    "n": 610,
+    "original": 533,
+    "edited": 553,
+    "gain_pp": 3.279,
+    "se_pp": 0.826,
+    "rescues": 23,
+    "regressions": 3,
+    "unpaired": 0
+  },
+  "second_seed_by_suite": {
+    "libero_10": {
+      "n": 180,
+      "original": 164,
+      "edited": 163,
+      "gain_pp": -0.556,
+      "se_pp": 1.245,
+      "rescues": 2,
+      "regressions": 3,
+      "unpaired": 0
+    },
+    "libero_goal": {
+      "n": 113,
+      "original": 72,
+      "edited": 87,
+      "gain_pp": 13.274,
+      "se_pp": 3.206,
+      "rescues": 15,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "libero_object": {
+      "n": 142,
+      "original": 132,
+      "edited": 133,
+      "gain_pp": 0.704,
+      "se_pp": 0.704,
+      "rescues": 1,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "libero_spatial": {
+      "n": 175,
+      "original": 165,
+      "edited": 170,
+      "gain_pp": 2.857,
+      "se_pp": 1.263,
+      "rescues": 5,
+      "regressions": 0,
+      "unpaired": 0
+    }
+  },
+  "second_seed_by_difficulty": {
+    "1": {
+      "n": 155,
+      "original": 147,
+      "edited": 147,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "2": {
+      "n": 120,
+      "original": 113,
+      "edited": 116,
+      "gain_pp": 2.5,
+      "se_pp": 1.431,
+      "rescues": 3,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "3": {
+      "n": 131,
+      "original": 128,
+      "edited": 129,
+      "gain_pp": 0.763,
+      "se_pp": 0.763,
+      "rescues": 1,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "4": {
+      "n": 95,
+      "original": 81,
+      "edited": 82,
+      "gain_pp": 1.053,
+      "se_pp": 1.83,
+      "rescues": 2,
+      "regressions": 1,
+      "unpaired": 0
+    },
+    "5": {
+      "n": 109,
+      "original": 64,
+      "edited": 79,
+      "gain_pp": 13.761,
+      "se_pp": 3.793,
+      "rescues": 17,
+      "regressions": 2,
+      "unpaired": 0
+    }
+  },
+  "combined": {
+    "n": 1220,
+    "original": 1068,
+    "edited": 1104,
+    "gain_pp": 2.951,
+    "se_pp": 0.562,
+    "rescues": 42,
+    "regressions": 6,
+    "unpaired": 0
+  },
+  "combined_variant_cluster_se_pp": 0.7145735973017499,
+  "combined_by_difficulty": {
+    "1": {
+      "n": 310,
+      "original": 295,
+      "edited": 295,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0,
+      "unpaired": 0
+    },
+    "2": {
+      "n": 240,
+      "original": 226,
+      "edited": 228,
+      "gain_pp": 0.833,
+      "se_pp": 0.833,
+      "rescues": 3,
+      "regressions": 1,
+      "unpaired": 0
+    },
+    "3": {
+      "n": 262,
+      "original": 254,
+      "edited": 254,
+      "gain_pp": 0.0,
+      "se_pp": 0.541,
+      "rescues": 1,
+      "regressions": 1,
+      "unpaired": 0
+    },
+    "4": {
+      "n": 190,
+      "original": 166,
+      "edited": 168,
+      "gain_pp": 1.053,
+      "se_pp": 1.053,
+      "rescues": 3,
+      "regressions": 1,
+      "unpaired": 0
+    },
+    "5": {
+      "n": 218,
+      "original": 127,
+      "edited": 159,
+      "gain_pp": 14.679,
+      "se_pp": 2.653,
+      "rescues": 35,
+      "regressions": 3,
+      "unpaired": 0
+    }
+  },
+  "first_seed_unrequested_episode": [
+    [
+      "libero_10",
+      1315,
+      1003
+    ]
+  ],
+  "repair_outcome": {
+    "n": 1,
+    "original": 1,
+    "edited": 1,
+    "gain_pp": 0.0,
+    "se_pp": null,
+    "rescues": 0,
+    "regressions": 0,
+    "unpaired": 0
+  },
+  "second_seed_exact_p": 8.797645568847656e-05
+}

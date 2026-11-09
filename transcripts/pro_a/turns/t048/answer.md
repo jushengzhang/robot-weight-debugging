@@ -1,0 +1,4 @@
+I will compare late-layer attention on a wrong-task observation, a successful paraphrase, and later grasp-stage observations from a position failure and an object success. This tests whether the late action-conditioning pathway still uses instruction content and current visual locations.
+```forward
+{"type":"probe","model":"original","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_a/work/roll_1_frames/e1946_seed7_original/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_a/work/roll_1_frames/e1923_seed7_original/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_a/work/roll_1_frames/e1896_seed7_original/t0100_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_a/work/roll_1_frames/e1490_seed7_original/t0100_inputs.pt"],"return":{"layers":[14,15,16,17],"what":"attn_maps"}}
+```

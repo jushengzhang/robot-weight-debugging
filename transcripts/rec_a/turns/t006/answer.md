@@ -1,0 +1,4 @@
+The episode-averaged contrasts do not show a simple gripper-readout anomaly. The strongest VLM contrast is in the final layer's output, which is downstream of the last cached keys and values and therefore is not itself an action-conditioning route. I will instead inspect where the expert attends on matched successful and looping observations, starting with four layers spread through the network.
+```forward
+{"type":"probe","model":"original","inputs":["WORK/roll_1_frames/s367_open_seed17_original/t0200_inputs.pt","WORK/roll_1_frames/s367_close_seed17_original/t0100_inputs.pt","WORK/roll_1_frames/s753_open_seed17_original/t0200_inputs.pt","WORK/roll_1_frames/s753_close_seed17_original/t0050_inputs.pt"],"return":{"layers":[3,8,12,15],"vlm_layers":[],"vision_layers":[],"what":"attn_maps"}}
+```

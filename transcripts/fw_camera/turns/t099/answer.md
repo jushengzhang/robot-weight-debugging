@@ -1,0 +1,4 @@
+The coordinate ablation brings the four heads’ weight-coupling norms from about 900–1,067 down to 28–39, near the all-head median of 37; the earlier cap left them at 106–136. I’ll now check whether their attention maps actually broaden and whether the action response changes as predicted.
+```forward
+{"type":"probe","model":"edited","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/fwd/roll_1/artifacts/libero_goal_v1089_s1107_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/fwd/roll_1/artifacts/libero_goal_v1058_s1107_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/fwd/roll_1/artifacts/libero_object_v945_s1111_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera/work/fwd/roll_1/artifacts/libero_object_v933_s1111_i0_orig_frames/t0000_inputs.pt"],"return":{"actions":true,"layers":[29],"what":"attn_maps","noise_seed":46001}}
+```

@@ -1,0 +1,322 @@
+{
+  "integrity": {
+    "tensor": "paligemma_with_expert.paligemma.model.language_model.embed_tokens.weight",
+    "rows_changed": [
+      3425,
+      4830,
+      4982,
+      5449,
+      15087,
+      16241,
+      25373,
+      26836,
+      33773,
+      37806,
+      42226,
+      50161,
+      57321,
+      65931,
+      70624,
+      80792,
+      118891,
+      121144,
+      160148,
+      167690
+    ],
+    "coefficients_changed": 40822,
+    "canonical_tasks": 40,
+    "other_tensors_edited": 0,
+    "known_nonlanguage_prompts_using_edited_rows": 0,
+    "exact_checkpoint_sha256": "529c348a18c015050ab693bcf7ef95cc049ed3e8805b07e1aff89631aa174d02",
+    "bf16_target_rows_exact": true,
+    "observed_canonical_instructions": 50,
+    "observed_canonical_token_ids": 75,
+    "protected_metadata_token_ids": 89
+  },
+  "safety_raw_deduplicated": {
+    "Camera Viewpoints": {
+      "n": 235,
+      "variants": 235,
+      "original": 149,
+      "edited": 148,
+      "fixes": 0,
+      "regressions": 1,
+      "diff_pp": -0.4255,
+      "paired_se_pp": 0.4255,
+      "cluster_se_pp": 0.4255,
+      "cluster_95ci_pp": [
+        -1.2596,
+        0.4085
+      ],
+      "errors": {
+        "original": 2,
+        "edited": 1
+      }
+    },
+    "Robot Initial States": {
+      "n": 236,
+      "variants": 236,
+      "original": 162,
+      "edited": 162,
+      "fixes": 0,
+      "regressions": 0,
+      "diff_pp": 0.0,
+      "paired_se_pp": 0.0,
+      "cluster_se_pp": 0.0,
+      "cluster_95ci_pp": [
+        0.0,
+        0.0
+      ],
+      "errors": {
+        "original": 0,
+        "edited": 0
+      },
+      "zero_discordance_conservative_95_abs_difference_bound_pp": 1.2614
+    },
+    "Light Conditions": {
+      "n": 353,
+      "variants": 285,
+      "original": 321,
+      "edited": 318,
+      "fixes": 2,
+      "regressions": 5,
+      "diff_pp": -0.8499,
+      "paired_se_pp": 0.7492,
+      "cluster_se_pp": 0.7509,
+      "cluster_95ci_pp": [
+        -2.3216,
+        0.6219
+      ],
+      "errors": {
+        "original": 0,
+        "edited": 0
+      }
+    },
+    "Background Textures": {
+      "n": 225,
+      "variants": 225,
+      "original": 198,
+      "edited": 198,
+      "fixes": 0,
+      "regressions": 0,
+      "diff_pp": 0.0,
+      "paired_se_pp": 0.0,
+      "cluster_se_pp": 0.0,
+      "cluster_95ci_pp": [
+        0.0,
+        0.0
+      ],
+      "errors": {
+        "original": 0,
+        "edited": 0
+      },
+      "zero_discordance_conservative_95_abs_difference_bound_pp": 1.3226
+    },
+    "Sensor Noise": {
+      "n": 235,
+      "variants": 235,
+      "original": 197,
+      "edited": 197,
+      "fixes": 0,
+      "regressions": 0,
+      "diff_pp": 0.0,
+      "paired_se_pp": 0.0,
+      "cluster_se_pp": 0.0,
+      "cluster_95ci_pp": [
+        0.0,
+        0.0
+      ],
+      "errors": {
+        "original": 0,
+        "edited": 0
+      },
+      "zero_discordance_conservative_95_abs_difference_bound_pp": 1.2667
+    },
+    "Objects Layout": {
+      "n": 234,
+      "variants": 234,
+      "original": 184,
+      "edited": 184,
+      "fixes": 0,
+      "regressions": 0,
+      "diff_pp": 0.0,
+      "paired_se_pp": 0.0,
+      "cluster_se_pp": 0.0,
+      "cluster_95ci_pp": [
+        0.0,
+        0.0
+      ],
+      "errors": {
+        "original": 0,
+        "edited": 0
+      },
+      "zero_discordance_conservative_95_abs_difference_bound_pp": 1.2721
+    }
+  },
+  "validation_raw_before_last3": {
+    "n": 1152,
+    "variants": 577,
+    "original": 1010,
+    "edited": 1030,
+    "fixes": 32,
+    "regressions": 12,
+    "diff_pp": 1.7361,
+    "paired_se_pp": 0.5738,
+    "cluster_se_pp": 0.6343,
+    "cluster_95ci_pp": [
+      0.4928,
+      2.9794
+    ],
+    "errors": {
+      "original": 14,
+      "edited": 16
+    }
+  },
+  "validation_reconciled_before_last3": {
+    "n": 1152,
+    "variants": 577,
+    "original": 1024,
+    "edited": 1046,
+    "fixes": 23,
+    "regressions": 1,
+    "diff_pp": 1.9097,
+    "paired_se_pp": 0.4217,
+    "cluster_se_pp": 0.5003,
+    "cluster_95ci_pp": [
+      0.9291,
+      2.8903
+    ],
+    "errors": {
+      "original": 0,
+      "edited": 0
+    }
+  },
+  "language_error_retry_pass": 24,
+  "pending_passes": [
+    50
+  ],
+  "pending_language_trials": 381,
+  "pending_camera_error_retries": 3,
+  "selection_frozen_before_pass18": true,
+  "validation_after48": {
+    "n": 1280,
+    "variants": 577,
+    "original": 1132,
+    "edited": 1152,
+    "fixes": 23,
+    "regressions": 3,
+    "diff_pp": 1.5625,
+    "paired_se_pp": 0.3961,
+    "cluster_se_pp": 0.4655,
+    "cluster_95ci_pp": [
+      0.6502,
+      2.4748
+    ],
+    "errors": {
+      "original": 0,
+      "edited": 0
+    }
+  },
+  "validation_raw_after48": {
+    "n": 1280,
+    "variants": 577,
+    "original": 1118,
+    "edited": 1136,
+    "fixes": 32,
+    "regressions": 14,
+    "diff_pp": 1.4062,
+    "paired_se_pp": 0.5286,
+    "cluster_se_pp": 0.5826,
+    "cluster_95ci_pp": [
+      0.2644,
+      2.5481
+    ],
+    "errors": {
+      "original": 14,
+      "edited": 16
+    }
+  },
+  "seed73_after48": {
+    "n": 128,
+    "variants": 128,
+    "original": 108,
+    "edited": 106,
+    "fixes": 0,
+    "regressions": 2,
+    "diff_pp": -1.5625,
+    "paired_se_pp": 1.1005,
+    "cluster_se_pp": 1.1005,
+    "cluster_95ci_pp": [
+      -3.7195,
+      0.5945
+    ],
+    "errors": {
+      "original": 0,
+      "edited": 0
+    }
+  },
+  "validation_after49": {
+    "n": 1408,
+    "variants": 577,
+    "original": 1243,
+    "edited": 1261,
+    "fixes": 23,
+    "regressions": 5,
+    "diff_pp": 1.2784,
+    "paired_se_pp": 0.3744,
+    "cluster_se_pp": 0.4115,
+    "cluster_95ci_pp": [
+      0.4719,
+      2.085
+    ],
+    "errors": {
+      "original": 0,
+      "edited": 0
+    }
+  },
+  "validation_raw_after49": {
+    "n": 1408,
+    "variants": 577,
+    "original": 1229,
+    "edited": 1245,
+    "fixes": 32,
+    "regressions": 16,
+    "diff_pp": 1.1364,
+    "paired_se_pp": 0.4913,
+    "cluster_se_pp": 0.5202,
+    "cluster_95ci_pp": [
+      0.1168,
+      2.1559
+    ],
+    "errors": {
+      "original": 14,
+      "edited": 16
+    }
+  },
+  "seed73_after49": {
+    "n": 256,
+    "variants": 256,
+    "original": 219,
+    "edited": 215,
+    "fixes": 0,
+    "regressions": 4,
+    "diff_pp": -1.5625,
+    "paired_se_pp": 0.7766,
+    "cluster_se_pp": 0.7766,
+    "cluster_95ci_pp": [
+      -3.0847,
+      -0.0403
+    ],
+    "errors": {
+      "original": 0,
+      "edited": 0
+    }
+  },
+  "final_candidate": "lex_dest_exact",
+  "limitations": [
+    "Lexical row edits are context-insensitive; ambiguous descriptions remain a risk.",
+    "Seed73 first256 language trials have 0 repairs and4 regressions; retained in all aggregate results.",
+    "Same-input canonical policy outputs are invariant, but simulator/render variability can cause rollout discordances.",
+    "Practice validation is not the benchmark held-out evaluation."
+  ]
+}

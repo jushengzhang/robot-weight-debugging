@@ -1,0 +1,11 @@
+{
+  "layer": 29,
+  "heads": [
+    4,
+    7,
+    8,
+    17
+  ],
+  "retained_output": 0.5,
+  "mechanism": "Attenuate four agent-locked action readers only; original Q/K"
+}

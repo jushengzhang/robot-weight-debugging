@@ -1,0 +1,4 @@
+This replay will measure the proposed mechanism directly: does sharpening layer 9 head 4 increase final-instruction-token attention, and what happens in downstream heads? The successful paraphrase, moved-object failure, and changed-environment failure provide useful controls.
+```forward
+{"type":"probe","model":"both","inputs":["WORK/roll_1_frames/e1946_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1923_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e1896_seed7_original/t0000_inputs.pt","WORK/roll_1_frames/e954_seed7_original/t0000_inputs.pt"],"return":{"layers":[5,9,13,17],"vlm_layers":[],"vision_layers":[],"what":"attn_maps"}}
+```

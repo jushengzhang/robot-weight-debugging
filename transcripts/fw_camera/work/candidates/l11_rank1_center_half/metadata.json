@@ -1,0 +1,27 @@
+{
+  "mechanism": "Rank-one camera-contrast output projection",
+  "alpha": 0.5,
+  "centered_on_mild_light": true,
+  "layers": [
+    11
+  ],
+  "details": {
+    "11": {
+      "reference_coefficient": 26.635692596435547,
+      "weight_relative_change": 0.03853948041796684,
+      "bias_change_norm": 13.309561729431152,
+      "reference_by_step": [
+        25.832000732421875,
+        25.733999252319336,
+        25.93000030517578,
+        26.170000076293945,
+        26.44700050354004,
+        26.809999465942383,
+        27.17300033569336,
+        27.541000366210938,
+        27.93199920654297,
+        26.788000106811523
+      ]
+    }
+  }
+}

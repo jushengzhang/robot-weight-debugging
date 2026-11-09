@@ -1,0 +1,258 @@
+[
+  {
+    "input": "WORK/roll_1_frames/s10_close_seed17_original/t0000_inputs.pt",
+    "id": 10,
+    "grip": "close",
+    "success": false,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s10_close_seed17_original/t0250_inputs.pt",
+    "id": 10,
+    "grip": "close",
+    "success": false,
+    "step": 250,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s10_open_seed17_original/t0000_inputs.pt",
+    "id": 10,
+    "grip": "open",
+    "success": true,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s10_open_seed17_original/t0050_inputs.pt",
+    "id": 10,
+    "grip": "open",
+    "success": true,
+    "step": 50,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s11_close_seed17_original/t0000_inputs.pt",
+    "id": 11,
+    "grip": "close",
+    "success": false,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s11_close_seed17_original/t0250_inputs.pt",
+    "id": 11,
+    "grip": "close",
+    "success": false,
+    "step": 250,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s11_open_seed17_original/t0000_inputs.pt",
+    "id": 11,
+    "grip": "open",
+    "success": true,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s11_open_seed17_original/t0050_inputs.pt",
+    "id": 11,
+    "grip": "open",
+    "success": true,
+    "step": 50,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s27_close_seed17_original/t0000_inputs.pt",
+    "id": 27,
+    "grip": "close",
+    "success": false,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s27_close_seed17_original/t0250_inputs.pt",
+    "id": 27,
+    "grip": "close",
+    "success": false,
+    "step": 250,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s27_open_seed17_original/t0000_inputs.pt",
+    "id": 27,
+    "grip": "open",
+    "success": true,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s27_open_seed17_original/t0050_inputs.pt",
+    "id": 27,
+    "grip": "open",
+    "success": true,
+    "step": 50,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s65_close_seed17_original/t0000_inputs.pt",
+    "id": 65,
+    "grip": "close",
+    "success": true,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s65_close_seed17_original/t0050_inputs.pt",
+    "id": 65,
+    "grip": "close",
+    "success": true,
+    "step": 50,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s65_open_seed17_original/t0000_inputs.pt",
+    "id": 65,
+    "grip": "open",
+    "success": false,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s65_open_seed17_original/t0250_inputs.pt",
+    "id": 65,
+    "grip": "open",
+    "success": false,
+    "step": 250,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s126_close_seed17_original/t0000_inputs.pt",
+    "id": 126,
+    "grip": "close",
+    "success": false,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s126_close_seed17_original/t0250_inputs.pt",
+    "id": 126,
+    "grip": "close",
+    "success": false,
+    "step": 250,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s126_open_seed17_original/t0000_inputs.pt",
+    "id": 126,
+    "grip": "open",
+    "success": true,
+    "step": 0,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s126_open_seed17_original/t0050_inputs.pt",
+    "id": 126,
+    "grip": "open",
+    "success": true,
+    "step": 50,
+    "level": "L4"
+  },
+  {
+    "input": "WORK/roll_1_frames/s405_close_seed17_original/t0000_inputs.pt",
+    "id": 405,
+    "grip": "close",
+    "success": true,
+    "step": 0,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s405_close_seed17_original/t0050_inputs.pt",
+    "id": 405,
+    "grip": "close",
+    "success": true,
+    "step": 50,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s405_open_seed17_original/t0000_inputs.pt",
+    "id": 405,
+    "grip": "open",
+    "success": false,
+    "step": 0,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s405_open_seed17_original/t0250_inputs.pt",
+    "id": 405,
+    "grip": "open",
+    "success": false,
+    "step": 250,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s620_close_seed17_original/t0000_inputs.pt",
+    "id": 620,
+    "grip": "close",
+    "success": true,
+    "step": 0,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s620_close_seed17_original/t0050_inputs.pt",
+    "id": 620,
+    "grip": "close",
+    "success": true,
+    "step": 50,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s620_open_seed17_original/t0000_inputs.pt",
+    "id": 620,
+    "grip": "open",
+    "success": false,
+    "step": 0,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s620_open_seed17_original/t0250_inputs.pt",
+    "id": 620,
+    "grip": "open",
+    "success": false,
+    "step": 250,
+    "level": "L2"
+  },
+  {
+    "input": "WORK/roll_1_frames/s647_close_seed17_original/t0000_inputs.pt",
+    "id": 647,
+    "grip": "close",
+    "success": false,
+    "step": 0,
+    "level": "L3"
+  },
+  {
+    "input": "WORK/roll_1_frames/s647_close_seed17_original/t0250_inputs.pt",
+    "id": 647,
+    "grip": "close",
+    "success": false,
+    "step": 250,
+    "level": "L3"
+  },
+  {
+    "input": "WORK/roll_1_frames/s647_open_seed17_original/t0000_inputs.pt",
+    "id": 647,
+    "grip": "open",
+    "success": true,
+    "step": 0,
+    "level": "L3"
+  },
+  {
+    "input": "WORK/roll_1_frames/s647_open_seed17_original/t0050_inputs.pt",
+    "id": 647,
+    "grip": "open",
+    "success": true,
+    "step": 50,
+    "level": "L3"
+  }
+]

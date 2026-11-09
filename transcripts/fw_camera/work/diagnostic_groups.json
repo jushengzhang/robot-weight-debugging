@@ -1,0 +1,192 @@
+[
+  {
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it",
+    "seed": 1100,
+    "ids": [
+      1080,
+      1067,
+      2372
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket",
+    "seed": 1101,
+    "ids": [
+      987,
+      1016,
+      2401
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate",
+    "seed": 1102,
+    "ids": [
+      938,
+      958,
+      2471
+    ]
+  },
+  {
+    "suite": "libero_10",
+    "task": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it",
+    "seed": 1103,
+    "ids": [
+      751,
+      774,
+      2261
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_top_of_the_cabinet",
+    "seed": 1104,
+    "ids": [
+      746,
+      761,
+      2562
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_the_plate",
+    "seed": 1105,
+    "ids": [
+      1046,
+      1029,
+      2457
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_bowl_on_top_of_the_cabinet",
+    "seed": 1106,
+    "ids": [
+      832,
+      858,
+      2472
+    ]
+  },
+  {
+    "suite": "libero_goal",
+    "task": "put_the_wine_bottle_on_the_rack",
+    "seed": 1107,
+    "ids": [
+      1089,
+      1058,
+      2510
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+    "seed": 1108,
+    "ids": [
+      656,
+      664,
+      2246
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_tomato_sauce_and_place_it_in_the_basket",
+    "seed": 1109,
+    "ids": [
+      848,
+      835,
+      2510
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_orange_juice_and_place_it_in_the_basket",
+    "seed": 1110,
+    "ids": [
+      1034,
+      1017,
+      2435
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_milk_and_place_it_in_the_basket",
+    "seed": 1111,
+    "ids": [
+      945,
+      933,
+      2420
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_ketchup_and_place_it_in_the_basket",
+    "seed": 1112,
+    "ids": [
+      800,
+      814,
+      2398
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
+    "seed": 1113,
+    "ids": [
+      990,
+      980,
+      2357
+    ]
+  },
+  {
+    "suite": "libero_object",
+    "task": "pick_up_the_butter_and_place_it_in_the_basket",
+    "seed": 1114,
+    "ids": [
+      892,
+      884,
+      2320
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+    "seed": 1115,
+    "ids": [
+      880,
+      876,
+      2352
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+    "seed": 1116,
+    "ids": [
+      956,
+      948,
+      2383
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate",
+    "seed": 1117,
+    "ids": [
+      819,
+      812,
+      2344
+    ]
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+    "seed": 1118,
+    "ids": [
+      627,
+      624,
+      2282
+    ]
+  }
+]

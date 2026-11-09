@@ -1,0 +1,32 @@
+[
+  {
+    "suite": "libero_spatial",
+    "id": 2342,
+    "difference": -1,
+    "prompt_equal": true,
+    "noise_equal": true,
+    "observation/image": {
+      "equal": true,
+      "mean_abs_pixel_difference": 0.0
+    },
+    "observation/wrist_image": {
+      "equal": true,
+      "mean_abs_pixel_difference": 0.0
+    }
+  },
+  {
+    "suite": "libero_goal",
+    "id": 2503,
+    "difference": -1,
+    "prompt_equal": true,
+    "noise_equal": true,
+    "observation/image": {
+      "equal": true,
+      "mean_abs_pixel_difference": 0.0
+    },
+    "observation/wrist_image": {
+      "equal": false,
+      "mean_abs_pixel_difference": 0.0002923044217687075
+    }
+  }
+]

@@ -1,0 +1,4 @@
+I will first check the key edit on four fixed observations. One position failure is especially informative: the instruction asks for salad dressing, but the robot moves the tomato sauce. The probe will show whether the edit changes the relevant late visual attention, rather than merely feeding more weight into BOS.
+```forward
+{"type":"probe","model":"both","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_task_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_task_2_i1_s17_orig_frames/t0050_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_semantic_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1496_seed17_original/t0000_inputs.pt"],"return":{"layers":[13,14,15,17],"what":"attn_maps"}}
+```

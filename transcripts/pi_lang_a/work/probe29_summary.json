@@ -1,0 +1,98 @@
+{
+  "(0, 1)": {
+    "action_rms_orig_to_literal": 0.2756286027449037,
+    "action_rms_edit_to_literal": 0.020891698166653205,
+    "expert_rms_by_layer": [
+      [
+        0,
+        0.2424,
+        0.0231
+      ],
+      [
+        3,
+        0.9789,
+        0.0985
+      ],
+      [
+        6,
+        0.9692,
+        0.1419
+      ],
+      [
+        9,
+        1.0251,
+        0.2303
+      ],
+      [
+        12,
+        1.4095,
+        0.4249
+      ],
+      [
+        17,
+        7.9448,
+        1.6011
+      ]
+    ]
+  },
+  "(2, 3)": {
+    "action_rms_orig_to_literal": 0.015778234920687806,
+    "action_rms_edit_to_literal": 0.015289528264671679,
+    "expert_rms_by_layer": [
+      [
+        0,
+        0.023,
+        0.0214
+      ],
+      [
+        3,
+        0.1126,
+        0.1073
+      ],
+      [
+        6,
+        0.1937,
+        0.1897
+      ],
+      [
+        9,
+        0.3739,
+        0.3575
+      ],
+      [
+        12,
+        0.4914,
+        0.4679
+      ],
+      [
+        17,
+        1.7477,
+        1.7063
+      ]
+    ]
+  },
+  "unexposed_1": {
+    "action_exact": true,
+    "activations_exact": true
+  },
+  "unexposed_3": {
+    "action_exact": true,
+    "activations_exact": true
+  },
+  "unexposed_4": {
+    "action_exact": true,
+    "activations_exact": true
+  },
+  "unexposed_5": {
+    "action_exact": true,
+    "activations_exact": true
+  },
+  "unexposed_6": {
+    "action_exact": true,
+    "activations_exact": true
+  },
+  "unexposed_7": {
+    "action_exact": true,
+    "activations_exact": true
+  }
+}

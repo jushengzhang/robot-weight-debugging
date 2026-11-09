@@ -1,0 +1,9 @@
+{
+  "mechanism": "Remove final-residual camera contrast orthogonal to control and action-encoder subspaces",
+  "rank": 2,
+  "alpha": 1.0,
+  "weight_relative_change": 0.04173559695482254,
+  "protected_subspace_rank": 79,
+  "protected_linear_error_max": 1.7171259969472885e-09,
+  "encoder_mapping_error_max": 5.966285243630409e-09
+}

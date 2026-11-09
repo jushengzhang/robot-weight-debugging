@@ -1,0 +1,8 @@
+{
+  "diagnosis": "Matched task/seed camera-light rollouts; first-input probes to avoid trajectory confounding.",
+  "localization": "Compare layer shifts and per-head camera attention; candidate list is not fixed by weight norms.",
+  "causality": "Reversible localized edits at several doses, plus a matched negative-control edit.",
+  "selection": "Use discovery variants only; preserve untouched validation variants.",
+  "confirmation": "Paired original/edited camera rollouts, then all six noncamera categories and additional seeds.",
+  "forbidden": "No optimization, training, local network forward, schedule changes, or whole-tensor scaling."
+}

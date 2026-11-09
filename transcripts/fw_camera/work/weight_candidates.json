@@ -1,0 +1,82 @@
+[
+  {
+    "layer": 29,
+    "head": 4,
+    "action_q_top4_fraction": 0.5351,
+    "action_q_condition_top_to_median": 9.963,
+    "video_k_top4_fraction": 0.3654,
+    "video_k_condition_top_to_median": 7.499,
+    "video_v_top4_fraction": 0.0548,
+    "video_v_condition_top_to_median": 1.39
+  },
+  {
+    "layer": 29,
+    "head": 7,
+    "action_q_top4_fraction": 0.4916,
+    "action_q_condition_top_to_median": 8.564,
+    "video_k_top4_fraction": 0.386,
+    "video_k_condition_top_to_median": 7.326,
+    "video_v_top4_fraction": 0.0581,
+    "video_v_condition_top_to_median": 1.441
+  },
+  {
+    "layer": 29,
+    "head": 8,
+    "action_q_top4_fraction": 0.5218,
+    "action_q_condition_top_to_median": 8.275,
+    "video_k_top4_fraction": 0.4223,
+    "video_k_condition_top_to_median": 8.931,
+    "video_v_top4_fraction": 0.0573,
+    "video_v_condition_top_to_median": 1.45
+  },
+  {
+    "layer": 29,
+    "head": 17,
+    "action_q_top4_fraction": 0.5756,
+    "action_q_condition_top_to_median": 10.382,
+    "video_k_top4_fraction": 0.4334,
+    "video_k_condition_top_to_median": 8.878,
+    "video_v_top4_fraction": 0.0607,
+    "video_v_condition_top_to_median": 1.473
+  },
+  {
+    "layer": 29,
+    "head": 0,
+    "action_q_top4_fraction": 0.2295,
+    "action_q_condition_top_to_median": 4.282,
+    "video_k_top4_fraction": 0.1908,
+    "video_k_condition_top_to_median": 3.954,
+    "video_v_top4_fraction": 0.0809,
+    "video_v_condition_top_to_median": 1.863
+  },
+  {
+    "layer": 18,
+    "head": 10,
+    "action_q_top4_fraction": 0.1052,
+    "action_q_condition_top_to_median": 2.234,
+    "video_k_top4_fraction": 0.0982,
+    "video_k_condition_top_to_median": 2.236,
+    "video_v_top4_fraction": 0.0499,
+    "video_v_condition_top_to_median": 1.355
+  },
+  {
+    "layer": 5,
+    "head": 4,
+    "action_q_top4_fraction": 0.4599,
+    "action_q_condition_top_to_median": 9.943,
+    "video_k_top4_fraction": 0.3397,
+    "video_k_condition_top_to_median": 7.269,
+    "video_v_top4_fraction": 0.0678,
+    "video_v_condition_top_to_median": 1.627
+  },
+  {
+    "layer": 12,
+    "head": 21,
+    "action_q_top4_fraction": 0.5653,
+    "action_q_condition_top_to_median": 13.191,
+    "video_k_top4_fraction": 0.3837,
+    "video_k_condition_top_to_median": 7.928,
+    "video_v_top4_fraction": 0.1088,
+    "video_v_condition_top_to_median": 2.392
+  }
+]

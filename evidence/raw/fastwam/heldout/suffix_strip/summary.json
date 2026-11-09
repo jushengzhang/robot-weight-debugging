@@ -1,0 +1,78 @@
+{
+ "suffix": {
+  "Background Textures": {
+   "acc": 58.333333333333336,
+   "gain": 1,
+   "loss": 0,
+   "p": 1.0
+  },
+  "Camera Viewpoints": {
+   "acc": 28.333333333333332,
+   "gain": 3,
+   "loss": 4,
+   "p": 1.0
+  },
+  "Language Instructions": {
+   "acc": 80.0,
+   "gain": 0,
+   "loss": 3,
+   "p": 0.25
+  },
+  "Light Conditions": {
+   "acc": 95.0,
+   "gain": 2,
+   "loss": 2,
+   "p": 1.0
+  },
+  "Objects Layout": {
+   "acc": 81.66666666666667,
+   "gain": 0,
+   "loss": 1,
+   "p": 1.0
+  },
+  "Robot Initial States": {
+   "acc": 73.33333333333333,
+   "gain": 3,
+   "loss": 0,
+   "p": 0.25
+  },
+  "Sensor Noise": {
+   "acc": 71.66666666666667,
+   "gain": 5,
+   "loss": 2,
+   "p": 0.453125
+  },
+  "ALL": {
+   "acc": 69.76190476190476,
+   "gain": 14,
+   "loss": 12,
+   "p": 0.8450189828872681
+  }
+ },
+ "original": {
+  "Background Textures": {
+   "acc": 56.666666666666664
+  },
+  "Camera Viewpoints": {
+   "acc": 30.0
+  },
+  "Language Instructions": {
+   "acc": 85.0
+  },
+  "Light Conditions": {
+   "acc": 95.0
+  },
+  "Objects Layout": {
+   "acc": 83.33333333333333
+  },
+  "Robot Initial States": {
+   "acc": 68.33333333333333
+  },
+  "Sensor Noise": {
+   "acc": 66.66666666666667
+  },
+  "ALL": {
+   "acc": 69.28571428571429
+  }
+ }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "run": "fw_camera",
+    "source": "/mnt/SSD2_16TB/jusheng/wsp/runs/fw_camera",
+    "exported_files": 245
+  },
+  {
+    "run": "fw_background",
+    "source": "/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background",
+    "exported_files": 261
+  },
+  {
+    "run": "fw_language",
+    "source": "/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language",
+    "exported_files": 231
+  },
+  {
+    "run": "fw_suffix",
+    "source": "/mnt/SSD2_16TB/jusheng/wsp/runs/fw_suffix",
+    "exported_files": 188
+  },
+  {
+    "run": "fw_suffix2_a",
+    "source": "/mnt/SSD2_16TB/jusheng/wsp/runs/fw_suffix2_a",
+    "exported_files": 226
+  },
+  {
+    "run": "fw_suffix2_b",
+    "source": "/mnt/SSD2_16TB/jusheng/wsp/runs/fw_suffix2_b",
+    "exported_files": 215
+  },
+  {
+    "run": "fw_suffix2_c",
+    "source": "/mnt/SSD2_16TB/jusheng/wsp/runs/fw_suffix2_c",
+    "exported_files": 221
+  },
+  {
+    "run": "pi_lang_a",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_wsp/pi_lang_a",
+    "exported_files": 174
+  },
+  {
+    "run": "pi_lang_b",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_wsp/pi_lang_b",
+    "exported_files": 128
+  },
+  {
+    "run": "pi_lang_c",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_wsp/pi_lang_c",
+    "exported_files": 140
+  },
+  {
+    "run": "rec_a",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_recover/rec_a",
+    "exported_files": 182
+  },
+  {
+    "run": "rec_b",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_recover/rec_b",
+    "exported_files": 148
+  },
+  {
+    "run": "rec_c",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_recover/rec_c",
+    "exported_files": 168
+  },
+  {
+    "run": "pro_a",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_pro/pro_a",
+    "exported_files": 120
+  },
+  {
+    "run": "pro_b",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_pro/pro_b",
+    "exported_files": 150
+  },
+  {
+    "run": "pro_c",
+    "source": "/mnt/SSD2_16TB/jusheng/Documents/Codex/2026-11-04/120-mnt-ssd2-16tb-jusheng-wsp/work/new-results-revision/remote186/runs_pro/pro_c",
+    "exported_files": 122
+  }
+]

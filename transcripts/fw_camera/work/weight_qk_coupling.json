@@ -1,0 +1,182 @@
+[
+  {
+    "layer": 23,
+    "head": 3,
+    "qk_top4_subspace_overlap": 0.0118,
+    "qk_top4_energy": 0.5909,
+    "bias_only_logit_proxy": 0.015,
+    "q_bias_key_weight_coupling": 0.1192,
+    "k_bias_query_weight_coupling": 0.222
+  },
+  {
+    "layer": 18,
+    "head": 7,
+    "qk_top4_subspace_overlap": 0.0994,
+    "qk_top4_energy": 0.6823,
+    "bias_only_logit_proxy": 0.0092,
+    "q_bias_key_weight_coupling": 0.0812,
+    "k_bias_query_weight_coupling": 0.325
+  },
+  {
+    "layer": 16,
+    "head": 13,
+    "qk_top4_subspace_overlap": 0.0174,
+    "qk_top4_energy": 0.5166,
+    "bias_only_logit_proxy": 0.003,
+    "q_bias_key_weight_coupling": 0.1172,
+    "k_bias_query_weight_coupling": 0.2079
+  },
+  {
+    "layer": 29,
+    "head": 17,
+    "qk_top4_subspace_overlap": 0.4423,
+    "qk_top4_energy": 0.9994,
+    "bias_only_logit_proxy": 1.0109,
+    "q_bias_key_weight_coupling": 7.3637,
+    "k_bias_query_weight_coupling": 12.4909
+  },
+  {
+    "layer": 12,
+    "head": 21,
+    "qk_top4_subspace_overlap": 0.0687,
+    "qk_top4_energy": 0.6448,
+    "bias_only_logit_proxy": 0.0106,
+    "q_bias_key_weight_coupling": 0.1728,
+    "k_bias_query_weight_coupling": 0.4736
+  },
+  {
+    "layer": 24,
+    "head": 1,
+    "qk_top4_subspace_overlap": 0.0484,
+    "qk_top4_energy": 0.5145,
+    "bias_only_logit_proxy": 0.0055,
+    "q_bias_key_weight_coupling": 0.0882,
+    "k_bias_query_weight_coupling": 0.1181
+  },
+  {
+    "layer": 29,
+    "head": 4,
+    "qk_top4_subspace_overlap": 0.409,
+    "qk_top4_energy": 0.9993,
+    "bias_only_logit_proxy": 1.02,
+    "q_bias_key_weight_coupling": 7.5572,
+    "k_bias_query_weight_coupling": 12.5628
+  },
+  {
+    "layer": 29,
+    "head": 8,
+    "qk_top4_subspace_overlap": 0.3859,
+    "qk_top4_energy": 0.9991,
+    "bias_only_logit_proxy": 0.87,
+    "q_bias_key_weight_coupling": 7.0664,
+    "k_bias_query_weight_coupling": 11.3591
+  },
+  {
+    "layer": 13,
+    "head": 1,
+    "qk_top4_subspace_overlap": 0.0397,
+    "qk_top4_energy": 0.5782,
+    "bias_only_logit_proxy": -0.0013,
+    "q_bias_key_weight_coupling": 0.117,
+    "k_bias_query_weight_coupling": 0.2362
+  },
+  {
+    "layer": 15,
+    "head": 16,
+    "qk_top4_subspace_overlap": 0.0419,
+    "qk_top4_energy": 0.4698,
+    "bias_only_logit_proxy": 0.0096,
+    "q_bias_key_weight_coupling": 0.1105,
+    "k_bias_query_weight_coupling": 0.1951
+  },
+  {
+    "layer": 22,
+    "head": 10,
+    "qk_top4_subspace_overlap": 0.0369,
+    "qk_top4_energy": 0.5267,
+    "bias_only_logit_proxy": 0.0103,
+    "q_bias_key_weight_coupling": 0.0746,
+    "k_bias_query_weight_coupling": 0.2164
+  },
+  {
+    "layer": 29,
+    "head": 7,
+    "qk_top4_subspace_overlap": 0.4998,
+    "qk_top4_energy": 0.9986,
+    "bias_only_logit_proxy": 0.4922,
+    "q_bias_key_weight_coupling": 4.1385,
+    "k_bias_query_weight_coupling": 9.3197
+  },
+  {
+    "layer": 21,
+    "head": 23,
+    "qk_top4_subspace_overlap": 0.1054,
+    "qk_top4_energy": 0.6477,
+    "bias_only_logit_proxy": 0.0194,
+    "q_bias_key_weight_coupling": 0.0936,
+    "k_bias_query_weight_coupling": 0.3495
+  },
+  {
+    "layer": 9,
+    "head": 11,
+    "qk_top4_subspace_overlap": 0.1339,
+    "qk_top4_energy": 0.6473,
+    "bias_only_logit_proxy": 0.0169,
+    "q_bias_key_weight_coupling": 0.1766,
+    "k_bias_query_weight_coupling": 0.4338
+  },
+  {
+    "layer": 5,
+    "head": 4,
+    "qk_top4_subspace_overlap": 0.1736,
+    "qk_top4_energy": 0.7175,
+    "bias_only_logit_proxy": 0.0133,
+    "q_bias_key_weight_coupling": 0.1957,
+    "k_bias_query_weight_coupling": 0.3574
+  },
+  {
+    "layer": 14,
+    "head": 16,
+    "qk_top4_subspace_overlap": 0.0485,
+    "qk_top4_energy": 0.4612,
+    "bias_only_logit_proxy": 0.0115,
+    "q_bias_key_weight_coupling": 0.1055,
+    "k_bias_query_weight_coupling": 0.22
+  },
+  {
+    "layer": 17,
+    "head": 14,
+    "qk_top4_subspace_overlap": 0.0453,
+    "qk_top4_energy": 0.4404,
+    "bias_only_logit_proxy": 0.0106,
+    "q_bias_key_weight_coupling": 0.1076,
+    "k_bias_query_weight_coupling": 0.2268
+  },
+  {
+    "layer": 17,
+    "head": 3,
+    "qk_top4_subspace_overlap": 0.0125,
+    "qk_top4_energy": 0.4157,
+    "bias_only_logit_proxy": 0.0026,
+    "q_bias_key_weight_coupling": 0.0737,
+    "k_bias_query_weight_coupling": 0.1027
+  },
+  {
+    "layer": 26,
+    "head": 20,
+    "qk_top4_subspace_overlap": 0.1086,
+    "qk_top4_energy": 0.6516,
+    "bias_only_logit_proxy": 0.0219,
+    "q_bias_key_weight_coupling": 0.1223,
+    "k_bias_query_weight_coupling": 0.3163
+  },
+  {
+    "layer": 25,
+    "head": 17,
+    "qk_top4_subspace_overlap": 0.1216,
+    "qk_top4_energy": 0.7461,
+    "bias_only_logit_proxy": 0.0151,
+    "q_bias_key_weight_coupling": 0.1041,
+    "k_bias_query_weight_coupling": 0.233
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "paired": {
+    "n": 128,
+    "original_successes": 90,
+    "edited_successes": 90,
+    "diff_pp": 0.0,
+    "se_pp": 2.4802,
+    "rescues": 5,
+    "regressions": 5
+  },
+  "activation_changes": {
+    "22": {
+      "n": 128,
+      "original_ch1938": 63.59206336736679,
+      "edited_ch1938": 63.65883031487465,
+      "mean_residual_shift_rms": 0.016790282134934387
+    },
+    "23": {
+      "n": 128,
+      "original_ch1938": 57.15802678465843,
+      "edited_ch1938": 56.453788965940475,
+      "mean_residual_shift_rms": 0.022369916183379246
+    },
+    "24": {
+      "n": 128,
+      "original_ch1938": 43.19974163174629,
+      "edited_ch1938": 43.161019027233124,
+      "mean_residual_shift_rms": 0.015026395249151392
+    }
+  }
+}

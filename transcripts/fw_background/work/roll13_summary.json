@@ -1,0 +1,16 @@
+{
+  "Background Textures": {
+    "n": 65,
+    "gain_pp": -3.076923076923077,
+    "se_pp": 4.36839103523098,
+    "rescues": 3,
+    "regressions": 5
+  },
+  "Light Conditions": {
+    "n": 37,
+    "gain_pp": -2.7027027027027026,
+    "se_pp": 4.72436418094663,
+    "rescues": 1,
+    "regressions": 2
+  }
+}

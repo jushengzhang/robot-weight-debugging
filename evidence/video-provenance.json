@@ -1,0 +1,26 @@
+{
+  "suite": "libero_goal",
+  "variant_id": 697,
+  "seed": 7,
+  "init_idx": 0,
+  "instruction": "open the middle drawer of the cabinet view 0 0 100 2 354 initstate 0",
+  "source": "heldout/suffix_raw",
+  "selection": "selected from original-failure / candidate-success pairs; illustrative, not an estimate",
+  "replay": "saved executed actions; matched initial images and terminal predicates verified",
+  "initial_images_identical": true,
+  "original": {
+    "success": false,
+    "steps": 400,
+    "action_sha1": "a945c8fb18c4ca13",
+    "actions_sha256": "7c1d544647341f7ef8ee5699cd73fc1ca93ddcdcc9e95472b6f78a1ce8bf3ce3"
+  },
+  "candidate": {
+    "success": true,
+    "steps": 141,
+    "action_sha1": "e67c240f3f2347f2",
+    "actions_sha256": "bc443173ec1ab7e831a0275a0e1bb555a760037faa8b5aeb0fbfadb17b0b92e6"
+  },
+  "candidate_status": "editor requested withdrawal; final cleanup did not execute",
+  "video_fps": 10,
+  "policy_steps_per_frame": 2
+}

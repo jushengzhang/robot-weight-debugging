@@ -1,0 +1,4 @@
+I will probe the positional-row edit before rollout. This checks whether changing the upstream register embeddings actually changes the downstream visual attention and actions; it also lets us distinguish this intervention from simply scaling a register-reading head.
+```forward
+{"type":"probe","model":"both","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_task_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_task_2_i1_s17_orig_frames/t0050_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_semantic_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/roll_1_frames/e1496_seed17_original/t0000_inputs.pt"],"return":{"layers":[3,9,14,17],"what":"attn_maps"}}
+```

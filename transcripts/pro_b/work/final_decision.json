@@ -1,0 +1,88 @@
+{
+  "final_selection": "original_checkpoint_no_active_edits",
+  "rejected_candidate": "environment_projector_rank2_beta0.5",
+  "confirmation_passes": [
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "seed": 43,
+  "overall": {
+    "n": 640,
+    "original": 373,
+    "edited": 379,
+    "wins": 21,
+    "losses": 15,
+    "delta_pp": 0.9375,
+    "paired_se_pp": 0.9374999999999999
+  },
+  "by_ptype": {
+    "environment": {
+      "n": 128,
+      "original": 78,
+      "edited": 78,
+      "wins": 5,
+      "losses": 5,
+      "delta_pp": 0.0,
+      "paired_se_pp": 2.480236844164203
+    },
+    "object": {
+      "n": 128,
+      "original": 111,
+      "edited": 112,
+      "wins": 3,
+      "losses": 2,
+      "delta_pp": 0.78125,
+      "paired_se_pp": 1.7524216055960515
+    },
+    "position": {
+      "n": 128,
+      "original": 30,
+      "edited": 33,
+      "wins": 6,
+      "losses": 3,
+      "delta_pp": 2.34375,
+      "paired_se_pp": 2.3437499999999996
+    },
+    "semantic": {
+      "n": 128,
+      "original": 117,
+      "edited": 118,
+      "wins": 4,
+      "losses": 3,
+      "delta_pp": 0.78125,
+      "paired_se_pp": 2.0739567122748155
+    },
+    "task": {
+      "n": 128,
+      "original": 37,
+      "edited": 38,
+      "wins": 3,
+      "losses": 2,
+      "delta_pp": 0.78125,
+      "paired_se_pp": 1.7524216055960515
+    }
+  },
+  "cluster_grouping": [
+    "suite",
+    "task",
+    "init_idx"
+  ],
+  "cluster_count": 410,
+  "cluster_se_pp": 0.9383459028983206,
+  "acceptance_checks": {
+    "overall_gt_two_SE": false,
+    "object_plus_semantic_nonnegative": true,
+    "object_drop_at_most_2pp": true,
+    "semantic_drop_at_most_2pp": true,
+    "environment_nonnegative": true
+  },
+  "removed_tensors": [
+    "paligemma_with_expert.paligemma.model.multi_modal_projector.linear.bias",
+    "paligemma_with_expert.paligemma.model.multi_modal_projector.linear.weight"
+  ],
+  "active_edits": [],
+  "original_task_validation": "No unperturbed practice episodes were available."
+}

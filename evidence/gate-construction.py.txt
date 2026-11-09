@@ -1,0 +1,116 @@
+# Executed editor code, turn 63
+gate_u = dirs[0].clone()
+gate_designs={}
+def make_gate_design(exp):
+    p=f"mot.mixtures.{exp}."
+    w0=load_original(p+"text_embedding.0.weight")
+    w2=load_original(p+"text_embedding.2.weight")
+    b2=load_original(p+"text_embedding.2.bias")
+    hidden=int((w2.norm(dim=0)*w0.norm(dim=1)).argmin())
+    channel=int((w2.square().sum(dim=1)+b2.square()).argmin())
+    layers=[]
+    for i in range(30):
+        q=f"{p}blocks.{i}."
+        qw=load_original(q+"cross_attn.q.weight")
+        kw=load_original(q+"cross_attn.k.weight")
+        qb=load_original(q+"cross_attn.q.bias")
+        kb=load_original(q+"cross_attn.k.bias")
+        nq=load_original(q+"cross_attn.norm_q.weight")
+        nk=load_original(q+"cross_attn.norm_k.weight")
+        lnw=load_original(q+"norm3.weight")
+        lnb=load_original(q+"norm3.bias")
+        qeff=qw*lnw[None,:]
+        qconst=qw@lnb+qb
+        qenergy=qeff.square().sum(dim=1)+qconst.square()
+        kenergy=kw.square().sum(dim=1)+kb.square()
+        score=(qenergy*kenergy).sqrt()*nq.abs()*nk.abs()
+        coords=(score.reshape(24,128).argmin(dim=1)+128*torch.arange(24)).tolist()
+        layers.append({"coords":coords, "q_bias_scale":float(qenergy.mean().sqrt())})
+    return {"hidden":hidden,"channel":channel,"layers":layers}
+for exp in ["action","video"]:
+    gate_designs[exp]=make_gate_design(exp)
+torch.save({"u":gate_u,"designs":gate_designs},W/"attention_gate_design.pt")
+
+def apply_attention_gate(experts=("action",), strength=6., threshold=.5, key_gain=64., detector_gain=32.):
+    for n in list(edited()):
+        drop_edit(n)
+    dsg=torch.load(W/"attention_gate_design.pt",map_location="cpu",weights_only=True)
+    u=dsg["u"]
+    for exp in experts:
+        p=f"mot.mixtures.{exp}."
+        des=dsg["designs"][exp]; j=des["hidden"]; d=des["channel"]
+        w=load_original(p+"text_embedding.0.weight"); w[j]=detector_gain*u
+        b=load_original(p+"text_embedding.0.bias"); b[j]=-detector_gain*threshold
+        save_edit(p+"text_embedding.0.weight",w); save_edit(p+"text_embedding.0.bias",b)
+        w=load_original(p+"text_embedding.2.weight")
+        w[:,j]=0; w[d]=0; w[d,j]=1/detector_gain
+        b=load_original(p+"text_embedding.2.bias"); b[d]=0
+        save_edit(p+"text_embedding.2.weight",w); save_edit(p+"text_embedding.2.bias",b)
+        for i,ld in enumerate(des["layers"]):
+            q=f"{p}blocks.{i}.cross_attn."
+            ix=torch.tensor(ld["coords"])
+            qw=load_original(q+"q.weight"); qw[ix]=0
+            qb=load_original(q+"q.bias"); qb[ix]=ld["q_bias_scale"]
+            kw=load_original(q+"k.weight"); kw[ix]=0; kw[ix,d]=-key_gain
+            kb=load_original(q+"k.bias"); kb[ix]=0
+            nq=load_original(q+"norm_q.weight")
+            nk=load_original(q+"norm_k.weight")
+            nq[ix]=strength/nk[ix]
+            for suffix,t in [("q.weight",qw),("q.bias",qb),("k.weight",kw),
+                             ("k.bias",kb),("norm_q.weight",nq)]:
+                save_edit(q+suffix,t)
+    state={"name":"selective_context_attention_gate","experts":list(experts),
+           "strength":strength,"threshold":threshold,"key_gain":key_gain,
+           "detector_gain":detector_gain,"edited_count":len(edited())}
+    (W/"current_edit.json").write_text(json.dumps(state,indent=2))
+    return state
+
+print("Gate placements:", {exp:{k:v for k,v in des.items() if k!="layers"} for exp,des in gate_designs.items()})
+print("Proprio detector overlap:",float((P.float().T@gate_u).abs().max()))
+print(json.dumps(apply_attention_gate(("action",),6.),indent=2))
+with (W/"notes.md").open("a") as f:
+    f.write("\n### Pass 23: selective detector found\n"
+            "Protected mean contrast, threshold .5, GELU gain32: mean response raw=.1304, "
+            "minimum raw=.00247; all 56 clean/paraphrase responses effectively zero. "
+            "Instrumentation removed. New action-only attention gate: one low-cost text hidden neuron/output channel, "
+            "one low-weight-energy q/k coordinate per head, constant query and negative detector key, "
+            "q norm gain strength6, key gain64. Video, self-attn, MLPs and action head unchanged. "
+            "Gate detector exactly orthogonal to proprio span. Candidate not yet evaluated.\n")
+
+
+# Executed editor code, turn 97
+def apply_single_gate(threshold=0.5, strength=6.0, gain=32.0,
+                      experts=("action","video")):
+    for n in list(edited()): drop_edit(n)
+    for f in sorted((W/"fwd/probe_25_weights").glob("*.npy")):
+        n=f.name[:-4]
+        ex="action" if ".action." in n else "video"
+        if ex not in experts: continue
+        x=torch.from_numpy(np.load(f)).float()
+        de=gate["designs"][ex]
+        h,j=de["hidden"],de["channel"]
+        if n.endswith("text_embedding.0.weight"):
+            x[h]=gain*gate["u"]
+        elif n.endswith("text_embedding.0.bias"):
+            x[h]=-gain*threshold
+        elif n.endswith("text_embedding.2.weight"):
+            x[j,h]=1.0/gain
+        elif n.endswith("cross_attn.norm_q.weight"):
+            layer=int(n.split(".blocks.")[1].split(".")[0])
+            co=de["layers"][layer]["coords"]
+            x[co]*=strength/6.0
+        save_edit(n,x)
+    meta={"name":"single_selective_context_attention_gate",
+          "threshold":threshold,"strength":strength,"detector_gain":gain,
+          "key_gain":64.0,"experts":list(experts),"edited_count":len(edited())}
+    (W/"current_edit.json").write_text(json.dumps(meta,indent=2))
+    return meta
+meta=apply_single_gate(threshold=1.0,strength=6.0,gain=32.0)
+(W/"candidate_single_threshold1.json").write_text(json.dumps(meta,indent=2))
+with (W/"notes.md").open("a") as f:
+    f.write("\n### Four-detector gate rejected after pass32\n"
+            "Tag action gap ratio1.0224; background ratio1.8667. Clean/language drift "
+            ".00136/.00147, but no overall tag improvement. Restored the original "
+            "single-detector architecture, changed only threshold.5->1.0 "
+            "(strength6,gain32,both experts), for an isolated selectivity test.\n")
+print(json.dumps(meta,indent=2))

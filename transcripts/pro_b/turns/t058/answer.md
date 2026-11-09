@@ -1,0 +1,4 @@
+I will probe the same matched observations so that changes in noun attention and action are attributable to the query-shift edit, not different scenes or noise. The intended result is more attention to the requested object without restoring the BOS sink.
+```forward
+{"type":"probe","model":"both","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_task_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_semantic_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_goal_task_8_i32_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/b/work/fwd/roll_1/artifacts/libero_goal_semantic_8_i32_s17_orig_frames/t0000_inputs.pt"],"return":{"layers":[6,9,12,15],"what":"attn_maps"}}
+```

@@ -1,0 +1,1082 @@
+[
+  {
+    "layer": 14,
+    "head": 8,
+    "transfer": 0.31095941295976814,
+    "contrast_alignment": 0.3091450333595276,
+    "video_mass": 0.9290501475334167,
+    "retained_nuisance": 0.8774341577536883,
+    "score": 0.08931103822883213
+  },
+  {
+    "layer": 14,
+    "head": 6,
+    "transfer": 0.37126541698342663,
+    "contrast_alignment": 0.23668284714221954,
+    "video_mass": 0.9788469672203064,
+    "retained_nuisance": 0.9443559204446889,
+    "score": 0.08601339334212135
+  },
+  {
+    "layer": 20,
+    "head": 15,
+    "transfer": 0.2899415457248615,
+    "contrast_alignment": 0.2562989890575409,
+    "video_mass": 0.990914523601532,
+    "retained_nuisance": 0.7575494041241274,
+    "score": 0.07363656763094556
+  },
+  {
+    "layer": 25,
+    "head": 5,
+    "transfer": 0.41332352728334243,
+    "contrast_alignment": 0.1766943782567978,
+    "video_mass": null,
+    "retained_nuisance": 0.8540998752418387,
+    "score": 0.07303194367223678
+  },
+  {
+    "layer": 14,
+    "head": 7,
+    "transfer": 0.34503678706918883,
+    "contrast_alignment": 0.20519083738327026,
+    "video_mass": 0.9975565671920776,
+    "retained_nuisance": 0.9562908855242541,
+    "score": 0.07062539616456438
+  },
+  {
+    "layer": 10,
+    "head": 16,
+    "transfer": 0.2501753359868708,
+    "contrast_alignment": 0.28554975986480713,
+    "video_mass": 0.9857118725776672,
+    "retained_nuisance": 0.9315997953924332,
+    "score": 0.07041679891075336
+  },
+  {
+    "layer": 14,
+    "head": 5,
+    "transfer": 0.27964403103259805,
+    "contrast_alignment": 0.22926467657089233,
+    "video_mass": 0.9895280599594116,
+    "retained_nuisance": 0.9343744518501225,
+    "score": 0.06344111609130855
+  },
+  {
+    "layer": 10,
+    "head": 11,
+    "transfer": 0.26379264160973115,
+    "contrast_alignment": 0.21407200396060944,
+    "video_mass": 0.9962884187698364,
+    "retained_nuisance": 0.9651574448264554,
+    "score": 0.05626102412836502
+  },
+  {
+    "layer": 29,
+    "head": 0,
+    "transfer": 0.19365429521562483,
+    "contrast_alignment": 0.32414186000823975,
+    "video_mass": 0.8829118013381958,
+    "retained_nuisance": 0.9320559280798125,
+    "score": 0.055421665867077675
+  },
+  {
+    "layer": 10,
+    "head": 4,
+    "transfer": 0.4987488163707354,
+    "contrast_alignment": 0.12473896145820618,
+    "video_mass": 0.858683705329895,
+    "retained_nuisance": 0.7928756065211556,
+    "score": 0.053421640889852434
+  },
+  {
+    "layer": 14,
+    "head": 18,
+    "transfer": 0.23889720516166157,
+    "contrast_alignment": 0.21956181526184082,
+    "video_mass": 0.9934422969818115,
+    "retained_nuisance": 0.912630908850329,
+    "score": 0.05210873477076958
+  },
+  {
+    "layer": 10,
+    "head": 5,
+    "transfer": 0.22257097974307527,
+    "contrast_alignment": 0.2311723232269287,
+    "video_mass": 0.9999855160713196,
+    "retained_nuisance": 0.9393178085146228,
+    "score": 0.05145150523937415
+  },
+  {
+    "layer": 10,
+    "head": 19,
+    "transfer": 0.23431306179801936,
+    "contrast_alignment": 0.22165492177009583,
+    "video_mass": 0.9378734827041626,
+    "retained_nuisance": 0.8728685221677025,
+    "score": 0.04871000060915778
+  },
+  {
+    "layer": 14,
+    "head": 13,
+    "transfer": 0.25207208016096416,
+    "contrast_alignment": 0.20157776772975922,
+    "video_mass": 0.9306281208992004,
+    "retained_nuisance": 0.8388761340873934,
+    "score": 0.04728719447907838
+  },
+  {
+    "layer": 29,
+    "head": 8,
+    "transfer": 0.31824615050931193,
+    "contrast_alignment": 0.14725832641124725,
+    "video_mass": 1.0,
+    "retained_nuisance": 0.9485409373679844,
+    "score": 0.04686439551082318
+  },
+  {
+    "layer": 14,
+    "head": 11,
+    "transfer": 0.307048872635745,
+    "contrast_alignment": 0.17177671194076538,
+    "video_mass": 0.862019419670105,
+    "retained_nuisance": 0.9660082756230672,
+    "score": 0.045466219301556365
+  },
+  {
+    "layer": 29,
+    "head": 13,
+    "transfer": 0.25564520570044635,
+    "contrast_alignment": 0.17996296286582947,
+    "video_mass": 0.9004172682762146,
+    "retained_nuisance": 0.9316895346500912,
+    "score": 0.041425198917593345
+  },
+  {
+    "layer": 14,
+    "head": 14,
+    "transfer": 0.36586392608219853,
+    "contrast_alignment": 0.1536647230386734,
+    "video_mass": 0.7264231443405151,
+    "retained_nuisance": 0.962697961729898,
+    "score": 0.040839784395677724
+  },
+  {
+    "layer": 29,
+    "head": 17,
+    "transfer": 0.325147017321914,
+    "contrast_alignment": 0.11555444449186325,
+    "video_mass": 1.0,
+    "retained_nuisance": 0.9465016916184663,
+    "score": 0.037572182964820004
+  },
+  {
+    "layer": 10,
+    "head": 21,
+    "transfer": 0.21541271447055976,
+    "contrast_alignment": 0.17419156432151794,
+    "video_mass": 0.9997119307518005,
+    "retained_nuisance": 0.8923228476978321,
+    "score": 0.037512268463585706
+  },
+  {
+    "layer": 10,
+    "head": 6,
+    "transfer": 0.2838919013628072,
+    "contrast_alignment": 0.12524689733982086,
+    "video_mass": 0.9262703061103821,
+    "retained_nuisance": 0.957083725085584,
+    "score": 0.03293500407929125
+  },
+  {
+    "layer": 10,
+    "head": 3,
+    "transfer": 0.206862236129302,
+    "contrast_alignment": 0.15964408218860626,
+    "video_mass": 0.9907689094543457,
+    "retained_nuisance": 0.9657913688675493,
+    "score": 0.032719481229046436
+  },
+  {
+    "layer": 20,
+    "head": 7,
+    "transfer": 0.2215468520274726,
+    "contrast_alignment": 0.16804058849811554,
+    "video_mass": 0.8680769205093384,
+    "retained_nuisance": 0.8041539655260971,
+    "score": 0.03231751708964843
+  },
+  {
+    "layer": 10,
+    "head": 18,
+    "transfer": 0.22198618681374072,
+    "contrast_alignment": 0.1625281572341919,
+    "video_mass": 0.8903664946556091,
+    "retained_nuisance": 0.9298839145775862,
+    "score": 0.032123537990943904
+  },
+  {
+    "layer": 25,
+    "head": 12,
+    "transfer": 0.23367511051174183,
+    "contrast_alignment": 0.1355476677417755,
+    "video_mass": null,
+    "retained_nuisance": 0.8608322626706949,
+    "score": 0.03167411623916826
+  },
+  {
+    "layer": 10,
+    "head": 14,
+    "transfer": 0.25544692453669526,
+    "contrast_alignment": 0.11923544853925705,
+    "video_mass": 0.9996025562286377,
+    "retained_nuisance": 0.9182977645251026,
+    "score": 0.030446223152108452
+  },
+  {
+    "layer": 10,
+    "head": 13,
+    "transfer": 0.24744565490934178,
+    "contrast_alignment": 0.13486818969249725,
+    "video_mass": 0.9102799892425537,
+    "retained_nuisance": 0.9371627449774123,
+    "score": 0.030378362201960146
+  },
+  {
+    "layer": 25,
+    "head": 8,
+    "transfer": 0.18946087675773526,
+    "contrast_alignment": 0.15344731509685516,
+    "video_mass": null,
+    "retained_nuisance": 0.9033787064089146,
+    "score": 0.029072262854370645
+  },
+  {
+    "layer": 29,
+    "head": 7,
+    "transfer": 0.3008470804124421,
+    "contrast_alignment": 0.1010737493634224,
+    "video_mass": 0.9484435319900513,
+    "retained_nuisance": 0.9181071807481506,
+    "score": 0.028840026603904348
+  },
+  {
+    "layer": 25,
+    "head": 18,
+    "transfer": 0.23462973003927168,
+    "contrast_alignment": 0.11525801569223404,
+    "video_mass": null,
+    "retained_nuisance": 0.9491619117964915,
+    "score": 0.027042957106731012
+  },
+  {
+    "layer": 29,
+    "head": 6,
+    "transfer": 0.22462879249130907,
+    "contrast_alignment": 0.200461283326149,
+    "video_mass": 0.5968959331512451,
+    "retained_nuisance": 0.9080142197990276,
+    "score": 0.02687785141557893
+  },
+  {
+    "layer": 14,
+    "head": 15,
+    "transfer": 0.2502665239548172,
+    "contrast_alignment": 0.11822788417339325,
+    "video_mass": 0.8882128000259399,
+    "retained_nuisance": 0.9733133639142814,
+    "score": 0.026280868096321203
+  },
+  {
+    "layer": 20,
+    "head": 12,
+    "transfer": 0.21198739090796437,
+    "contrast_alignment": 0.1411256641149521,
+    "video_mass": 0.8746421933174133,
+    "retained_nuisance": 0.8683383738009535,
+    "score": 0.026166549207242706
+  },
+  {
+    "layer": 25,
+    "head": 14,
+    "transfer": 0.2542812311637306,
+    "contrast_alignment": 0.10016290843486786,
+    "video_mass": null,
+    "retained_nuisance": 0.9692214095208329,
+    "score": 0.025469547673758215
+  },
+  {
+    "layer": 10,
+    "head": 23,
+    "transfer": 0.28592340287309526,
+    "contrast_alignment": 0.0954168513417244,
+    "video_mass": 0.9237512946128845,
+    "retained_nuisance": 0.9513366793707217,
+    "score": 0.025201700446011888
+  },
+  {
+    "layer": 20,
+    "head": 13,
+    "transfer": 0.21982701911069213,
+    "contrast_alignment": 0.11614967882633209,
+    "video_mass": 0.9748292565345764,
+    "retained_nuisance": 0.9055538686131369,
+    "score": 0.024890157160195065
+  },
+  {
+    "layer": 25,
+    "head": 1,
+    "transfer": 0.16389239209245332,
+    "contrast_alignment": 0.15080925822257996,
+    "video_mass": null,
+    "retained_nuisance": 0.9782429714996477,
+    "score": 0.024716490079787115
+  },
+  {
+    "layer": 29,
+    "head": 12,
+    "transfer": 0.2551080326652482,
+    "contrast_alignment": 0.09568341076374054,
+    "video_mass": 0.9958416223526001,
+    "retained_nuisance": 0.9562815691800016,
+    "score": 0.024308102315844404
+  },
+  {
+    "layer": 25,
+    "head": 13,
+    "transfer": 0.2546335348080273,
+    "contrast_alignment": 0.09442933648824692,
+    "video_mass": null,
+    "retained_nuisance": 0.8963272097880534,
+    "score": 0.024044875739578944
+  },
+  {
+    "layer": 29,
+    "head": 4,
+    "transfer": 0.2277431663884748,
+    "contrast_alignment": 0.10463285446166992,
+    "video_mass": 1.0,
+    "retained_nuisance": 0.9255644872082154,
+    "score": 0.02382941758336516
+  },
+  {
+    "layer": 10,
+    "head": 0,
+    "transfer": 0.23989450402664403,
+    "contrast_alignment": 0.09288069605827332,
+    "video_mass": 0.9999909996986389,
+    "retained_nuisance": 0.9106924250093318,
+    "score": 0.02228136797371752
+  },
+  {
+    "layer": 29,
+    "head": 9,
+    "transfer": 0.20995964375192244,
+    "contrast_alignment": 0.12432986497879028,
+    "video_mass": 0.8534002304077148,
+    "retained_nuisance": 0.9124998568318237,
+    "score": 0.022277376513631743
+  },
+  {
+    "layer": 29,
+    "head": 3,
+    "transfer": 0.31688665424457696,
+    "contrast_alignment": 0.12011682987213135,
+    "video_mass": 0.5820888876914978,
+    "retained_nuisance": 0.9302998730693134,
+    "score": 0.022156294005491486
+  },
+  {
+    "layer": 25,
+    "head": 21,
+    "transfer": 0.18337654790877878,
+    "contrast_alignment": 0.11919558793306351,
+    "video_mass": null,
+    "retained_nuisance": 0.9184150946400248,
+    "score": 0.021857675441122472
+  },
+  {
+    "layer": 14,
+    "head": 16,
+    "transfer": 0.1740706652635815,
+    "contrast_alignment": 0.12485825270414352,
+    "video_mass": 0.9977880120277405,
+    "retained_nuisance": 0.8629170798091849,
+    "score": 0.02168608341331603
+  },
+  {
+    "layer": 20,
+    "head": 18,
+    "transfer": 0.22075376284521298,
+    "contrast_alignment": 0.10285436362028122,
+    "video_mass": 0.9498251676559448,
+    "retained_nuisance": 0.9600852424091812,
+    "score": 0.02156624375086154
+  },
+  {
+    "layer": 10,
+    "head": 2,
+    "transfer": 0.1930361273012693,
+    "contrast_alignment": 0.12913331389427185,
+    "video_mass": 0.7975190877914429,
+    "retained_nuisance": 0.9213523226774682,
+    "score": 0.019880073177647752
+  },
+  {
+    "layer": 14,
+    "head": 19,
+    "transfer": 0.2441694779761967,
+    "contrast_alignment": 0.08156012743711472,
+    "video_mass": 0.9895904064178467,
+    "retained_nuisance": 0.8880712167684839,
+    "score": 0.019707191953764722
+  },
+  {
+    "layer": 20,
+    "head": 19,
+    "transfer": 0.18126134012616646,
+    "contrast_alignment": 0.10904302448034286,
+    "video_mass": 0.9800320267677307,
+    "retained_nuisance": 0.9679693985541894,
+    "score": 0.01937061207192676
+  },
+  {
+    "layer": 14,
+    "head": 10,
+    "transfer": 0.251916774305613,
+    "contrast_alignment": 0.10716845840215683,
+    "video_mass": 0.712579607963562,
+    "retained_nuisance": 0.8691082544567746,
+    "score": 0.019237891016504763
+  },
+  {
+    "layer": 20,
+    "head": 10,
+    "transfer": 0.1768154101247088,
+    "contrast_alignment": 0.11637278646230698,
+    "video_mass": 0.9165816307067871,
+    "retained_nuisance": 0.9464083232176187,
+    "score": 0.018860043725951688
+  },
+  {
+    "layer": 25,
+    "head": 22,
+    "transfer": 0.2854418994279584,
+    "contrast_alignment": 0.061876080930233,
+    "video_mass": null,
+    "retained_nuisance": 0.942694289704134,
+    "score": 0.017662026069883784
+  },
+  {
+    "layer": 20,
+    "head": 5,
+    "transfer": 0.18703166007840366,
+    "contrast_alignment": 0.1110614761710167,
+    "video_mass": 0.8456224203109741,
+    "retained_nuisance": 0.802497540377685,
+    "score": 0.017565279281204528
+  },
+  {
+    "layer": 10,
+    "head": 20,
+    "transfer": 0.3132472455920521,
+    "contrast_alignment": 0.054179590195417404,
+    "video_mass": 0.9834641218185425,
+    "retained_nuisance": 0.8834625655103523,
+    "score": 0.016690966963576533
+  },
+  {
+    "layer": 29,
+    "head": 21,
+    "transfer": 0.24602277994051747,
+    "contrast_alignment": 0.12112186849117279,
+    "video_mass": 0.5489790439605713,
+    "retained_nuisance": 0.9255752071911174,
+    "score": 0.016358883136440495
+  },
+  {
+    "layer": 29,
+    "head": 14,
+    "transfer": 0.1938898569528078,
+    "contrast_alignment": 0.08810673654079437,
+    "video_mass": 0.9492290019989014,
+    "retained_nuisance": 0.9638425594661258,
+    "score": 0.016215681456435125
+  },
+  {
+    "layer": 20,
+    "head": 16,
+    "transfer": 0.16813118969607643,
+    "contrast_alignment": 0.0972956195473671,
+    "video_mass": 0.9908275604248047,
+    "retained_nuisance": 0.9173325600030926,
+    "score": 0.01620838157189404
+  },
+  {
+    "layer": 25,
+    "head": 7,
+    "transfer": 0.13635781663801172,
+    "contrast_alignment": 0.11789513379335403,
+    "video_mass": null,
+    "retained_nuisance": 0.9095604759656264,
+    "score": 0.01607592303630803
+  },
+  {
+    "layer": 14,
+    "head": 2,
+    "transfer": 0.2598625368730083,
+    "contrast_alignment": 0.07077368348836899,
+    "video_mass": 0.8728910684585571,
+    "retained_nuisance": 0.9151705142237938,
+    "score": 0.01605371405366953
+  },
+  {
+    "layer": 10,
+    "head": 10,
+    "transfer": 0.2146274551116143,
+    "contrast_alignment": 0.08704830706119537,
+    "video_mass": 0.8546690940856934,
+    "retained_nuisance": 0.9296299347681389,
+    "score": 0.01596774560611144
+  },
+  {
+    "layer": 25,
+    "head": 2,
+    "transfer": 0.1745281467231763,
+    "contrast_alignment": 0.08922917395830154,
+    "video_mass": null,
+    "retained_nuisance": 0.871114786678155,
+    "score": 0.015573002364582273
+  },
+  {
+    "layer": 10,
+    "head": 8,
+    "transfer": 0.2015838228637783,
+    "contrast_alignment": 0.096110038459301,
+    "video_mass": 0.7985084056854248,
+    "retained_nuisance": 0.9373973636839712,
+    "score": 0.015470484684790259
+  },
+  {
+    "layer": 14,
+    "head": 0,
+    "transfer": 0.18943158164236706,
+    "contrast_alignment": 0.10577273368835449,
+    "video_mass": 0.7566554546356201,
+    "retained_nuisance": 0.9544164245782976,
+    "score": 0.015160875500770936
+  },
+  {
+    "layer": 20,
+    "head": 11,
+    "transfer": 0.2203778004917254,
+    "contrast_alignment": 0.06907186657190323,
+    "video_mass": 0.9870734214782715,
+    "retained_nuisance": 0.77352690908732,
+    "score": 0.015025138867414209
+  },
+  {
+    "layer": 29,
+    "head": 15,
+    "transfer": 0.20838453120577682,
+    "contrast_alignment": 0.1919003576040268,
+    "video_mass": 0.3677998483181,
+    "retained_nuisance": 0.9250846149795175,
+    "score": 0.01470797243034424
+  },
+  {
+    "layer": 10,
+    "head": 15,
+    "transfer": 0.21320883048021955,
+    "contrast_alignment": 0.07046625018119812,
+    "video_mass": 0.9736772775650024,
+    "retained_nuisance": 0.9080986780289398,
+    "score": 0.01462855350242489
+  },
+  {
+    "layer": 10,
+    "head": 7,
+    "transfer": 0.31613966868699706,
+    "contrast_alignment": 0.047272369265556335,
+    "video_mass": 0.9388750195503235,
+    "retained_nuisance": 0.9423962526495805,
+    "score": 0.014031178425323405
+  },
+  {
+    "layer": 20,
+    "head": 0,
+    "transfer": 0.20030453491631306,
+    "contrast_alignment": 0.08209157735109329,
+    "video_mass": 0.839301347732544,
+    "retained_nuisance": 0.911252355279399,
+    "score": 0.013800896626895869
+  },
+  {
+    "layer": 20,
+    "head": 2,
+    "transfer": 0.20155653827576714,
+    "contrast_alignment": 0.07282044738531113,
+    "video_mass": 0.9336872100830078,
+    "retained_nuisance": 0.944609772410388,
+    "score": 0.013704135475099527
+  },
+  {
+    "layer": 25,
+    "head": 17,
+    "transfer": 0.20441593486902931,
+    "contrast_alignment": 0.06670098751783371,
+    "video_mass": null,
+    "retained_nuisance": 0.9640813738653117,
+    "score": 0.013634744720145434
+  },
+  {
+    "layer": 29,
+    "head": 20,
+    "transfer": 0.23592348535473207,
+    "contrast_alignment": 0.09883556514978409,
+    "video_mass": 0.5830629467964172,
+    "retained_nuisance": 0.8735385709944398,
+    "score": 0.013595646647335582
+  },
+  {
+    "layer": 10,
+    "head": 9,
+    "transfer": 0.2503649037213318,
+    "contrast_alignment": 0.05332005023956299,
+    "video_mass": 0.9999404549598694,
+    "retained_nuisance": 0.9466861782831844,
+    "score": 0.013348674349962867
+  },
+  {
+    "layer": 14,
+    "head": 9,
+    "transfer": 0.21258280986471867,
+    "contrast_alignment": 0.06797739118337631,
+    "video_mass": 0.8921431303024292,
+    "retained_nuisance": 0.9630635832693913,
+    "score": 0.012892204094859036
+  },
+  {
+    "layer": 25,
+    "head": 4,
+    "transfer": 0.22649723901461627,
+    "contrast_alignment": 0.05629288777709007,
+    "video_mass": null,
+    "retained_nuisance": 0.9578161434517544,
+    "score": 0.012750183657670541
+  },
+  {
+    "layer": 10,
+    "head": 22,
+    "transfer": 0.3061195795075822,
+    "contrast_alignment": 0.061109092086553574,
+    "video_mass": 0.6744403839111328,
+    "retained_nuisance": 0.8906698587030877,
+    "score": 0.012616546897742636
+  },
+  {
+    "layer": 25,
+    "head": 6,
+    "transfer": 0.23108670150735477,
+    "contrast_alignment": 0.05425158515572548,
+    "video_mass": null,
+    "retained_nuisance": 0.8840854271336681,
+    "score": 0.012536819865181972
+  },
+  {
+    "layer": 20,
+    "head": 20,
+    "transfer": 0.15785372496603856,
+    "contrast_alignment": 0.07447828352451324,
+    "video_mass": 0.9995895624160767,
+    "retained_nuisance": 0.7443337380168722,
+    "score": 0.011751849102351206
+  },
+  {
+    "layer": 14,
+    "head": 12,
+    "transfer": 0.20775570117051778,
+    "contrast_alignment": 0.05747315660119057,
+    "video_mass": 0.9562374353408813,
+    "retained_nuisance": 0.9396575595426286,
+    "score": 0.011417834473677635
+  },
+  {
+    "layer": 25,
+    "head": 10,
+    "transfer": 0.1659604761078466,
+    "contrast_alignment": 0.06875764578580856,
+    "video_mass": null,
+    "retained_nuisance": 0.9424371424672839,
+    "score": 0.011411051630667461
+  },
+  {
+    "layer": 29,
+    "head": 11,
+    "transfer": 0.19222762393372506,
+    "contrast_alignment": 0.0727413222193718,
+    "video_mass": 0.7924058437347412,
+    "retained_nuisance": 0.9228077448264786,
+    "score": 0.011080124962287477
+  },
+  {
+    "layer": 25,
+    "head": 3,
+    "transfer": 0.18892813599585256,
+    "contrast_alignment": 0.05736469849944115,
+    "video_mass": null,
+    "retained_nuisance": 0.8934867387829021,
+    "score": 0.010837805559463497
+  },
+  {
+    "layer": 14,
+    "head": 22,
+    "transfer": 0.20021592444656022,
+    "contrast_alignment": 0.06444300711154938,
+    "video_mass": 0.8314798474311829,
+    "retained_nuisance": 0.9533503471416798,
+    "score": 0.010728182237170676
+  },
+  {
+    "layer": 25,
+    "head": 20,
+    "transfer": 0.20932477557396112,
+    "contrast_alignment": 0.051021844148635864,
+    "video_mass": null,
+    "retained_nuisance": 0.9294896427079903,
+    "score": 0.010680136075782824
+  },
+  {
+    "layer": 14,
+    "head": 21,
+    "transfer": 0.181536307200183,
+    "contrast_alignment": 0.058654192835092545,
+    "video_mass": 0.9980498552322388,
+    "retained_nuisance": 0.8900020759759321,
+    "score": 0.010627100689762746
+  },
+  {
+    "layer": 25,
+    "head": 23,
+    "transfer": 0.26242666509653745,
+    "contrast_alignment": 0.04034135490655899,
+    "video_mass": null,
+    "retained_nuisance": 0.938144848213673,
+    "score": 0.010586647233604115
+  },
+  {
+    "layer": 20,
+    "head": 3,
+    "transfer": 0.15675455562345952,
+    "contrast_alignment": 0.0850837305188179,
+    "video_mass": 0.7900325059890747,
+    "retained_nuisance": 0.933006000472214,
+    "score": 0.01053687081183298
+  },
+  {
+    "layer": 20,
+    "head": 23,
+    "transfer": 0.3259408062053524,
+    "contrast_alignment": 0.08101227134466171,
+    "video_mass": 0.39291226863861084,
+    "retained_nuisance": 0.8826770179106033,
+    "score": 0.010374929014014636
+  },
+  {
+    "layer": 14,
+    "head": 20,
+    "transfer": 0.15616780625374993,
+    "contrast_alignment": 0.06684575229883194,
+    "video_mass": 0.992189884185791,
+    "retained_nuisance": 0.9229839337204102,
+    "score": 0.010357623488290443
+  },
+  {
+    "layer": 20,
+    "head": 22,
+    "transfer": 0.22438770953409026,
+    "contrast_alignment": 0.05862930417060852,
+    "video_mass": 0.7671196460723877,
+    "retained_nuisance": 0.9366853616213527,
+    "score": 0.010091992302749509
+  },
+  {
+    "layer": 25,
+    "head": 9,
+    "transfer": 0.2145965794366509,
+    "contrast_alignment": 0.04696649685502052,
+    "video_mass": null,
+    "retained_nuisance": 0.9604315580411376,
+    "score": 0.010078849573209626
+  },
+  {
+    "layer": 25,
+    "head": 16,
+    "transfer": 0.1820618616765568,
+    "contrast_alignment": 0.053899236023426056,
+    "video_mass": null,
+    "retained_nuisance": 0.9129361204332553,
+    "score": 0.009812995253369082
+  },
+  {
+    "layer": 20,
+    "head": 9,
+    "transfer": 0.15558451837057952,
+    "contrast_alignment": 0.0695459172129631,
+    "video_mass": 0.8671846389770508,
+    "retained_nuisance": 0.902336835226572,
+    "score": 0.00938317022888918
+  },
+  {
+    "layer": 20,
+    "head": 17,
+    "transfer": 0.3227494358821801,
+    "contrast_alignment": 0.030361512675881386,
+    "video_mass": 0.9461827874183655,
+    "retained_nuisance": 0.8442615000826664,
+    "score": 0.009271797553239723
+  },
+  {
+    "layer": 20,
+    "head": 8,
+    "transfer": 0.1982945711992805,
+    "contrast_alignment": 0.07030874490737915,
+    "video_mass": 0.6322915554046631,
+    "retained_nuisance": 0.9236103002625963,
+    "score": 0.008815309230825371
+  },
+  {
+    "layer": 14,
+    "head": 4,
+    "transfer": 0.1806577222873642,
+    "contrast_alignment": 0.049734778702259064,
+    "video_mass": 0.9806907176971436,
+    "retained_nuisance": 0.9277147278922193,
+    "score": 0.008811478481097318
+  },
+  {
+    "layer": 29,
+    "head": 2,
+    "transfer": 0.21193696759866754,
+    "contrast_alignment": 0.11928649991750717,
+    "video_mass": 0.3241744339466095,
+    "retained_nuisance": 0.8675945491613459,
+    "score": 0.008195524880841083
+  },
+  {
+    "layer": 25,
+    "head": 19,
+    "transfer": 0.21706692920600013,
+    "contrast_alignment": 0.0347411073744297,
+    "video_mass": null,
+    "retained_nuisance": 0.9725452260949388,
+    "score": 0.0075411454949833815
+  },
+  {
+    "layer": 10,
+    "head": 1,
+    "transfer": 0.24406629453431528,
+    "contrast_alignment": 0.03146321326494217,
+    "video_mass": 0.9813389778137207,
+    "retained_nuisance": 0.974971355163553,
+    "score": 0.007535809835955713
+  },
+  {
+    "layer": 14,
+    "head": 3,
+    "transfer": 0.2068460575708837,
+    "contrast_alignment": 0.06947780400514603,
+    "video_mass": 0.5075941681861877,
+    "retained_nuisance": 0.7912073204123884,
+    "score": 0.007294742308191737
+  },
+  {
+    "layer": 20,
+    "head": 4,
+    "transfer": 0.21500950435188315,
+    "contrast_alignment": 0.03503420576453209,
+    "video_mass": 0.9080864191055298,
+    "retained_nuisance": 0.8966547603145331,
+    "score": 0.006840330960940401
+  },
+  {
+    "layer": 29,
+    "head": 16,
+    "transfer": 0.19595550353523095,
+    "contrast_alignment": 0.11369653046131134,
+    "video_mass": 0.30484738945961,
+    "retained_nuisance": 0.962155117285651,
+    "score": 0.006791835486846272
+  },
+  {
+    "layer": 29,
+    "head": 18,
+    "transfer": 0.16823544146836866,
+    "contrast_alignment": 0.1564067006111145,
+    "video_mass": 0.2439029961824417,
+    "retained_nuisance": 0.46889209210780336,
+    "score": 0.006417856203491323
+  },
+  {
+    "layer": 29,
+    "head": 10,
+    "transfer": 0.16580167845710037,
+    "contrast_alignment": 0.05506300553679466,
+    "video_mass": 0.6897708773612976,
+    "retained_nuisance": 0.9108455886180282,
+    "score": 0.006297289945830293
+  },
+  {
+    "layer": 25,
+    "head": 11,
+    "transfer": 0.18627923757405895,
+    "contrast_alignment": 0.03345343843102455,
+    "video_mass": null,
+    "retained_nuisance": 0.9724967160314949,
+    "score": 0.006231681005161976
+  },
+  {
+    "layer": 20,
+    "head": 1,
+    "transfer": 0.23008535791962004,
+    "contrast_alignment": 0.026820719242095947,
+    "video_mass": 0.9567276239395142,
+    "retained_nuisance": 0.7959349514617106,
+    "score": 0.005904018583068894
+  },
+  {
+    "layer": 25,
+    "head": 0,
+    "transfer": 0.19402192224623604,
+    "contrast_alignment": 0.028982166200876236,
+    "video_mass": null,
+    "retained_nuisance": 0.9674581197732686,
+    "score": 0.0056231755971538995
+  },
+  {
+    "layer": 20,
+    "head": 14,
+    "transfer": 0.19117136702587523,
+    "contrast_alignment": 0.03211938962340355,
+    "video_mass": 0.8938363790512085,
+    "retained_nuisance": 0.9269581731418025,
+    "score": 0.005488430331415395
+  },
+  {
+    "layer": 20,
+    "head": 21,
+    "transfer": 0.1597467235978698,
+    "contrast_alignment": 0.03618766739964485,
+    "video_mass": 0.852867841720581,
+    "retained_nuisance": 0.9621727916578275,
+    "score": 0.004930310701703334
+  },
+  {
+    "layer": 14,
+    "head": 1,
+    "transfer": 0.2019479419676795,
+    "contrast_alignment": 0.0301626268774271,
+    "video_mass": 0.7975642681121826,
+    "retained_nuisance": 0.921217257758365,
+    "score": 0.004858187611826258
+  },
+  {
+    "layer": 25,
+    "head": 15,
+    "transfer": 0.20510918912439458,
+    "contrast_alignment": 0.021492306143045425,
+    "video_mass": null,
+    "retained_nuisance": 0.772161091955538,
+    "score": 0.004408269485413291
+  },
+  {
+    "layer": 10,
+    "head": 17,
+    "transfer": 0.22400537899302897,
+    "contrast_alignment": 0.01876477338373661,
+    "video_mass": 0.9959334135055542,
+    "retained_nuisance": 0.9489762090796444,
+    "score": 0.004186316642499879
+  },
+  {
+    "layer": 14,
+    "head": 17,
+    "transfer": 0.24579581858494137,
+    "contrast_alignment": 0.018756674602627754,
+    "video_mass": 0.884604275226593,
+    "retained_nuisance": 0.941411298821186,
+    "score": 0.004078301871531692
+  },
+  {
+    "layer": 20,
+    "head": 6,
+    "transfer": 0.1492000446172561,
+    "contrast_alignment": 0.028622455894947052,
+    "video_mass": 0.9327353239059448,
+    "retained_nuisance": 0.9158589456034354,
+    "score": 0.0039832198011421575
+  },
+  {
+    "layer": 29,
+    "head": 22,
+    "transfer": 0.2683089420830562,
+    "contrast_alignment": 0.11949963867664337,
+    "video_mass": 0.11372710019350052,
+    "retained_nuisance": 0.813450839137305,
+    "score": 0.0036464117283013177
+  },
+  {
+    "layer": 14,
+    "head": 23,
+    "transfer": 0.20930271591928395,
+    "contrast_alignment": 0.024567322805523872,
+    "video_mass": 0.6990718841552734,
+    "retained_nuisance": 0.9280708027455716,
+    "score": 0.0035946327917146317
+  },
+  {
+    "layer": 10,
+    "head": 12,
+    "transfer": 0.2031759729364495,
+    "contrast_alignment": 0.014357694424688816,
+    "video_mass": 0.9165775775909424,
+    "retained_nuisance": 0.9172370871309401,
+    "score": 0.0026737837708629467
+  },
+  {
+    "layer": 29,
+    "head": 1,
+    "transfer": 0.18702064025425358,
+    "contrast_alignment": 0.09439082443714142,
+    "video_mass": 0.07184690982103348,
+    "retained_nuisance": 0.9568038853078187,
+    "score": 0.0012683158283734596
+  },
+  {
+    "layer": 29,
+    "head": 23,
+    "transfer": 0.23449528205177828,
+    "contrast_alignment": 0.14655815064907074,
+    "video_mass": 0.032361604273319244,
+    "retained_nuisance": 0.8883283753709678,
+    "score": 0.0011121775604783387
+  },
+  {
+    "layer": 29,
+    "head": 5,
+    "transfer": 0.23160712254649596,
+    "contrast_alignment": 0.08387535810470581,
+    "video_mass": 0.03131352737545967,
+    "retained_nuisance": 0.9122774284072845,
+    "score": 0.0006083006643006599
+  },
+  {
+    "layer": 29,
+    "head": 19,
+    "transfer": 0.2930321109852585,
+    "contrast_alignment": 0.12099900096654892,
+    "video_mass": 0.009341953322291374,
+    "retained_nuisance": 0.903034920316524,
+    "score": 0.00033123383378718914
+  }
+]

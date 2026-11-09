@@ -1,0 +1,44 @@
+{
+  "heads": [
+    4,
+    7,
+    8,
+    17
+  ],
+  "threshold_original_abs_qk": 4,
+  "changed_coordinates": 64,
+  "coupling_check": [
+    {
+      "head": 4,
+      "coupling_fro_original_cap4_zero": [
+        1067.2051757280992,
+        111.90469934146739,
+        36.409442135115825
+      ]
+    },
+    {
+      "head": 7,
+      "coupling_fro_original_cap4_zero": [
+        899.6570313531838,
+        105.99808361063444,
+        27.51952673533189
+      ]
+    },
+    {
+      "head": 8,
+      "coupling_fro_original_cap4_zero": [
+        1057.9834510106418,
+        135.8856197132287,
+        31.895921978774787
+      ]
+    },
+    {
+      "head": 17,
+      "coupling_fro_original_cap4_zero": [
+        1048.1626681538658,
+        136.12238096042702,
+        39.48489383496685
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+The edited paraphrases move closer to their literal-task controls, with large reductions in initial XYZ action discrepancy—for example, 0.315 to 0.035 for “activate the cooker.” I will now inspect expert attention on four repaired cases to see whether text was already being read before the edit.
+```forward
+{"type":"probe","model":"both","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_1_frames/libero_goal_v1420_s7_original/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_1_frames/libero_goal_v1262_s7_original/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_1_frames/libero_goal_v1179_s7_original/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_wsp/pi_lang_c/work/roll_1_frames/libero_goal_v1339_s7_original/t0000_inputs.pt"],"return":{"layers":[0,3,6,12],"what":"attn_maps"}}
+```

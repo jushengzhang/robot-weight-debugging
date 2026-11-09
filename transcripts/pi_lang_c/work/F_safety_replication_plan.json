@@ -1,0 +1,62 @@
+{
+  "43": {
+    "type": "rollout",
+    "model": "both",
+    "sample": {
+      "category": "Camera Viewpoints",
+      "n": 128,
+      "seed": 9107
+    },
+    "save_frames": true
+  },
+  "44": {
+    "type": "rollout",
+    "model": "both",
+    "sample": {
+      "category": "Robot Initial States",
+      "n": 128,
+      "seed": 9107
+    },
+    "save_frames": true
+  },
+  "45": {
+    "type": "rollout",
+    "model": "both",
+    "sample": {
+      "category": "Light Conditions",
+      "n": 128,
+      "seed": 9107
+    },
+    "save_frames": true
+  },
+  "46": {
+    "type": "rollout",
+    "model": "both",
+    "sample": {
+      "category": "Background Textures",
+      "n": 128,
+      "seed": 9107
+    },
+    "save_frames": true
+  },
+  "47": {
+    "type": "rollout",
+    "model": "both",
+    "sample": {
+      "category": "Objects Layout",
+      "n": 128,
+      "seed": 9107
+    },
+    "save_frames": true
+  },
+  "48": {
+    "type": "rollout",
+    "model": "both",
+    "sample": {
+      "category": "Sensor Noise",
+      "n": 128,
+      "seed": 9107
+    },
+    "save_frames": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source_spec": "lex_dest_full_spec.json",
+  "rows": [
+    3425,
+    4830,
+    4982,
+    5449,
+    15087,
+    16241,
+    25373,
+    26836,
+    33773,
+    37806,
+    42226,
+    50161,
+    57321,
+    65931,
+    70624,
+    80792,
+    118891,
+    121144,
+    160148,
+    167690
+  ],
+  "target_rows": "effective bf16 values from frozen compact artifact",
+  "untargeted_rows": "bit-exact original",
+  "changed_coefficients": 40822
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "source": "basin",
+    "target": "bowl",
+    "source_id": 31725,
+    "target_id": 14581,
+    "alpha": 1.0
+  },
+  {
+    "source": "cupboard",
+    "target": "cabinet",
+    "source_id": 82203,
+    "target_id": 22402,
+    "alpha": 1.0
+  }
+]

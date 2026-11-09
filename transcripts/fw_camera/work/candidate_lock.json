@@ -1,0 +1,9 @@
+{
+  "candidate": "readout_camera_rank2_half",
+  "frozen_after_pass": 19,
+  "tensor_sha256": "e16aec070cd68d6c8e843fa871bb1171d2c1a70c6ba70e86d06129cce3d3efdc",
+  "selection_rule": "Smallest tested targeted edit with comparable discovery gain",
+  "alpha": 0.5,
+  "rank": 2,
+  "validation_not_yet_seen": true
+}

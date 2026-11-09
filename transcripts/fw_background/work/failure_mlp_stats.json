@@ -1,0 +1,302 @@
+{
+  "0": {
+    "protect_rank": 4,
+    "split_task_mean_cosine": 0.7402472496032715,
+    "failure_to_control_ratio": 4.748671447499472,
+    "failure_fraction": 0.041938416659832,
+    "control_fraction": 0.0035786216612905264,
+    "failure_projection_rms": 1.4249521849791764,
+    "control_projection_rms": 0.6539043558656156,
+    "signed_task_consistency": 0.875
+  },
+  "1": {
+    "protect_rank": 7,
+    "split_task_mean_cosine": 0.7330163717269897,
+    "failure_to_control_ratio": 9.087013628310668,
+    "failure_fraction": 0.08929110318422318,
+    "control_fraction": 0.0045510753989219666,
+    "failure_projection_rms": 0.4717258880924277,
+    "control_projection_rms": 0.1564873085375487,
+    "signed_task_consistency": 0.875
+  },
+  "2": {
+    "protect_rank": 9,
+    "split_task_mean_cosine": 0.37058258056640625,
+    "failure_to_control_ratio": 12.418071506300608,
+    "failure_fraction": 0.04616673290729523,
+    "control_fraction": 0.0020984921138733625,
+    "failure_projection_rms": 0.20799120088968068,
+    "control_projection_rms": 0.059022538520990354,
+    "signed_task_consistency": 1.0
+  },
+  "3": {
+    "protect_rank": 11,
+    "split_task_mean_cosine": 0.5082036256790161,
+    "failure_to_control_ratio": 41.56760445939945,
+    "failure_fraction": 0.03812205791473389,
+    "control_fraction": 0.0007509163115173578,
+    "failure_projection_rms": 0.16898547229948482,
+    "control_projection_rms": 0.02621029273325959,
+    "signed_task_consistency": 1.0
+  },
+  "4": {
+    "protect_rank": 13,
+    "split_task_mean_cosine": 0.5065566301345825,
+    "failure_to_control_ratio": 47.42233603170591,
+    "failure_fraction": 0.04966459795832634,
+    "control_fraction": 0.0009658981580287218,
+    "failure_projection_rms": 0.16203321253398242,
+    "control_projection_rms": 0.023529493077928492,
+    "signed_task_consistency": 0.875
+  },
+  "5": {
+    "protect_rank": 11,
+    "split_task_mean_cosine": 0.4019566774368286,
+    "failure_to_control_ratio": 49.81346884627405,
+    "failure_fraction": 0.045565132051706314,
+    "control_fraction": 0.0008521377458237112,
+    "failure_projection_rms": 0.21668869618761516,
+    "control_projection_rms": 0.030701731100849342,
+    "signed_task_consistency": 1.0
+  },
+  "6": {
+    "protect_rank": 13,
+    "split_task_mean_cosine": 0.49348771572113037,
+    "failure_to_control_ratio": 54.51853109857543,
+    "failure_fraction": 0.04255593940615654,
+    "control_fraction": 0.000821426510810852,
+    "failure_projection_rms": 0.24937081137464168,
+    "control_projection_rms": 0.03377330369821358,
+    "signed_task_consistency": 1.0
+  },
+  "7": {
+    "protect_rank": 18,
+    "split_task_mean_cosine": 0.3654647469520569,
+    "failure_to_control_ratio": 152.76147930735715,
+    "failure_fraction": 0.03971176967024803,
+    "control_fraction": 0.00043613070738501847,
+    "failure_projection_rms": 0.2071188165706294,
+    "control_projection_rms": 0.016757631200863397,
+    "signed_task_consistency": 0.875
+  },
+  "8": {
+    "protect_rank": 22,
+    "split_task_mean_cosine": 0.32731232047080994,
+    "failure_to_control_ratio": 94.3533875461349,
+    "failure_fraction": 0.029734473675489426,
+    "control_fraction": 0.0006451191729865968,
+    "failure_projection_rms": 0.19648602790213116,
+    "control_projection_rms": 0.020227999052013716,
+    "signed_task_consistency": 1.0
+  },
+  "9": {
+    "protect_rank": 23,
+    "split_task_mean_cosine": 0.36674487590789795,
+    "failure_to_control_ratio": 144.41611969902434,
+    "failure_fraction": 0.03176281601190567,
+    "control_fraction": 0.0005403662798926234,
+    "failure_projection_rms": 0.3229416201804663,
+    "control_projection_rms": 0.02687300196417308,
+    "signed_task_consistency": 1.0
+  },
+  "10": {
+    "protect_rank": 23,
+    "split_task_mean_cosine": 0.328837513923645,
+    "failure_to_control_ratio": 182.01939656290108,
+    "failure_fraction": 0.03201690688729286,
+    "control_fraction": 0.0004099209327250719,
+    "failure_projection_rms": 0.47405092327087156,
+    "control_projection_rms": 0.035137119982720226,
+    "signed_task_consistency": 1.0
+  },
+  "11": {
+    "protect_rank": 26,
+    "split_task_mean_cosine": 0.4171361029148102,
+    "failure_to_control_ratio": 203.03086548969168,
+    "failure_fraction": 0.035922572016716,
+    "control_fraction": 0.0005569005152210593,
+    "failure_projection_rms": 0.785319107398256,
+    "control_projection_rms": 0.05511440602278957,
+    "signed_task_consistency": 1.0
+  },
+  "12": {
+    "protect_rank": 27,
+    "split_task_mean_cosine": 0.4036043584346771,
+    "failure_to_control_ratio": 243.23906541723738,
+    "failure_fraction": 0.02937721647322178,
+    "control_fraction": 0.00038881468935869634,
+    "failure_projection_rms": 0.9426976760065146,
+    "control_projection_rms": 0.06044435859024606,
+    "signed_task_consistency": 1.0
+  },
+  "13": {
+    "protect_rank": 26,
+    "split_task_mean_cosine": 0.36422738432884216,
+    "failure_to_control_ratio": 157.56223615750974,
+    "failure_fraction": 0.023468565195798874,
+    "control_fraction": 0.0005091659841127694,
+    "failure_projection_rms": 1.0676633809869114,
+    "control_projection_rms": 0.08505665112279676,
+    "signed_task_consistency": 1.0
+  },
+  "14": {
+    "protect_rank": 26,
+    "split_task_mean_cosine": 0.2885909974575043,
+    "failure_to_control_ratio": 183.29855147517193,
+    "failure_fraction": 0.019561177119612694,
+    "control_fraction": 0.0003616764734033495,
+    "failure_projection_rms": 1.113599872168172,
+    "control_projection_rms": 0.08225260399204529,
+    "signed_task_consistency": 1.0
+  },
+  "15": {
+    "protect_rank": 26,
+    "split_task_mean_cosine": 0.34094446897506714,
+    "failure_to_control_ratio": 120.56871074273764,
+    "failure_fraction": 0.019091662019491196,
+    "control_fraction": 0.0005164172034710646,
+    "failure_projection_rms": 1.2716103768212388,
+    "control_projection_rms": 0.11580751824433648,
+    "signed_task_consistency": 1.0
+  },
+  "16": {
+    "protect_rank": 26,
+    "split_task_mean_cosine": 0.39757388830184937,
+    "failure_to_control_ratio": 161.45178606011703,
+    "failure_fraction": 0.035208214074373245,
+    "control_fraction": 0.0005633753025904298,
+    "failure_projection_rms": 1.5149473268020308,
+    "control_projection_rms": 0.1192274090233365,
+    "signed_task_consistency": 1.0
+  },
+  "17": {
+    "protect_rank": 26,
+    "split_task_mean_cosine": 0.30806249380111694,
+    "failure_to_control_ratio": 177.47452615059288,
+    "failure_fraction": 0.034983694553375244,
+    "control_fraction": 0.0004612572956830263,
+    "failure_projection_rms": 1.5808341312490222,
+    "control_projection_rms": 0.11866381083519605,
+    "signed_task_consistency": 1.0
+  },
+  "18": {
+    "protect_rank": 25,
+    "split_task_mean_cosine": 0.3595736622810364,
+    "failure_to_control_ratio": 225.164100516295,
+    "failure_fraction": 0.053411949425935745,
+    "control_fraction": 0.00042948368354700506,
+    "failure_projection_rms": 1.616670756318468,
+    "control_projection_rms": 0.10773876872104024,
+    "signed_task_consistency": 0.875
+  },
+  "19": {
+    "protect_rank": 25,
+    "split_task_mean_cosine": 0.48142579197883606,
+    "failure_to_control_ratio": 213.69261738692734,
+    "failure_fraction": 0.0744030773639679,
+    "control_fraction": 0.0005318965413607657,
+    "failure_projection_rms": 1.7190332352741324,
+    "control_projection_rms": 0.1175951780581735,
+    "signed_task_consistency": 1.0
+  },
+  "20": {
+    "protect_rank": 25,
+    "split_task_mean_cosine": 0.46944355964660645,
+    "failure_to_control_ratio": 221.21617260083784,
+    "failure_fraction": 0.0541563406586647,
+    "control_fraction": 0.0004213684587739408,
+    "failure_projection_rms": 1.5501803908435572,
+    "control_projection_rms": 0.10422545552307444,
+    "signed_task_consistency": 1.0
+  },
+  "21": {
+    "protect_rank": 27,
+    "split_task_mean_cosine": 0.32595157623291016,
+    "failure_to_control_ratio": 204.0848962094914,
+    "failure_fraction": 0.05237429216504097,
+    "control_fraction": 0.0005052232882007957,
+    "failure_projection_rms": 1.45080947971765,
+    "control_projection_rms": 0.10155585157201336,
+    "signed_task_consistency": 1.0
+  },
+  "22": {
+    "protect_rank": 22,
+    "split_task_mean_cosine": 0.3535987436771393,
+    "failure_to_control_ratio": 146.86855177501766,
+    "failure_fraction": 0.06007513031363487,
+    "control_fraction": 0.0005841676611453295,
+    "failure_projection_rms": 1.550581527647952,
+    "control_projection_rms": 0.1279470271815376,
+    "signed_task_consistency": 1.0
+  },
+  "23": {
+    "protect_rank": 24,
+    "split_task_mean_cosine": 0.3505000174045563,
+    "failure_to_control_ratio": 195.4952020550368,
+    "failure_fraction": 0.08034861832857132,
+    "control_fraction": 0.0005466724978759885,
+    "failure_projection_rms": 1.8680766394779242,
+    "control_projection_rms": 0.13360620797500988,
+    "signed_task_consistency": 1.0
+  },
+  "24": {
+    "protect_rank": 26,
+    "split_task_mean_cosine": 0.32197627425193787,
+    "failure_to_control_ratio": 192.45868709865803,
+    "failure_fraction": 0.06583519279956818,
+    "control_fraction": 0.0004598787345457822,
+    "failure_projection_rms": 1.6672749919153653,
+    "control_projection_rms": 0.1201817370085421,
+    "signed_task_consistency": 1.0
+  },
+  "25": {
+    "protect_rank": 25,
+    "split_task_mean_cosine": 0.4827127754688263,
+    "failure_to_control_ratio": 120.48085937746265,
+    "failure_fraction": 0.057906609028577805,
+    "control_fraction": 0.00077835499541834,
+    "failure_projection_rms": 1.7597976664717896,
+    "control_projection_rms": 0.16032590835112615,
+    "signed_task_consistency": 1.0
+  },
+  "26": {
+    "protect_rank": 25,
+    "split_task_mean_cosine": 0.41749441623687744,
+    "failure_to_control_ratio": 229.94286395622566,
+    "failure_fraction": 0.05572538077831268,
+    "control_fraction": 0.0004258989356458187,
+    "failure_projection_rms": 1.940241135918957,
+    "control_projection_rms": 0.1279516055717629,
+    "signed_task_consistency": 1.0
+  },
+  "27": {
+    "protect_rank": 25,
+    "split_task_mean_cosine": 0.3812373876571655,
+    "failure_to_control_ratio": 109.90744738661782,
+    "failure_fraction": 0.042482130229473114,
+    "control_fraction": 0.0006753893685527146,
+    "failure_projection_rms": 1.728193384510998,
+    "control_projection_rms": 0.16484613823629593,
+    "signed_task_consistency": 1.0
+  },
+  "28": {
+    "protect_rank": 19,
+    "split_task_mean_cosine": 0.22499871253967285,
+    "failure_to_control_ratio": 51.00052587529631,
+    "failure_fraction": 0.02723999135196209,
+    "control_fraction": 0.0007559772348031402,
+    "failure_projection_rms": 1.1129562171145768,
+    "control_projection_rms": 0.15584423904732325,
+    "signed_task_consistency": 1.0
+  },
+  "29": {
+    "protect_rank": 8,
+    "split_task_mean_cosine": 0.2827106714248657,
+    "failure_to_control_ratio": 8.681337275843113,
+    "failure_fraction": 0.044077809900045395,
+    "control_fraction": 0.002865028101950884,
+    "failure_projection_rms": 1.3990848257785573,
+    "control_projection_rms": 0.47484375617581787,
+    "signed_task_consistency": 1.0
+  }
+}

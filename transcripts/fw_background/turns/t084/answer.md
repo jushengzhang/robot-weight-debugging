@@ -1,0 +1,4 @@
+I’ll probe the edited model on the same two texture pairs as the original attention-map probe. If the mechanism is right, the selected heads should become less sharply concentrated and the texture-induced action difference should shrink by more than the roughly 0.001 RMS replay variability seen earlier.
+```forward
+{"type":"probe","model":"edited","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/fwd/roll_2/artifacts/libero_object_v1_s17_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/fwd/roll_2/artifacts/libero_object_v27_s17_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/fwd/roll_2/artifacts/libero_spatial_v207_s17_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_background/work/fwd/roll_2/artifacts/libero_spatial_v232_s17_i0_orig_frames/t0000_inputs.pt"],"return":{"actions":true,"layers":[10,14,20,29],"what":"attn_maps","noise_seed":17}}
+```

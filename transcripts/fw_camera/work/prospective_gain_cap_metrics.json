@@ -1,0 +1,290 @@
+[
+  {
+    "head": 4,
+    "spatial_bands_only": false,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 125,
+    "relative_gain_delta": 0.7674,
+    "qk_frobenius_proxy": 32.28,
+    "qk_top4_fraction": 0.9416
+  },
+  {
+    "head": 4,
+    "spatial_bands_only": false,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 54,
+    "relative_gain_delta": 0.6486,
+    "qk_frobenius_proxy": 62.81,
+    "qk_top4_fraction": 0.9459
+  },
+  {
+    "head": 4,
+    "spatial_bands_only": false,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 17,
+    "relative_gain_delta": 0.5557,
+    "qk_frobenius_proxy": 111.9,
+    "qk_top4_fraction": 0.972
+  },
+  {
+    "head": 4,
+    "spatial_bands_only": false,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 13,
+    "relative_gain_delta": 0.4887,
+    "qk_frobenius_proxy": 161.81,
+    "qk_top4_fraction": 0.983
+  },
+  {
+    "head": 4,
+    "spatial_bands_only": true,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 81,
+    "relative_gain_delta": 0.6782,
+    "qk_frobenius_proxy": 92.04,
+    "qk_top4_fraction": 0.9776
+  },
+  {
+    "head": 4,
+    "spatial_bands_only": true,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 35,
+    "relative_gain_delta": 0.5864,
+    "qk_frobenius_proxy": 111.83,
+    "qk_top4_fraction": 0.9741
+  },
+  {
+    "head": 4,
+    "spatial_bands_only": true,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 13,
+    "relative_gain_delta": 0.5089,
+    "qk_frobenius_proxy": 151.28,
+    "qk_top4_fraction": 0.9804
+  },
+  {
+    "head": 4,
+    "spatial_bands_only": true,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 9,
+    "relative_gain_delta": 0.4559,
+    "qk_frobenius_proxy": 193.01,
+    "qk_top4_fraction": 0.9856
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": false,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 126,
+    "relative_gain_delta": 0.7945,
+    "qk_frobenius_proxy": 30.05,
+    "qk_top4_fraction": 0.9336
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": false,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 41,
+    "relative_gain_delta": 0.7041,
+    "qk_frobenius_proxy": 57.7,
+    "qk_top4_fraction": 0.9454
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": false,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 21,
+    "relative_gain_delta": 0.6146,
+    "qk_frobenius_proxy": 106.0,
+    "qk_top4_fraction": 0.9688
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": false,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 14,
+    "relative_gain_delta": 0.549,
+    "qk_frobenius_proxy": 153.64,
+    "qk_top4_fraction": 0.9795
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": true,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 82,
+    "relative_gain_delta": 0.6796,
+    "qk_frobenius_proxy": 123.76,
+    "qk_top4_fraction": 0.9882
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": true,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 30,
+    "relative_gain_delta": 0.6029,
+    "qk_frobenius_proxy": 143.21,
+    "qk_top4_fraction": 0.9854
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": true,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 16,
+    "relative_gain_delta": 0.5223,
+    "qk_frobenius_proxy": 182.24,
+    "qk_top4_fraction": 0.9851
+  },
+  {
+    "head": 7,
+    "spatial_bands_only": true,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 11,
+    "relative_gain_delta": 0.4639,
+    "qk_frobenius_proxy": 222.2,
+    "qk_top4_fraction": 0.9866
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": false,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 127,
+    "relative_gain_delta": 0.7661,
+    "qk_frobenius_proxy": 36.96,
+    "qk_top4_fraction": 0.9496
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": false,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 49,
+    "relative_gain_delta": 0.6581,
+    "qk_frobenius_proxy": 72.46,
+    "qk_top4_fraction": 0.956
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": false,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 14,
+    "relative_gain_delta": 0.5754,
+    "qk_frobenius_proxy": 135.89,
+    "qk_top4_fraction": 0.9805
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": false,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 12,
+    "relative_gain_delta": 0.5065,
+    "qk_frobenius_proxy": 199.86,
+    "qk_top4_fraction": 0.9886
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": true,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 83,
+    "relative_gain_delta": 0.6699,
+    "qk_frobenius_proxy": 104.18,
+    "qk_top4_fraction": 0.981
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": true,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 40,
+    "relative_gain_delta": 0.5816,
+    "qk_frobenius_proxy": 129.41,
+    "qk_top4_fraction": 0.9789
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": true,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 11,
+    "relative_gain_delta": 0.5108,
+    "qk_frobenius_proxy": 182.3,
+    "qk_top4_fraction": 0.9854
+  },
+  {
+    "head": 8,
+    "spatial_bands_only": true,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 9,
+    "relative_gain_delta": 0.4541,
+    "qk_frobenius_proxy": 238.1,
+    "qk_top4_fraction": 0.9901
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": false,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 126,
+    "relative_gain_delta": 0.7237,
+    "qk_frobenius_proxy": 38.41,
+    "qk_top4_fraction": 0.9542
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": false,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 45,
+    "relative_gain_delta": 0.5948,
+    "qk_frobenius_proxy": 74.24,
+    "qk_top4_fraction": 0.9601
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": false,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 12,
+    "relative_gain_delta": 0.4984,
+    "qk_frobenius_proxy": 136.12,
+    "qk_top4_fraction": 0.9815
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": false,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 10,
+    "relative_gain_delta": 0.4243,
+    "qk_frobenius_proxy": 198.0,
+    "qk_top4_fraction": 0.9897
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": true,
+    "gain_product_cap": 1.0,
+    "changed_coordinates": 82,
+    "relative_gain_delta": 0.595,
+    "qk_frobenius_proxy": 103.63,
+    "qk_top4_fraction": 0.9807
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": true,
+    "gain_product_cap": 2.0,
+    "changed_coordinates": 31,
+    "relative_gain_delta": 0.4953,
+    "qk_frobenius_proxy": 129.57,
+    "qk_top4_fraction": 0.9803
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": true,
+    "gain_product_cap": 4.0,
+    "changed_coordinates": 8,
+    "relative_gain_delta": 0.423,
+    "qk_frobenius_proxy": 180.88,
+    "qk_top4_fraction": 0.9867
+  },
+  {
+    "head": 17,
+    "spatial_bands_only": true,
+    "gain_product_cap": 6.0,
+    "changed_coordinates": 6,
+    "relative_gain_delta": 0.3687,
+    "qk_frobenius_proxy": 233.83,
+    "qk_top4_fraction": 0.9909
+  }
+]

@@ -1,0 +1,4 @@
+I will now run one low-perturbation, literal-instruction control for each of the ten goal tasks, using the same seed. These controls provide task-specific action and feature references; the small visual perturbations will be kept in mind when interpreting differences.
+```forward
+{"type":"rollout","model":"original","episodes":[{"suite":"libero_goal","id":2314,"seed":7},{"suite":"libero_goal","id":74,"seed":7},{"suite":"libero_goal","id":2407,"seed":7},{"suite":"libero_goal","id":1828,"seed":7},{"suite":"libero_goal","id":1570,"seed":7},{"suite":"libero_goal","id":2473,"seed":7},{"suite":"libero_goal","id":2490,"seed":7},{"suite":"libero_goal","id":2521,"seed":7},{"suite":"libero_goal","id":2553,"seed":7},{"suite":"libero_goal","id":1785,"seed":7}],"record":{"vlm_layers":[0,3,6,9,12,15,17],"expert_layers":[0,3,6,9,12,15,17],"what":"resid"},"save_frames":true}
+```

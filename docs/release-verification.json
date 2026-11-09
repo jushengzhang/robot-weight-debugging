@@ -1,0 +1,19 @@
+{
+  "primary_evidence_audit": "passed",
+  "extended_evidence_audit": "passed",
+  "configured_sources": 43,
+  "domain_imports": [
+    "domain_fastwam",
+    "domain_fastwam_suffix",
+    "domain_pi05",
+    "domain_recover",
+    "domain_pro"
+  ],
+  "syntax_checks": "passed",
+  "existing_workspace_overwrite_rejected": true,
+  "credential_audit": {
+    "scanned_text_entries": 3134,
+    "findings": []
+  },
+  "new_simulator_rollouts_during_packaging": 0
+}

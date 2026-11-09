@@ -1,0 +1,90 @@
+{
+  "candidate": {
+    "label": "action_L11H5_cross_O_mode_retention0.5",
+    "name": "mot.mixtures.action.blocks.11.cross_attn.o.weight",
+    "head": 5,
+    "layer": 11,
+    "mode_retention": 0.5,
+    "changed_values": 131072,
+    "relative_delta": 0.026327267289161682,
+    "contrast_energy_fraction": 0.5934874415397644,
+    "contrast_equal_pair_fraction": 0.19271568953990936
+  },
+  "tensor_sha256": "b85f78cd6a4b635906121f64c3f9643588840f0fd6a3c3b7a62127c6dd42f155",
+  "language": {
+    "7": {
+      "n": 247,
+      "original_successes": 164,
+      "edited_successes": 162,
+      "diff_pp": -0.8097,
+      "se_pp": 1.7204,
+      "rescues": 8,
+      "regressions": 10
+    },
+    "19": {
+      "n": 128,
+      "original_successes": 88,
+      "edited_successes": 90,
+      "diff_pp": 1.5625,
+      "se_pp": 2.2141,
+      "rescues": 5,
+      "regressions": 3
+    }
+  },
+  "safety": {
+    "Light Conditions": {
+      "n": 256,
+      "original_successes": 237,
+      "edited_successes": 241,
+      "diff_pp": 1.5625,
+      "se_pp": 1.2338,
+      "rescues": 7,
+      "regressions": 3
+    },
+    "Robot Initial States": {
+      "n": 256,
+      "original_successes": 184,
+      "edited_successes": 176,
+      "diff_pp": -3.125,
+      "se_pp": 1.8253,
+      "rescues": 7,
+      "regressions": 15
+    },
+    "Sensor Noise": {
+      "n": 256,
+      "original_successes": 162,
+      "edited_successes": 155,
+      "diff_pp": -2.7344,
+      "se_pp": 1.6046,
+      "rescues": 5,
+      "regressions": 12
+    },
+    "Camera Viewpoints": {
+      "n": 256,
+      "original_successes": 80,
+      "edited_successes": 75,
+      "diff_pp": -1.9531,
+      "se_pp": 1.9531,
+      "rescues": 10,
+      "regressions": 15
+    },
+    "Background Textures": {
+      "n": 256,
+      "original_successes": 159,
+      "edited_successes": 164,
+      "diff_pp": 1.9531,
+      "se_pp": 1.5109,
+      "rescues": 10,
+      "regressions": 5
+    },
+    "Objects Layout": {
+      "n": 256,
+      "original_successes": 193,
+      "edited_successes": 193,
+      "diff_pp": 0.0,
+      "se_pp": 1.5656,
+      "rescues": 8,
+      "regressions": 8
+    }
+  }
+}

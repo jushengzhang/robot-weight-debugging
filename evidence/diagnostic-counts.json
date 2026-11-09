@@ -1,0 +1,83 @@
+{
+  "description": "Original-policy diagnostic: identical variants/seeds/initial states under tagged and task-only instructions; 30 episodes per category.",
+  "source_files": [
+    {
+      "condition": "tagged",
+      "path": "/mnt/SSD2_16TB/jusheng/wsp/fastwam/runs/baseline210/results.jsonl",
+      "sha256": "a0bde7c599ead9da30de1722078dc140248c891a1fedc138ad27a61d6c3d6d0a"
+    },
+    {
+      "condition": "task_only",
+      "path": "/mnt/SSD2_16TB/jusheng/wsp/fastwam/runs/baseline210_strip/results.jsonl",
+      "sha256": "65be83d46817da9e1305118e9498c9499aa1f25acadcec1a980112be4dc79a5d"
+    }
+  ],
+  "tagged": {
+    "Camera Viewpoints": {
+      "n": 30,
+      "successes": 5
+    },
+    "Robot Initial States": {
+      "n": 30,
+      "successes": 10
+    },
+    "Language Instructions": {
+      "n": 30,
+      "successes": 19
+    },
+    "Light Conditions": {
+      "n": 30,
+      "successes": 23
+    },
+    "Background Textures": {
+      "n": 30,
+      "successes": 15
+    },
+    "Sensor Noise": {
+      "n": 30,
+      "successes": 10
+    },
+    "Objects Layout": {
+      "n": 30,
+      "successes": 20
+    },
+    "ALL": {
+      "n": 210,
+      "successes": 102
+    }
+  },
+  "task_only": {
+    "Camera Viewpoints": {
+      "n": 30,
+      "successes": 14
+    },
+    "Robot Initial States": {
+      "n": 30,
+      "successes": 23
+    },
+    "Language Instructions": {
+      "n": 30,
+      "successes": 19
+    },
+    "Light Conditions": {
+      "n": 30,
+      "successes": 27
+    },
+    "Background Textures": {
+      "n": 30,
+      "successes": 19
+    },
+    "Sensor Noise": {
+      "n": 30,
+      "successes": 18
+    },
+    "Objects Layout": {
+      "n": 30,
+      "successes": 27
+    },
+    "ALL": {
+      "n": 210,
+      "successes": 147
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+ "pro_a": {
+  "ALL perturbed": {
+   "acc": 58.81147540983606,
+   "gain": 33,
+   "loss": 15,
+   "p": 0.013283281562245008,
+   "n": 488
+  },
+  "object": {
+   "acc": 89.0,
+   "gain": 7,
+   "loss": 2,
+   "p": 0.1796875,
+   "n": 100
+  },
+  "position": {
+   "acc": 28.0,
+   "gain": 7,
+   "loss": 3,
+   "p": 0.34375,
+   "n": 100
+  },
+  "semantic": {
+   "acc": 96.0,
+   "gain": 4,
+   "loss": 2,
+   "p": 0.6875,
+   "n": 100
+  },
+  "task": {
+   "acc": 26.0,
+   "gain": 5,
+   "loss": 2,
+   "p": 0.453125,
+   "n": 100
+  },
+  "environment": {
+   "acc": 54.54545454545455,
+   "gain": 10,
+   "loss": 6,
+   "p": 0.454498291015625,
+   "n": 88
+  },
+  "original": {
+   "acc": 96.5,
+   "gain": 6,
+   "loss": 4,
+   "p": 0.75390625,
+   "n": 200
+  }
+ },
+ "original": {
+  "ALL perturbed": {
+   "acc": 55.122950819672134
+  },
+  "object": {
+   "acc": 84.0
+  },
+  "position": {
+   "acc": 24.0
+  },
+  "semantic": {
+   "acc": 94.0
+  },
+  "task": {
+   "acc": 23.0
+  },
+  "environment": {
+   "acc": 50.0
+  },
+  "original": {
+   "acc": 95.5
+  }
+ }
+}

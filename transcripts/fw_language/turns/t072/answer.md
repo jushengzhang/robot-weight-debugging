@@ -1,0 +1,4 @@
+I will probe the same four observations with the edited query scale and fixed diffusion noise. The expected causal signature is higher entropy specifically in layer 11 head 19, followed by a reduction in the action difference between equivalent instructions.
+```forward
+{"type":"probe","model":"edited","inputs":["/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_1/artifacts/libero_goal_v1470_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1484_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1275_s7_i0_orig_frames/t0000_inputs.pt","/mnt/SSD2_16TB/jusheng/wsp/runs/fw_language/work/fwd/roll_3/artifacts/libero_goal_v1269_s7_i0_orig_frames/t0000_inputs.pt"],"return":{"actions":true,"layers":[10,11,13,15],"what":"attn_maps","noise_seed":7}}
+```

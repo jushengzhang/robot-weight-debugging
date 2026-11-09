@@ -1,0 +1,140 @@
+{
+  "19": {
+    "summary": {
+      "requested": 128,
+      "valid": 116,
+      "missing": 12,
+      "original": 84,
+      "edited": 84,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0
+    },
+    "exposed": 0,
+    "actions_checked": 116,
+    "first5_exact": 116,
+    "entire_trajectory_exact": 113,
+    "discordances": []
+  },
+  "20": {
+    "summary": {
+      "requested": 128,
+      "valid": 127,
+      "missing": 1,
+      "original": 93,
+      "edited": 93,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0
+    },
+    "exposed": 0,
+    "actions_checked": 127,
+    "first5_exact": 127,
+    "entire_trajectory_exact": 118,
+    "discordances": []
+  },
+  "21": {
+    "summary": {
+      "requested": 128,
+      "valid": 122,
+      "missing": 6,
+      "original": 111,
+      "edited": 110,
+      "gain_pp": -0.82,
+      "se_pp": 1.424,
+      "rescues": 1,
+      "regressions": 2
+    },
+    "exposed": 0,
+    "actions_checked": 122,
+    "first5_exact": 103,
+    "entire_trajectory_exact": 78,
+    "discordances": [
+      [
+        "libero_goal",
+        2490,
+        -1,
+        "success",
+        "max_steps"
+      ],
+      [
+        "libero_10",
+        2372,
+        -1,
+        "success",
+        "max_steps"
+      ],
+      [
+        "libero_spatial",
+        2242,
+        1,
+        "max_steps",
+        "success"
+      ]
+    ]
+  },
+  "22": {
+    "summary": {
+      "requested": 128,
+      "valid": 124,
+      "missing": 4,
+      "original": 116,
+      "edited": 116,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0
+    },
+    "exposed": 0,
+    "actions_checked": 124,
+    "first5_exact": 124,
+    "entire_trajectory_exact": 120,
+    "discordances": []
+  },
+  "23": {
+    "summary": {
+      "requested": 128,
+      "valid": 127,
+      "missing": 1,
+      "original": 113,
+      "edited": 113,
+      "gain_pp": 0.0,
+      "se_pp": 0.0,
+      "rescues": 0,
+      "regressions": 0
+    },
+    "exposed": 0,
+    "actions_checked": 127,
+    "first5_exact": 127,
+    "entire_trajectory_exact": 122,
+    "discordances": []
+  },
+  "24": {
+    "summary": {
+      "requested": 128,
+      "valid": 128,
+      "missing": 0,
+      "original": 108,
+      "edited": 109,
+      "gain_pp": 0.781,
+      "se_pp": 0.781,
+      "rescues": 1,
+      "regressions": 0
+    },
+    "exposed": 0,
+    "actions_checked": 128,
+    "first5_exact": 128,
+    "entire_trajectory_exact": 123,
+    "discordances": [
+      [
+        "libero_spatial",
+        1952,
+        1,
+        "max_steps",
+        "success"
+      ]
+    ]
+  }
+}

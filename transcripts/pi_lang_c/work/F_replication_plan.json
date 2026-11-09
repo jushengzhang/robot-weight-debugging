@@ -1,0 +1,20 @@
+{
+  "candidate": "frozen_F",
+  "variant_lists": [
+    "confirm_2_episodes.json",
+    "confirm_3_episodes.json",
+    "confirm_4_episodes.json",
+    "confirm_5_episodes.json"
+  ],
+  "new_seeds": [
+    3101,
+    6203
+  ],
+  "analysis": "paired differences; cluster standard errors by (suite,id) across seeds",
+  "planned_passes": {
+    "35-38": "460 reserved variants, seed3101",
+    "39-42": "same460 reserved variants, seed6203",
+    "43-48": "128 additional paired episodes per non-language category",
+    "49-50": "fixed-input safety and mechanism probes"
+  }
+}

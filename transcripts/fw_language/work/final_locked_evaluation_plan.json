@@ -1,0 +1,2506 @@
+{
+  "candidate": {
+    "label": "action_L11H5_cross_O_mode_retention0.5",
+    "name": "mot.mixtures.action.blocks.11.cross_attn.o.weight",
+    "head": 5,
+    "layer": 11,
+    "mode_retention": 0.5,
+    "changed_values": 131072,
+    "relative_delta": 0.026327267289161682,
+    "contrast_energy_fraction": 0.5934874415397644,
+    "contrast_equal_pair_fraction": 0.19271568953990936
+  },
+  "no_further_tuning": true,
+  "language": [
+    {
+      "stage": "untouched_variants_seed7",
+      "batches": [
+        [
+          {
+            "suite": "libero_10",
+            "id": 1159,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1385,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1382,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1058,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1154,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1175,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1247,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1217,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1091,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1143,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1171,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1156,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1467,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1331,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1340,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1232,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1243,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1381,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1437,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1096,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1198,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1258,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1473,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1308,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1147,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1133,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1349,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1127,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1163,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1503,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1177,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1110,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1113,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1142,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1243,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1479,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1419,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1306,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1343,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1147,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1370,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1170,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1352,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1218,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1119,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1272,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1239,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1463,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1125,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1023,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1318,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1089,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1137,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1340,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1443,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1203,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1057,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1411,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1102,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1287,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1366,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1472,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1264,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1118,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1376,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1139,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1123,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1400,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1119,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1192,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1169,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1360,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1245,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1175,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1144,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1418,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1001,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1307,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1049,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1283,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1466,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1363,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1223,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1491,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1442,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1388,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1224,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1312,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1201,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1365,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1322,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1132,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1299,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1195,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1245,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1250,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1106,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1367,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1191,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1188,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1481,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1055,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1071,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1143,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1369,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1150,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1339,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1123,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1317,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1154,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1249,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1275,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1234,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1376,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1290,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1283,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1366,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1423,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1222,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1396,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1127,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1301,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1365,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1224,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1054,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1402,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1120,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1233,
+            "seed": 7
+          }
+        ],
+        [
+          {
+            "suite": "libero_10",
+            "id": 1280,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1327,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1137,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1191,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1414,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1314,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1167,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1284,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1044,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1068,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1162,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1436,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1472,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 990,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1127,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1252,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1302,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1298,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1111,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1309,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1181,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1362,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1345,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1385,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1092,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1181,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1160,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1253,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1416,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1117,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1173,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1435,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1029,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1084,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1088,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1146,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1440,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1081,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1208,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1316,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1161,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1444,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1115,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1149,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1372,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1394,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1305,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1151,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1314,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1311,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1186,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1157,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1124,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1100,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1098,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1067,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1420,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1494,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1304,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1239,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1318,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1101,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1116,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1238,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1186,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1476,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1211,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1216,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1156,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1225,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1463,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1353,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1048,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1301,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1215,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1192,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1430,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1339,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1157,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1185,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1107,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1263,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1372,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1108,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1279,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1377,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1121,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1384,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1066,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1232,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1219,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1140,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1174,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1046,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1454,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1186,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1164,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1447,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1182,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1259,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1353,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1019,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1065,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1172,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1380,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1483,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1276,
+            "seed": 7
+          },
+          {
+            "suite": "libero_object",
+            "id": 1269,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1170,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1390,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1263,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1102,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1085,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1223,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1298,
+            "seed": 7
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1326,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1413,
+            "seed": 7
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1487,
+            "seed": 7
+          },
+          {
+            "suite": "libero_10",
+            "id": 1158,
+            "seed": 7
+          }
+        ]
+      ]
+    },
+    {
+      "stage": "seed_replication19",
+      "batches": [
+        [
+          {
+            "suite": "libero_10",
+            "id": 1159,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1385,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1382,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1058,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1154,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1175,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1247,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1217,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1091,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1143,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1171,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1156,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1467,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1331,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1340,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1232,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1243,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1381,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1437,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1096,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1198,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1258,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1473,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1308,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1147,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1133,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1349,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1127,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1163,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1503,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1177,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1110,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1113,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1142,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1243,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1479,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1419,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1306,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1343,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1147,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1370,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1170,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1352,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1218,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1119,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1272,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1239,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1463,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1125,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1023,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1318,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1089,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1137,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1340,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1443,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1203,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1057,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1411,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1102,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1287,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1366,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1472,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1264,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1118,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1376,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1139,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1123,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1400,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1119,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1192,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1169,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1360,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1245,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1175,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1144,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1418,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1001,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1307,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1049,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1283,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1466,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1363,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1223,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1491,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1442,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1388,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1224,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1312,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1201,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1365,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1322,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1132,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1299,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1195,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1245,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1250,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1106,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1367,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1191,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1188,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1481,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1055,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1071,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1143,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1369,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1150,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1339,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1123,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1317,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1154,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1249,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1275,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1234,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1376,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1290,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1283,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1366,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1423,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1222,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1396,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1127,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1301,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1365,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1224,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1054,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1402,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1120,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1233,
+            "seed": 19
+          }
+        ],
+        [
+          {
+            "suite": "libero_10",
+            "id": 1280,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1327,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1137,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1191,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1414,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1314,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1167,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1284,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1044,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1068,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1162,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1436,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1472,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 990,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1127,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1252,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1302,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1298,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1111,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1309,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1181,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1362,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1345,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1385,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1092,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1181,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1160,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1253,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1416,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1117,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1173,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1435,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1029,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1084,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1088,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1146,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1440,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1081,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1208,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1316,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1161,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1444,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1115,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1149,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1372,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1394,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1305,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1151,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1314,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1311,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1186,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1157,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1124,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1100,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1098,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1067,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1420,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1494,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1304,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1239,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1318,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1101,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1116,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1238,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1186,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1476,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1211,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1216,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1156,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1225,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1463,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1353,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1048,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1301,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1215,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1192,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1430,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1339,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1157,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1185,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1107,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1263,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1372,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1108,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1279,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1377,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1121,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1384,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1066,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1232,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1219,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1140,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1174,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1046,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1454,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1186,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1164,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1447,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1182,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1259,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1353,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1019,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1065,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1172,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1380,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1483,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1276,
+            "seed": 19
+          },
+          {
+            "suite": "libero_object",
+            "id": 1269,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1170,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1390,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1263,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1102,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1085,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1223,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1298,
+            "seed": 19
+          },
+          {
+            "suite": "libero_spatial",
+            "id": 1326,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1413,
+            "seed": 19
+          },
+          {
+            "suite": "libero_goal",
+            "id": 1487,
+            "seed": 19
+          },
+          {
+            "suite": "libero_10",
+            "id": 1158,
+            "seed": 19
+          }
+        ]
+      ]
+    }
+  ],
+  "safety_plan": "256 unique practice variants per non-language category, paired; two disjoint batches of 128 each",
+  "retention_rule": "Independent language gain > 2 paired SE, with replication clustered by variant; no material non-language harm. Otherwise restore original. Do not tune on these results."
+}

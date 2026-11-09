@@ -1,0 +1,121 @@
+[
+  {
+    "source": "basin",
+    "target": "bowl",
+    "source_id": 31725,
+    "target_id": 14581,
+    "alpha": 1.0
+  },
+  {
+    "source": "cupboard",
+    "target": "cabinet",
+    "source_id": 82203,
+    "target_id": 22402,
+    "alpha": 1.0
+  },
+  {
+    "source": "cooker",
+    "target": "stove",
+    "source_id": 65931,
+    "target_id": 37932,
+    "alpha": 1.0
+  },
+  {
+    "source": "forefront",
+    "target": "front",
+    "source_id": 80792,
+    "target_id": 4059,
+    "alpha": 1.0
+  },
+  {
+    "source": "central",
+    "target": "middle",
+    "source_id": 7233,
+    "target_id": 7185,
+    "alpha": 1.0
+  },
+  {
+    "source": "midpoint",
+    "target": "middle",
+    "source_id": 122442,
+    "target_id": 7185,
+    "alpha": 1.0
+  },
+  {
+    "source": "framework",
+    "target": "rack",
+    "source_id": 15087,
+    "target_id": 23409,
+    "alpha": 1.0
+  },
+  {
+    "source": "rounded",
+    "target": "bowl",
+    "source_id": 26836,
+    "target_id": 14581,
+    "alpha": 1.0
+  },
+  {
+    "source": "flat",
+    "target": "plate",
+    "source_id": 6985,
+    "target_id": 8811,
+    "alpha": 1.0
+  },
+  {
+    "source": "furniture",
+    "target": "cabinet",
+    "source_id": 16241,
+    "target_id": 22402,
+    "alpha": 1.0
+  },
+  {
+    "source": "fermented",
+    "target": "wine",
+    "source_id": 118891,
+    "target_id": 10058,
+    "alpha": 1.0
+  },
+  {
+    "source": "grape",
+    "target": "wine",
+    "source_id": 42226,
+    "target_id": 10058,
+    "alpha": 1.0
+  },
+  {
+    "source": "grapes",
+    "target": "wine",
+    "source_id": 50161,
+    "target_id": 10058,
+    "alpha": 1.0
+  },
+  {
+    "source": "alcoholic",
+    "target": "wine",
+    "source_id": 52986,
+    "target_id": 10058,
+    "alpha": 1.0
+  },
+  {
+    "source": "dairy",
+    "target": "cheese",
+    "source_id": 31062,
+    "target_id": 13624,
+    "alpha": 1.0
+  },
+  {
+    "source": "citrus",
+    "target": "orange",
+    "source_id": 57321,
+    "target_id": 10436,
+    "alpha": 1.0
+  },
+  {
+    "source": "woven",
+    "target": "basket",
+    "source_id": 42856,
+    "target_id": 12220,
+    "alpha": 1.0
+  }
+]

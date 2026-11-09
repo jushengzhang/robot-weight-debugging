@@ -1,0 +1,37 @@
+{
+  "episodes": [
+    {
+      "suite": "libero_goal",
+      "id": 919,
+      "seed": 7
+    },
+    {
+      "suite": "libero_10",
+      "id": 1079,
+      "seed": 7
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 850,
+      "seed": 7
+    }
+  ],
+  "language_slots_replaced_by_position_not_outcome": [
+    {
+      "suite": "libero_object",
+      "id": 1191,
+      "seed": 73
+    },
+    {
+      "suite": "libero_spatial",
+      "id": 1076,
+      "seed": 73
+    },
+    {
+      "suite": "libero_goal",
+      "id": 1232,
+      "seed": 73
+    }
+  ],
+  "reason": "Retry all infrastructure-error camera pairs; preserve raw statistics separately"
+}

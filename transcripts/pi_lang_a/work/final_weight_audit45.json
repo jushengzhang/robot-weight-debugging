@@ -1,0 +1,33 @@
+{
+  "edited_tensor": "paligemma_with_expert.paligemma.model.language_model.embed_tokens.weight",
+  "shape": [
+    257152,
+    2048
+  ],
+  "changed_rows": [
+    6985,
+    7190,
+    7233,
+    8151,
+    15087,
+    16241,
+    26836,
+    31725,
+    42226,
+    42856,
+    50161,
+    52986,
+    57321,
+    65931,
+    80792,
+    82203,
+    118891,
+    122442
+  ],
+  "changed_scalar_values_at_bf16": 36764,
+  "all_18_rows_equal_original_donor_rows_at_bf16": true,
+  "canonical_instruction_count": 48,
+  "protected_token_count": 75,
+  "protected_token_overlap": 0,
+  "changed_rows_sha256": "c8fbbb500e340107031f0a3582cb90976128fa7de261347d92bdeae244ffe97e"
+}

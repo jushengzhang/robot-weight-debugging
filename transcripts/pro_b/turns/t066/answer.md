@@ -1,0 +1,4 @@
+I will compare attention maps at layers 13, 14, 16, and 17 under the noun swap, using two initial observations and two later observations. Heads that redirect between visual regions when only object words change are candidates for the instruction-to-object binding circuit.
+```forward
+{"type":"probe","model":"both","inputs":["/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_task_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_task_2_i1_s17_orig_frames/t0050_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_semantic_2_i1_s17_orig_frames/t0000_inputs.pt","/mnt/SSD_16TB/jusheng/wsp_pi05/runs_pro/pro_b/work/fwd/roll_1/artifacts/libero_object_semantic_2_i1_s17_orig_frames/t0050_inputs.pt"],"return":{"layers":[13,14,16,17],"what":"attn_maps"}}
+```

@@ -1,0 +1,22 @@
+{
+  "H15": {
+    "n": 254,
+    "original": 133,
+    "edited": 133,
+    "diff_pp": 0.0,
+    "se_pp": 1.85,
+    "rescues": 11,
+    "regressions": 11
+  },
+  "I065": {
+    "n": 254,
+    "original": 133,
+    "edited": 133,
+    "diff_pp": 0.0,
+    "se_pp": 1.933,
+    "rescues": 12,
+    "regressions": 12
+  },
+  "retained_candidate": null,
+  "reason": "Neither fixed candidate has a pooled independent-validation gain."
+}

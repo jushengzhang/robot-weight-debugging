@@ -1,0 +1,12 @@
+{
+  "name": "single_selective_context_attention_gate",
+  "threshold": 1.0,
+  "strength": 6.0,
+  "detector_gain": 32.0,
+  "key_gain": 64.0,
+  "experts": [
+    "action",
+    "video"
+  ],
+  "edited_count": 308
+}

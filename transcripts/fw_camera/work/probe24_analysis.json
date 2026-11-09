@@ -1,0 +1,34 @@
+{
+  "action": {
+    "original_pair_xyz_rms": 0.07121815532445908,
+    "edited_pair_xyz_rms": 0.07026716321706772,
+    "relative_pct": -1.3353228569030762,
+    "pairs_improved": 13,
+    "xyz_edit_rms_mild_severe_light": [
+      0.002288386458531022,
+      0.004673936869949102,
+      0.0016817270079627633
+    ],
+    "gripper_sign_disagreement": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "action_norm": {
+    "original_pair_xyz_rms": 0.07596604526042938,
+    "edited_pair_xyz_rms": 0.0749516487121582,
+    "relative_pct": -1.3353288173675537,
+    "pairs_improved": 13,
+    "xyz_edit_rms_mild_severe_light": [
+      0.0024409457109868526,
+      0.0049855331890285015,
+      0.0017938421806320548
+    ],
+    "gripper_sign_disagreement": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "candidate": "frozen_early_video_gate",
+  "raw_splits": [
+    "tag_validation_0",
+    "tag_validation_1",
+    "tag_validation_2",
+    "tag_validation_3",
+    "tag_validation_4",
+    "tag_validation_5"
+  ],
+  "strip_splits": [
+    "tag_validation_0",
+    "tag_validation_1",
+    "tag_validation_2",
+    "tag_validation_3",
+    "tag_validation_4"
+  ],
+  "language_splits": [
+    "language_validation_0",
+    "language_validation_1",
+    "language_validation_2",
+    "language_validation_3"
+  ],
+  "retain_rule": "positive tagged 95% paired CI; clean and language losses each no worse than 2pp"
+}

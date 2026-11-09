@@ -1,0 +1,13 @@
+{
+ "turn": 147,
+ "passes_used": 50,
+ "python_runs": 90,
+ "prev_id": "resp_070a97ac098bb8ec006aec28e6b87c87d180220cd534f62080",
+ "conv_turns": 27,
+ "handoffs": 3,
+ "done": true,
+ "budget": 50,
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "final_code_runs": 1
+}

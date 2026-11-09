@@ -1,0 +1,11 @@
+{
+  "label": "action_L11H5_cross_O_mode_retention0.5",
+  "name": "mot.mixtures.action.blocks.11.cross_attn.o.weight",
+  "head": 5,
+  "layer": 11,
+  "mode_retention": 0.5,
+  "changed_values": 131072,
+  "relative_delta": 0.026327267289161682,
+  "contrast_energy_fraction": 0.5934874415397644,
+  "contrast_equal_pair_fraction": 0.19271568953990936
+}

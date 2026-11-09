@@ -1,0 +1,12 @@
+{
+  "kind": "hybrid_oblique_suffix_gate",
+  "rank": 256,
+  "dose": 0.5,
+  "threshold": 0.5,
+  "gain": 128.0,
+  "strength": 6.0,
+  "experts": [
+    "action",
+    "video"
+  ]
+}

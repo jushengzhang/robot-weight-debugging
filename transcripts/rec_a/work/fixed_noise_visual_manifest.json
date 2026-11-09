@@ -1,0 +1,386 @@
+[
+  {
+    "id": 628,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s628_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s628_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 628,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s628_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s628_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L1"
+  },
+  {
+    "id": 803,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s803_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s803_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 803,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s803_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s803_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L1"
+  },
+  {
+    "id": 823,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s823_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s823_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 823,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s823_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s823_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 833,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s833_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s833_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 833,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s833_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s833_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 844,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s844_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s844_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 844,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s844_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s844_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 846,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s846_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s846_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 846,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s846_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s846_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L1"
+  },
+  {
+    "id": 145,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s145_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s145_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L2"
+  },
+  {
+    "id": 145,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s145_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s145_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L2"
+  },
+  {
+    "id": 169,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s169_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s169_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L2"
+  },
+  {
+    "id": 169,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s169_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s169_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L2"
+  },
+  {
+    "id": 344,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s344_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s344_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L2"
+  },
+  {
+    "id": 344,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s344_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s344_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L2"
+  },
+  {
+    "id": 371,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s371_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s371_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L2"
+  },
+  {
+    "id": 371,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s371_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s371_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L2"
+  },
+  {
+    "id": 495,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s495_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s495_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L2"
+  },
+  {
+    "id": 495,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s495_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s495_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L2"
+  },
+  {
+    "id": 587,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s587_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s587_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L2"
+  },
+  {
+    "id": 587,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s587_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s587_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L2"
+  },
+  {
+    "id": 241,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s241_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s241_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L3"
+  },
+  {
+    "id": 241,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s241_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s241_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L3"
+  },
+  {
+    "id": 342,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s342_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s342_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L3"
+  },
+  {
+    "id": 342,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s342_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s342_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L3"
+  },
+  {
+    "id": 367,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s367_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s367_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L3"
+  },
+  {
+    "id": 367,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s367_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s367_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L3"
+  },
+  {
+    "id": 457,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s457_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s457_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L3"
+  },
+  {
+    "id": 457,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s457_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s457_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L3"
+  },
+  {
+    "id": 490,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s490_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s490_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L3"
+  },
+  {
+    "id": 490,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s490_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s490_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L3"
+  },
+  {
+    "id": 530,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s530_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s530_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L3"
+  },
+  {
+    "id": 530,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s530_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s530_close_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L3"
+  },
+  {
+    "id": 3,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s3_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s3_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L4"
+  },
+  {
+    "id": 3,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s3_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s3_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 4,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s4_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s4_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 4,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s4_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s4_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 6,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s6_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s6_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 6,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s6_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s6_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 11,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s11_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s11_open_seed17_original/t0000_inputs.pt",
+    "success": true,
+    "level": "L4"
+  },
+  {
+    "id": 11,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s11_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s11_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 15,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s15_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s15_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 15,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s15_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s15_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 33,
+    "grip": "open",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s33_open.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s33_open_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  },
+  {
+    "id": 33,
+    "grip": "close",
+    "input": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/fixed_noise_visual_probe/s33_close.pt",
+    "source": "/mnt/SSD_16TB/jusheng/wsp_pi05/runs_recover/rec_a/work/roll_1_frames/s33_close_seed17_original/t0000_inputs.pt",
+    "success": false,
+    "level": "L4"
+  }
+]

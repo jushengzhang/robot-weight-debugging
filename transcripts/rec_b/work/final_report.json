@@ -1,0 +1,51 @@
+{
+  "decision": "original_checkpoint_no_edits",
+  "reason": "Neither frozen candidate improved pooled independent validation.",
+  "edited_tensors": [],
+  "forward_passes_used": 50,
+  "H15": {
+    "pooled_validation": {
+      "n": 254,
+      "original": 133,
+      "edited": 133,
+      "diff_pp": 0.0,
+      "se_pp": 1.85,
+      "rescues": 11,
+      "regressions": 11
+    },
+    "prefail_preservation": {
+      "n": 96,
+      "original": 86,
+      "edited": 87,
+      "diff_pp": 1.042,
+      "se_pp": 2.339,
+      "rescues": 3,
+      "regressions": 2
+    }
+  },
+  "I065": {
+    "pooled_validation": {
+      "n": 254,
+      "original": 133,
+      "edited": 133,
+      "diff_pp": 0.0,
+      "se_pp": 1.933,
+      "rescues": 12,
+      "regressions": 12
+    },
+    "prefail_preservation": {
+      "n": 96,
+      "original": 86,
+      "edited": 86,
+      "diff_pp": 0.0,
+      "se_pp": 2.565,
+      "rescues": 3,
+      "regressions": 3
+    }
+  },
+  "limitations": [
+    "No validated recovery improvement was established.",
+    "Pre-fail preservation is not an ordinary-LIBERO evaluation.",
+    "Final four-input routing audits are mechanistic checks, not efficacy estimates."
+  ]
+}
