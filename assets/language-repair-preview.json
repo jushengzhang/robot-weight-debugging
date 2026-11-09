@@ -1,0 +1,18 @@
+{
+  "suite": "libero_goal",
+  "variant_id": 1174,
+  "seed": 7,
+  "init_idx": 0,
+  "instruction": "position the glass container of fermented grapes atop the storage unit for dishes and utensils",
+  "selection": "Illustrative original-failure / edited-success pair; not a random sample",
+  "source_video_fps": 10,
+  "source_policy_steps_per_frame": 2,
+  "preview_fps": 5,
+  "shorter_video": "Held at its actual terminal frame",
+  "original_steps": 300,
+  "edited_steps": 85,
+  "sources": {
+    "libero_goal_v1174_s7_i0_orig_fail.mp4": "88b4378fbb5d4500cdf82b6a353b064d286bf2751b1e7ba961135d1375ff0b6a",
+    "libero_goal_v1174_s7_i0_edit_succ.mp4": "f7399df220e3d570e637933a5e07e8e9ff6e5ce138bd350a9d25e733f9d8dd78"
+  }
+}
